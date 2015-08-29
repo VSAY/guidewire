@@ -1,0 +1,2 @@
+SourceSystem|~|Entity|~|ExtFilename|~|FromDate|~|ToDate|~|row_count_ctl|~|amt_ctl_01|~|amt_ctl_02|~|amt_ctl_03|~|amt_ctl_04|~|amt_ctl_05|~|amt_ctl_06|~|amt_ctl_07|~|amt_ctl_08|~|amt_ctl_09|~|amt_ctl_10|~|amt_ctl_11|~|amt_ctl_12
+GWCC|~|Claim|~|GWCC_Claim_Ext_19000101_000000-20141231_235959.txt|~|1900.01.01 00:00:00.000000000|~|2014.12.31 23:59:59.000000000|~|33448|~|0.00|~|0.00|~|0.00|~|0.00|~|0.00|~|0.00|~|0.00|~|0.00|~|0.00|~|0.00|~|0.00|~|0.00

@@ -1,0 +1,2385 @@
+REF_ENTITY_TYPE_CD|~|REF_SOURCE_SYSTEM|~|REF_CD|~|SHORT_TEXT|~|LONG_TEXT
+addl_intrst_type|~|MSTR_REF|~|CERTHOLDER|~|Certificate Holder|~|Certificate Holder
+addl_intrst_type|~|MSTR_REF|~|CONSALE|~|Contract of Sale|~|Contract of Sale
+addl_intrst_type|~|MSTR_REF|~|LENDLOSS|~|Lenders Loss Payable|~|Lenders Loss Payable
+addl_intrst_type|~|MSTR_REF|~|LESSOR|~|Lessor|~|Lessor
+addl_intrst_type|~|MSTR_REF|~|LIEN|~|Lienholder|~|Lienholder
+addl_intrst_type|~|MSTR_REF|~|LOSSP|~|Loss Payee|~|Loss Payee
+addl_intrst_type|~|MSTR_REF|~|LOSSPAY|~|Loss Payable|~|Loss Payable
+addl_intrst_type|~|MSTR_REF|~|UNK|~|Unknown|~|Unknown Additional Interest Type
+bill_method|~|MSTR_REF|~|AgencyBill|~|Agency Bill|~|Agency Bill; PolicyPeriod is paid by the producer associated with this PolicyPeriod's primary earning Producer Code by default.
+bill_method|~|MSTR_REF|~|DirectBill|~|Direct Bill|~|Direct Billing; PolicyPeriod is paid by the owning account by default.
+bill_method|~|MSTR_REF|~|LEGACY_BILL_METH_CD|~|Legacy BLM|~|Legacy Bill Method
+bill_method|~|MSTR_REF|~|ListBill|~|List Bill|~|List Bill; PolicyPeriod is paid by an overriding payer List-Bill Account by default.
+bill_method|~|MSTR_REF|~|UNK|~|Unknown|~|Unknown Bill Method
+body_type|~|MSTR_REF|~|atv|~|ATV|~|All Terrain Vehicle
+body_type|~|MSTR_REF|~|bus|~|Bus|~|Bus
+body_type|~|MSTR_REF|~|convertible|~|Convertible|~|Convertible
+body_type|~|MSTR_REF|~|coupe|~|Coupe|~|Coupe
+body_type|~|MSTR_REF|~|fourdoor|~|Four-door sedan|~|Four-door sedan
+body_type|~|MSTR_REF|~|motorcycle|~|Motorcycle|~|Motorcycle
+body_type|~|MSTR_REF|~|pickup|~|Pickup truck|~|Pickup truck
+body_type|~|MSTR_REF|~|rv|~|RV/Motor Home|~|RV/Motor Home
+body_type|~|MSTR_REF|~|snowmobile|~|Snowmobile|~|Snowmobile
+body_type|~|MSTR_REF|~|suv|~|SUV|~|SUV
+body_type|~|MSTR_REF|~|tractor|~|Tractor|~|Tractor
+body_type|~|MSTR_REF|~|trailer|~|Trailer|~|Trailer
+body_type|~|MSTR_REF|~|truck|~|Truck|~|Truck
+body_type|~|MSTR_REF|~|twodoor|~|Two-door sedan|~|Two-door sedan
+body_type|~|MSTR_REF|~|UNK|~|Unknown|~|Unknown Body Type
+body_type|~|MSTR_REF|~|util-trailer|~|Utility trailer|~|Utility trailer
+body_type|~|MSTR_REF|~|van|~|Van|~|Van
+body_type|~|MSTR_REF|~|wagon|~|Station wagon|~|Station wagon
+burglar_alarm_type|~|MSTR_REF|~|central|~|Central Station|~|Central Station
+burglar_alarm_type|~|MSTR_REF|~|local|~|Local|~|Local
+burglar_alarm_type|~|MSTR_REF|~|police|~|Police Station|~|Police Station
+burglar_alarm_type|~|MSTR_REF|~|UNK|~|Unknown|~|Unknown Burglar Alarm Type
+catastrophe|~|MSTR_REF|~|CSS_CAT_001|~|CSS CAT 1|~|ClaimSS CAT 1
+catastrophe|~|MSTR_REF|~|CSS_CAT_002|~|CSS CAT 2|~|ClaimSS CAT 2
+catastrophe|~|MSTR_REF|~|CSS_CAT_003|~|CSS CAT 3|~|ClaimSS CAT 3
+catastrophe|~|MSTR_REF|~|LegacyCAT|~|Legacy CAT|~|Legacy CAT
+catastrophe|~|MSTR_REF|~|LegacyCAT1|~|Legacy CAT1|~|Legacy CAT1
+catastrophe|~|MSTR_REF|~|N/A|~|N/A|~|Not Applicable
+catastrophe|~|MSTR_REF|~|UNK|~|Unknown|~|Unknown Cat
+charge|~|MSTR_REF|~|CollateralFulfillment|~|Collateral Fulfillment|~|Collateral Fulfillment
+charge|~|MSTR_REF|~|CollateralReplenishment|~|Collateral Replenishment|~|Collateral Replenishment
+charge|~|MSTR_REF|~|CollateralRequirementFulfillment|~|Collateral Requirement Fulfillment|~|Collateral Requirement Fulfillment
+charge|~|MSTR_REF|~|InstallmentFee|~|Installment Fee|~|Installment Fee
+charge|~|MSTR_REF|~|InvoiceFee|~|Invoice Fee|~|Invoice Fee
+charge|~|MSTR_REF|~|LateFee|~|Late Fee|~|Late Fee
+charge|~|MSTR_REF|~|LEGACY_CG_CD|~|Legacy CG|~|Legacy Charge Name
+charge|~|MSTR_REF|~|PaymentReversalFee|~|Payment Reversal Fee|~|Payment Reversal Fee
+charge|~|MSTR_REF|~|PolicyLateFee|~|Policy Late Fee|~|Policy Late Fee
+charge|~|MSTR_REF|~|PolicyPaymentReversalFee|~|Policy Payment Reversal Fee|~|Policy Payment Reversal Fee
+charge|~|MSTR_REF|~|PolicyRecapture|~|Policy Recapture|~|Policy Recapture
+charge|~|MSTR_REF|~|Premium|~|Premium|~|Premium
+charge|~|MSTR_REF|~|Recapture|~|Recapture|~|Recapture
+charge|~|MSTR_REF|~|ReinstatementFee|~|Reinstatement Fee|~|Reinstatement Fee
+charge|~|MSTR_REF|~|Subrogation|~|Subrogation|~|Subrogation
+charge|~|MSTR_REF|~|Taxes|~|Taxes|~|Taxes
+charge|~|MSTR_REF|~|UNK|~|Unknown|~|Unknown Charge
+company|~|MSTR_REF|~|1111_11111|~|Acme Low Hazard|~|Acme Low Hazard Insurance
+company|~|MSTR_REF|~|2111_11111|~|Acme Medium Hazard|~|Acme Medium Hazard Insurance
+company|~|MSTR_REF|~|3111_33333|~|Acme High Hazard|~|Acme High Hazard Insurance
+company|~|MSTR_REF|~|4111_44444|~|Four Corners Low Hazard|~|Four Corners Low Hazard Casualty
+company|~|MSTR_REF|~|5666_55555|~|Four Corners Medium Hazard|~|Four Corners Medium Hazard Casualty
+company|~|MSTR_REF|~|6666_66666|~|Four Corners High Hazard|~|Four Corners High Hazard Casualty
+company|~|MSTR_REF|~|7777_12345|~|FifthWheel Low Hazard|~|FifthWheel Low Hazard Insurance
+company|~|MSTR_REF|~|7777_23211|~|FifthWheel Medium Hazard|~|FifthWheel Medium Hazard Insurance
+company|~|MSTR_REF|~|9000_00001|~|FifthWheel High Hazard|~|FifthWheel High Hazard Insurance
+company|~|MSTR_REF|~|highrisk|~|High Risk|~|High Risk
+company|~|MSTR_REF|~|LEGACY_CO_CD|~|Legacy Company|~|Legacy Company
+company|~|MSTR_REF|~|mainline|~|Mainline|~|Mainline
+company|~|MSTR_REF|~|preferred|~|Preferred|~|Preferred
+company|~|MSTR_REF|~|PSS_CO|~|PSS Company|~|PolicySS Company
+company|~|MSTR_REF|~|UNK|~|Unknown|~|Unknown Company
+constr_type|~|MSTR_REF|~|C|~|Concrete|~|Concrete
+constr_type|~|MSTR_REF|~|F|~|Frame|~|Frame
+constr_type|~|MSTR_REF|~|L|~|Log|~|Log
+constr_type|~|MSTR_REF|~|M|~|Masonry|~|Masonry
+constr_type|~|MSTR_REF|~|OTHER|~|Other|~|Other
+constr_type|~|MSTR_REF|~|S|~|Steel|~|Steel
+constr_type|~|MSTR_REF|~|UNK|~|Unknown|~|Unknown Construction Type
+country|~|MSTR_REF|~|AD|~|Andorra|~|Andorra
+country|~|MSTR_REF|~|AE|~|United Arab Emirates|~|United Arab Emirates
+country|~|MSTR_REF|~|AF|~|Afghanistan|~|Afghanistan
+country|~|MSTR_REF|~|AG|~|Antigua and Barbuda|~|Antigua and Barbuda
+country|~|MSTR_REF|~|AI|~|Anguilla|~|Anguilla
+country|~|MSTR_REF|~|AL|~|Albania|~|Albania
+country|~|MSTR_REF|~|AM|~|Armenia|~|Armenia
+country|~|MSTR_REF|~|AN|~|Netherlands Antilles|~|Netherlands Antilles
+country|~|MSTR_REF|~|AO|~|Angola|~|Angola
+country|~|MSTR_REF|~|AQ|~|Antarctica|~|Antarctica
+country|~|MSTR_REF|~|AR|~|Argentina|~|Argentina
+country|~|MSTR_REF|~|AS|~|American Samoa|~|American Samoa
+country|~|MSTR_REF|~|AT|~|Austria|~|Austria
+country|~|MSTR_REF|~|AU|~|Australia|~|Australia
+country|~|MSTR_REF|~|AW|~|Aruba|~|Aruba
+country|~|MSTR_REF|~|AZ|~|Azerbaijan|~|Azerbaijan
+country|~|MSTR_REF|~|BA|~|Bosnia and Herzegovina|~|Bosnia and Herzegovina
+country|~|MSTR_REF|~|BB|~|Barbados|~|Barbados
+country|~|MSTR_REF|~|BD|~|Bangladesh|~|Bangladesh
+country|~|MSTR_REF|~|BE|~|Belgium|~|Belgium
+country|~|MSTR_REF|~|BF|~|Burkina Faso|~|Burkina Faso
+country|~|MSTR_REF|~|BG|~|Bulgaria|~|Bulgaria
+country|~|MSTR_REF|~|BH|~|Bahrain|~|Bahrain
+country|~|MSTR_REF|~|BI|~|Burundi|~|Burundi
+country|~|MSTR_REF|~|BJ|~|Benin|~|Benin
+country|~|MSTR_REF|~|BL|~|Saint Barthelemy|~|Saint Barthelemy
+country|~|MSTR_REF|~|BM|~|Bermuda|~|Bermuda
+country|~|MSTR_REF|~|BN|~|Brunei|~|Brunei
+country|~|MSTR_REF|~|BO|~|Bolivia|~|Bolivia
+country|~|MSTR_REF|~|BR|~|Brazil|~|Brazil
+country|~|MSTR_REF|~|BS|~|Bahamas|~|Bahamas
+country|~|MSTR_REF|~|BT|~|Bhutan|~|Bhutan
+country|~|MSTR_REF|~|BV|~|Bouvet Island (Bouvetoya)|~|Bouvet Island (Bouvetoya)
+country|~|MSTR_REF|~|BW|~|Botswana|~|Botswana
+country|~|MSTR_REF|~|BY|~|Belarus|~|Belarus
+country|~|MSTR_REF|~|BZ|~|Belize|~|Belize
+country|~|MSTR_REF|~|CA|~|Canada|~|Canada
+country|~|MSTR_REF|~|CC|~|Cocos (Keeling) Islands|~|Cocos (Keeling) Islands
+country|~|MSTR_REF|~|CD|~|Congo - Kinshasa|~|Congo - Kinshasa
+country|~|MSTR_REF|~|CF|~|Central African Republic|~|Central African Republic
+country|~|MSTR_REF|~|CG|~|Congo - Brazzaville|~|Congo - Brazzaville
+country|~|MSTR_REF|~|CH|~|Switzerland|~|Switzerland
+country|~|MSTR_REF|~|CI|~|Ivory Coast|~|Ivory Coast
+country|~|MSTR_REF|~|CK|~|Cook Islands|~|Cook Islands
+country|~|MSTR_REF|~|CL|~|Chile|~|Chile
+country|~|MSTR_REF|~|CM|~|Cameroon|~|Cameroon
+country|~|MSTR_REF|~|CN|~|China|~|China
+country|~|MSTR_REF|~|CO|~|Colombia|~|Colombia
+country|~|MSTR_REF|~|CR|~|Costa Rica|~|Costa Rica
+country|~|MSTR_REF|~|CU|~|Cuba|~|Cuba
+country|~|MSTR_REF|~|CV|~|Cape Verde|~|Cape Verde
+country|~|MSTR_REF|~|CX|~|Christmas Island|~|Christmas Island
+country|~|MSTR_REF|~|CY|~|Cyprus|~|Cyprus
+country|~|MSTR_REF|~|CZ|~|Czech Republic|~|Czech Republic
+country|~|MSTR_REF|~|DE|~|Germany|~|Germany
+country|~|MSTR_REF|~|DJ|~|Djibouti|~|Djibouti
+country|~|MSTR_REF|~|DK|~|Denmark|~|Denmark
+country|~|MSTR_REF|~|DM|~|Dominica|~|Dominica
+country|~|MSTR_REF|~|DO|~|Dominican Republic|~|Dominican Republic
+country|~|MSTR_REF|~|DZ|~|Algeria|~|Algeria
+country|~|MSTR_REF|~|EC|~|Ecuador|~|Ecuador
+country|~|MSTR_REF|~|EE|~|Estonia|~|Estonia
+country|~|MSTR_REF|~|EG|~|Egypt|~|Egypt
+country|~|MSTR_REF|~|EH|~|Western Sahara|~|Western Sahara
+country|~|MSTR_REF|~|ER|~|Eritrea|~|Eritrea
+country|~|MSTR_REF|~|ES|~|Spain|~|Spain
+country|~|MSTR_REF|~|ET|~|Ethiopia|~|Ethiopia
+country|~|MSTR_REF|~|FI|~|Finland|~|Finland
+country|~|MSTR_REF|~|FJ|~|Fiji, Republic of the Fiji Islands|~|Fiji, Republic of the Fiji Islands
+country|~|MSTR_REF|~|FK|~|Falkland Islands (Malvinas)|~|Falkland Islands (Malvinas)
+country|~|MSTR_REF|~|FM|~|Micronesia, Federated States of|~|Micronesia, Federated States of
+country|~|MSTR_REF|~|FO|~|Faroe Islands|~|Faroe Islands
+country|~|MSTR_REF|~|FR|~|France|~|France
+country|~|MSTR_REF|~|GA|~|Gabon|~|Gabon
+country|~|MSTR_REF|~|GB|~|United Kingdom|~|United Kingdom
+country|~|MSTR_REF|~|GD|~|Grenada|~|Grenada
+country|~|MSTR_REF|~|GE|~|Georgia|~|Georgia
+country|~|MSTR_REF|~|GF|~|French Guiana|~|French Guiana
+country|~|MSTR_REF|~|GH|~|Ghana|~|Ghana
+country|~|MSTR_REF|~|GI|~|Gibraltar|~|Gibraltar
+country|~|MSTR_REF|~|GL|~|Greenland|~|Greenland
+country|~|MSTR_REF|~|GM|~|Gambia|~|Gambia
+country|~|MSTR_REF|~|GN|~|Guinea|~|Guinea
+country|~|MSTR_REF|~|GP|~|Guadeloupe|~|Guadeloupe
+country|~|MSTR_REF|~|GQ|~|Equatorial Guinea|~|Equatorial Guinea
+country|~|MSTR_REF|~|GR|~|Greece|~|Greece
+country|~|MSTR_REF|~|GS|~|South Georgia and the South Sandwich Islands|~|South Georgia and the South Sandwich Islands
+country|~|MSTR_REF|~|GT|~|Guatemala|~|Guatemala
+country|~|MSTR_REF|~|GU|~|Guam|~|Guam
+country|~|MSTR_REF|~|GW|~|Guinea-Bissau|~|Guinea-Bissau
+country|~|MSTR_REF|~|GY|~|Guyana|~|Guyana
+country|~|MSTR_REF|~|HK|~|Hong Kong SAR China|~|Hong Kong SAR China
+country|~|MSTR_REF|~|HM|~|Heard and McDonald Islands|~|Heard and McDonald Islands
+country|~|MSTR_REF|~|HN|~|Honduras|~|Honduras
+country|~|MSTR_REF|~|HR|~|Croatia|~|Croatia
+country|~|MSTR_REF|~|HT|~|Haiti|~|Haiti
+country|~|MSTR_REF|~|HU|~|Hungary|~|Hungary
+country|~|MSTR_REF|~|ID|~|Indonesia|~|Indonesia
+country|~|MSTR_REF|~|IE|~|Ireland|~|Ireland
+country|~|MSTR_REF|~|IL|~|Israel|~|Israel
+country|~|MSTR_REF|~|IN|~|India|~|India
+country|~|MSTR_REF|~|IO|~|British Indian Ocean Territory (Chagos Archipelago)|~|British Indian Ocean Territory (Chagos Archipelago)
+country|~|MSTR_REF|~|IQ|~|Iraq|~|Iraq
+country|~|MSTR_REF|~|IR|~|Iran|~|Iran
+country|~|MSTR_REF|~|IS|~|Iceland|~|Iceland
+country|~|MSTR_REF|~|IT|~|Italy|~|Italy
+country|~|MSTR_REF|~|JM|~|Jamaica|~|Jamaica
+country|~|MSTR_REF|~|JO|~|Jordan|~|Jordan
+country|~|MSTR_REF|~|JP|~|Japan|~|Japan
+country|~|MSTR_REF|~|KE|~|Kenya|~|Kenya
+country|~|MSTR_REF|~|KG|~|Kyrgyz Republic|~|Kyrgyz Republic
+country|~|MSTR_REF|~|KH|~|Cambodia|~|Cambodia
+country|~|MSTR_REF|~|KI|~|Kiribati|~|Kiribati
+country|~|MSTR_REF|~|KM|~|Comoros|~|Comoros
+country|~|MSTR_REF|~|KN|~|St. Kitts and Nevis|~|St. Kitts and Nevis
+country|~|MSTR_REF|~|KP|~|Korea, North|~|Korea, North
+country|~|MSTR_REF|~|KR|~|Korea, South|~|Korea, South
+country|~|MSTR_REF|~|KW|~|Kuwait|~|Kuwait
+country|~|MSTR_REF|~|KY|~|Cayman Islands|~|Cayman Islands
+country|~|MSTR_REF|~|KZ|~|Kazakhstan|~|Kazakhstan
+country|~|MSTR_REF|~|LA|~|Laos|~|Laos
+country|~|MSTR_REF|~|LB|~|Lebanon|~|Lebanon
+country|~|MSTR_REF|~|LC|~|St. Lucia|~|St. Lucia
+country|~|MSTR_REF|~|LI|~|Liechtenstein|~|Liechtenstein
+country|~|MSTR_REF|~|LK|~|Sri Lanka|~|Sri Lanka
+country|~|MSTR_REF|~|LR|~|Liberia|~|Liberia
+country|~|MSTR_REF|~|LS|~|Lesotho|~|Lesotho
+country|~|MSTR_REF|~|LT|~|Lithuania|~|Lithuania
+country|~|MSTR_REF|~|LU|~|Luxembourg|~|Luxembourg
+country|~|MSTR_REF|~|LV|~|Latvia|~|Latvia
+country|~|MSTR_REF|~|LY|~|Libya|~|Libya
+country|~|MSTR_REF|~|MA|~|Morocco|~|Morocco
+country|~|MSTR_REF|~|MC|~|Monaco|~|Monaco
+country|~|MSTR_REF|~|MD|~|Moldova|~|Moldova
+country|~|MSTR_REF|~|ME|~|Montenegro|~|Montenegro
+country|~|MSTR_REF|~|MF|~|Saint Martin|~|Saint Martin
+country|~|MSTR_REF|~|MG|~|Madagascar|~|Madagascar
+country|~|MSTR_REF|~|MH|~|Marshall Islands|~|Marshall Islands
+country|~|MSTR_REF|~|MK|~|Macedonia|~|Macedonia
+country|~|MSTR_REF|~|ML|~|Mali|~|Mali
+country|~|MSTR_REF|~|MM|~|Myanmar [Burma]|~|Myanmar [Burma]
+country|~|MSTR_REF|~|MN|~|Mongolia|~|Mongolia
+country|~|MSTR_REF|~|MO|~|Macau SAR China|~|Macau SAR China
+country|~|MSTR_REF|~|MP|~|Northern Mariana Islands|~|Northern Mariana Islands
+country|~|MSTR_REF|~|MQ|~|Martinique|~|Martinique
+country|~|MSTR_REF|~|MR|~|Mauritania|~|Mauritania
+country|~|MSTR_REF|~|MS|~|Montserrat|~|Montserrat
+country|~|MSTR_REF|~|MT|~|Malta|~|Malta
+country|~|MSTR_REF|~|MU|~|Mauritius|~|Mauritius
+country|~|MSTR_REF|~|MV|~|Maldives|~|Maldives
+country|~|MSTR_REF|~|MW|~|Malawi|~|Malawi
+country|~|MSTR_REF|~|MX|~|Mexico|~|Mexico
+country|~|MSTR_REF|~|MY|~|Malaysia|~|Malaysia
+country|~|MSTR_REF|~|MZ|~|Mozambique|~|Mozambique
+country|~|MSTR_REF|~|NA|~|Namibia|~|Namibia
+country|~|MSTR_REF|~|NC|~|New Caledonia|~|New Caledonia
+country|~|MSTR_REF|~|NE|~|Niger|~|Niger
+country|~|MSTR_REF|~|NF|~|Norfolk Island|~|Norfolk Island
+country|~|MSTR_REF|~|NG|~|Nigeria|~|Nigeria
+country|~|MSTR_REF|~|NI|~|Nicaragua|~|Nicaragua
+country|~|MSTR_REF|~|NL|~|Netherlands|~|Netherlands
+country|~|MSTR_REF|~|NO|~|Norway|~|Norway
+country|~|MSTR_REF|~|NP|~|Nepal|~|Nepal
+country|~|MSTR_REF|~|NR|~|Nauru|~|Nauru
+country|~|MSTR_REF|~|NU|~|Niue|~|Niue
+country|~|MSTR_REF|~|NZ|~|New Zealand|~|New Zealand
+country|~|MSTR_REF|~|OM|~|Oman|~|Oman
+country|~|MSTR_REF|~|PA|~|Panama|~|Panama
+country|~|MSTR_REF|~|PE|~|Peru|~|Peru
+country|~|MSTR_REF|~|PF|~|French Polynesia|~|French Polynesia
+country|~|MSTR_REF|~|PG|~|Papua New Guinea|~|Papua New Guinea
+country|~|MSTR_REF|~|PH|~|Philippines|~|Philippines
+country|~|MSTR_REF|~|PK|~|Pakistan|~|Pakistan
+country|~|MSTR_REF|~|PL|~|Poland|~|Poland
+country|~|MSTR_REF|~|PM|~|St. Pierre and Miquelon|~|St. Pierre and Miquelon
+country|~|MSTR_REF|~|PN|~|Pitcairn Island|~|Pitcairn Island
+country|~|MSTR_REF|~|PR|~|Puerto Rico|~|Puerto Rico
+country|~|MSTR_REF|~|PS|~|Palestinian Interim Self-Government Authority|~|Palestinian Interim Self-Government Authority
+country|~|MSTR_REF|~|PT|~|Portugal|~|Portugal
+country|~|MSTR_REF|~|PW|~|Palau|~|Palau
+country|~|MSTR_REF|~|PY|~|Paraguay|~|Paraguay
+country|~|MSTR_REF|~|QA|~|Qatar|~|Qatar
+country|~|MSTR_REF|~|RE|~|Reunion|~|Reunion
+country|~|MSTR_REF|~|RO|~|Romania|~|Romania
+country|~|MSTR_REF|~|RS|~|Serbia|~|Serbia
+country|~|MSTR_REF|~|RU|~|Russia|~|Russia
+country|~|MSTR_REF|~|RW|~|Rwanda|~|Rwanda
+country|~|MSTR_REF|~|SA|~|Saudi Arabia|~|Saudi Arabia
+country|~|MSTR_REF|~|SB|~|Solomon Islands|~|Solomon Islands
+country|~|MSTR_REF|~|SC|~|Seychelles|~|Seychelles
+country|~|MSTR_REF|~|SD|~|Sudan|~|Sudan
+country|~|MSTR_REF|~|SE|~|Sweden|~|Sweden
+country|~|MSTR_REF|~|SG|~|Singapore|~|Singapore
+country|~|MSTR_REF|~|SH|~|St. Helena|~|St. Helena
+country|~|MSTR_REF|~|SI|~|Slovenia|~|Slovenia
+country|~|MSTR_REF|~|SJ|~|Svalbard and Jan Mayen Islands|~|Svalbard and Jan Mayen Islands
+country|~|MSTR_REF|~|SK|~|Slovakia|~|Slovakia
+country|~|MSTR_REF|~|SL|~|Sierra Leone|~|Sierra Leone
+country|~|MSTR_REF|~|SM|~|San Marino|~|San Marino
+country|~|MSTR_REF|~|SN|~|Senegal|~|Senegal
+country|~|MSTR_REF|~|SO|~|Somalia|~|Somalia
+country|~|MSTR_REF|~|SR|~|Suriname|~|Suriname
+country|~|MSTR_REF|~|ST|~|Sao Tome and Principe|~|Sao Tome and Principe
+country|~|MSTR_REF|~|SV|~|El Salvador|~|El Salvador
+country|~|MSTR_REF|~|SY|~|Syria|~|Syria
+country|~|MSTR_REF|~|SZ|~|Swaziland|~|Swaziland
+country|~|MSTR_REF|~|TC|~|Turks and Caicos Islands|~|Turks and Caicos Islands
+country|~|MSTR_REF|~|TD|~|Chad|~|Chad
+country|~|MSTR_REF|~|TF|~|French Southern Territories|~|French Southern Territories
+country|~|MSTR_REF|~|TG|~|Togo|~|Togo
+country|~|MSTR_REF|~|TH|~|Thailand|~|Thailand
+country|~|MSTR_REF|~|TJ|~|Tajikistan|~|Tajikistan
+country|~|MSTR_REF|~|TK|~|Tokelau (Tokelau Islands)|~|Tokelau (Tokelau Islands)
+country|~|MSTR_REF|~|TL|~|Timor-Leste|~|Timor-Leste
+country|~|MSTR_REF|~|TM|~|Turkmenistan|~|Turkmenistan
+country|~|MSTR_REF|~|TN|~|Tunisia|~|Tunisia
+country|~|MSTR_REF|~|TO|~|Tonga|~|Tonga
+country|~|MSTR_REF|~|TR|~|Turkey|~|Turkey
+country|~|MSTR_REF|~|TT|~|Trinidad and Tobago|~|Trinidad and Tobago
+country|~|MSTR_REF|~|TV|~|Tuvalu|~|Tuvalu
+country|~|MSTR_REF|~|TW|~|Taiwan|~|Taiwan
+country|~|MSTR_REF|~|TZ|~|Tanzania|~|Tanzania
+country|~|MSTR_REF|~|UA|~|Ukraine|~|Ukraine
+country|~|MSTR_REF|~|UG|~|Uganda|~|Uganda
+country|~|MSTR_REF|~|UM|~|U.S. Minor Outlying Islands|~|U.S. Minor Outlying Islands
+country|~|MSTR_REF|~|UNK|~|Unknown|~|Unknown Country
+country|~|MSTR_REF|~|unknown|~|Unknown|~|Placeholder typecode for fields that should be populated with another Country
+country|~|MSTR_REF|~|US|~|United States|~|United States
+country|~|MSTR_REF|~|UY|~|Uruguay|~|Uruguay
+country|~|MSTR_REF|~|UZ|~|Uzbekistan|~|Uzbekistan
+country|~|MSTR_REF|~|VA|~|Vatican City|~|Vatican City
+country|~|MSTR_REF|~|VC|~|St. Vincent and the Grenadines|~|St. Vincent and the Grenadines
+country|~|MSTR_REF|~|VE|~|Venezuela|~|Venezuela
+country|~|MSTR_REF|~|VG|~|British Virgin Islands|~|British Virgin Islands
+country|~|MSTR_REF|~|VI|~|U.S. Virgin Islands|~|U.S. Virgin Islands
+country|~|MSTR_REF|~|VN|~|Vietnam|~|Vietnam
+country|~|MSTR_REF|~|VU|~|Vanuatu|~|Vanuatu
+country|~|MSTR_REF|~|WF|~|Wallis and Futuna Islands|~|Wallis and Futuna Islands
+country|~|MSTR_REF|~|WS|~|Samoa|~|Samoa
+country|~|MSTR_REF|~|YE|~|Yemen|~|Yemen
+country|~|MSTR_REF|~|YT|~|Mayotte|~|Mayotte
+country|~|MSTR_REF|~|ZA|~|South Africa|~|South Africa
+country|~|MSTR_REF|~|ZM|~|Zambia|~|Zambia
+country|~|MSTR_REF|~|ZW|~|Zimbabwe|~|Zimbabwe
+coverage|~|MSTR_REF|~|AccountsRecOffPremisesProperty|~|Accts Receivable - Off Premises Property|~|Accts Receivable - Off Premises Property
+coverage|~|MSTR_REF|~|BAAudVisDataEqip2Cov|~|Audio, Visual, Data Electronic Equipment- Stated Amt.|~|Audio, Visual, Data Electronic Equipment- Stated Amt.
+coverage|~|MSTR_REF|~|BABobtailLiabCov|~|Bobtail Liability|~|Bobtail Liability
+coverage|~|MSTR_REF|~|BACollisionCov|~|Collision|~|Collision
+coverage|~|MSTR_REF|~|BACollisionLimited_MAMI|~|Collision - Limited Coverage|~|Collision - Limited Coverage
+coverage|~|MSTR_REF|~|BAComprehensiveCov|~|Comprehensive|~|Comprehensive
+coverage|~|MSTR_REF|~|BADealerLimitLiabCov|~|Auto Dealer Limited Liability|~|Auto Dealer Limited Liability
+coverage|~|MSTR_REF|~|BADeathCov|~|Auto Death Benefit|~|Auto Death Benefit
+coverage|~|MSTR_REF|~|BADisabilityCov|~|Auto Disability Benefit|~|Auto Disability Benefit
+coverage|~|MSTR_REF|~|BADOCCollisionCov|~|Collision -DOC|~|Collision -DOC
+coverage|~|MSTR_REF|~|BADOCCompCov|~|Comprehensive - DOC|~|Comprehensive - DOC
+coverage|~|MSTR_REF|~|BADOCLiabilityCov|~|Liability - Bodily Injury and Property Damage - DOC|~|Liability - Bodily Injury and Property Damage - DOC
+coverage|~|MSTR_REF|~|BADOCMedPayCov|~|Medical Payments - DOC|~|Medical Payments - DOC
+coverage|~|MSTR_REF|~|BADOCUnderinsCov|~|Underinsured Motorist - DOC|~|Underinsured Motorist - DOC
+coverage|~|MSTR_REF|~|BADOCUninsuredCov|~|Uninsured Motorist - DOC|~|Uninsured Motorist - DOC
+coverage|~|MSTR_REF|~|BAFellowEmployeesCov|~|Fellow Employees|~|Fellow Employees
+coverage|~|MSTR_REF|~|baggage|~|Baggage|~|General coverage for baggage like suitcases, it's contents, personal property like electronics, wallet, passports etc
+coverage|~|MSTR_REF|~|BAHiredCollisionCov|~|Hired Auto Collision|~|Hired Auto Collision
+coverage|~|MSTR_REF|~|BAHiredCompCov|~|Hired Auto Comprehensive|~|Hired Auto Comprehensive
+coverage|~|MSTR_REF|~|BAHiredLiabilityCov|~|Hired Auto Liability|~|Hired Auto Liability
+coverage|~|MSTR_REF|~|BAHiredSpecPerilCov|~|Hired Auto Specified Causes of Loss|~|Hired Auto Specified Causes of Loss
+coverage|~|MSTR_REF|~|BAHiredUIMCov|~|Hired Auto Underinsured Motorist|~|Hired Auto Underinsured Motorist
+coverage|~|MSTR_REF|~|BAHiredUMCov|~|Hired Auto Uninsured Motorist|~|Hired Auto Uninsured Motorist
+coverage|~|MSTR_REF|~|BALimitedPropDamCov|~|Limited Property Damage|~|Limited Property Damage
+coverage|~|MSTR_REF|~|BALoanLeaseGapCov|~|Loan Lease Gap|~|Loan Lease Gap
+coverage|~|MSTR_REF|~|BALossOfUseCov|~|Loss of Use|~|Loss of Use
+coverage|~|MSTR_REF|~|BANonOwndSSExtendCov|~|Non-Owned Social Services Extended|~|Non-Owned Social Services Extended
+coverage|~|MSTR_REF|~|BANonownedLiabCov|~|Non-Owned Auto Liability|~|Non-Owned Auto Liability
+coverage|~|MSTR_REF|~|BAOwnedLiabilityCov|~|Liability|~|Liability
+coverage|~|MSTR_REF|~|BAOwnedMedPayCov|~|Medical Payments|~|Medical Payments
+coverage|~|MSTR_REF|~|BAOwnedUIMBICov|~|Underinsured Motorist - Bodily Injury|~|Underinsured Motorist - Bodily Injury
+coverage|~|MSTR_REF|~|BAOwnedUIMPDCov|~|Underinsured Motorist - Property Damage|~|Underinsured Motorist - Property Damage
+coverage|~|MSTR_REF|~|BAOwnedUMBICov|~|Uninsured Motorist - Bodily Injury|~|Uninsured Motorist - Bodily Injury
+coverage|~|MSTR_REF|~|BAOwnedUMBISuppCov|~|Uninsured Motorist - Supplemental BI|~|Uninsured Motorist - Supplemental BI
+coverage|~|MSTR_REF|~|BAOwnedUMPDCov|~|Uninsured Motorist - Property Damage|~|Uninsured Motorist - Property Damage
+coverage|~|MSTR_REF|~|BAPollutLiabBasicCov|~|Pollution Liability Basic|~|Pollution Liability Basic
+coverage|~|MSTR_REF|~|BAPollutLiabBoardCov|~|Pollution Liability Broad|~|Pollution Liability Broad
+coverage|~|MSTR_REF|~|BAPropProtectionCov|~|Property Protection Insurance|~|Property Protection Insurance
+coverage|~|MSTR_REF|~|BARentalCov|~|Rental Reimbursement|~|Rental Reimbursement
+coverage|~|MSTR_REF|~|BASeasonTrailerLiabCov|~|Seasonal Trailer Liability|~|Seasonal Trailer Liability
+coverage|~|MSTR_REF|~|BASpecCausesLossCov|~|Specified Causes of Loss|~|Specified Causes of Loss
+coverage|~|MSTR_REF|~|BATapeDiscRecordCov|~|Tape Disc Record|~|Tape Disc Record
+coverage|~|MSTR_REF|~|BATowingLaborCov|~|Towing and Labor|~|Towing and Labor
+coverage|~|MSTR_REF|~|BOPAdditionalCov|~|Special Coverage Packages|~|Special Coverage Packages
+coverage|~|MSTR_REF|~|BOPAggLimitProjCov|~|Aggregate Limits of Insurance - Projects|~|Aggregate Limits of Insurance - Projects
+coverage|~|MSTR_REF|~|BOPAlaskaAFGLCov|~|AK - Attorney Fees - GL|~|AK - Attorney Fees - GL
+coverage|~|MSTR_REF|~|BOPBarberCov|~|Barber/Beautician Liability|~|Barber/Beautician Liability
+coverage|~|MSTR_REF|~|BOPBuildingCov|~|Building|~|Building
+coverage|~|MSTR_REF|~|BOPBurgRobCov|~|Burglary and Robbery|~|Burglary and Robbery
+coverage|~|MSTR_REF|~|BOPBusIncDepPrpCov|~|Business Income - Dependent Property|~|Business Income - Dependent Property
+coverage|~|MSTR_REF|~|BOPBusIncExtCov|~|Business Income - Extended Period|~|Business Income - Extended Period
+coverage|~|MSTR_REF|~|BOPBusIncPayrollCov|~|Business Income - Ordinary Payroll|~|Business Income - Ordinary Payroll
+coverage|~|MSTR_REF|~|BOPCAEqBldgRecCov|~|CA - EQ Reconstruction|~|CA - EQ Reconstruction
+coverage|~|MSTR_REF|~|BOPCAEqBldgSubCov|~|CA EQ - Building Sublimits|~|CA EQ - Building Sublimits
+coverage|~|MSTR_REF|~|BOPCertTerrorCap|~|Terror - Cap on Cert. Acts|~|Terror - Cap on Cert. Acts
+coverage|~|MSTR_REF|~|BOPComputerFraudCov|~|Computer/Funds Transfer Fraud|~|Computer/Funds Transfer Fraud
+coverage|~|MSTR_REF|~|BOPCondoAssnCov|~|Condo Association Coverage|~|Condo Association Coverage
+coverage|~|MSTR_REF|~|BOPCondoUnitOwnCov|~|Condo Unit Owner|~|Condo Unit Owner
+coverage|~|MSTR_REF|~|BOPDesigPremProj|~|Designated Premises or Project Limitation|~|Designated Premises or Project Limitation
+coverage|~|MSTR_REF|~|BOPElectricalSchedCov|~|Electrical Equipment - Scheduled|~|Electrical Equipment - Scheduled
+coverage|~|MSTR_REF|~|BOPEmpBenefits|~|Employee Benefits Liability|~|Employee Benefits Liability
+coverage|~|MSTR_REF|~|BOPEmpBenExtRpting|~|Employee Benefits Extended Reporting|~|Employee Benefits Extended Reporting
+coverage|~|MSTR_REF|~|BOPEmpDisCov|~|Employee Dishonesty|~|Employee Dishonesty
+coverage|~|MSTR_REF|~|BOPEqBldgCov|~|Earthquake|~|Earthquake
+coverage|~|MSTR_REF|~|BOPEqSpBldgCov|~|Earthquake - Sprinkler Leakage|~|Earthquake - Sprinkler Leakage
+coverage|~|MSTR_REF|~|BOPFDService|~|FD Service Contract|~|FD Service Contract
+coverage|~|MSTR_REF|~|BOPFoodContamCov|~|Food Contamination Coverage|~|Food Contamination Coverage
+coverage|~|MSTR_REF|~|BOPForgeAltCov|~|Forgery and Alteration|~|Forgery and Alteration
+coverage|~|MSTR_REF|~|BOPFuncPerPropCov|~|Functional Business Personal Property|~|Functional Business Personal Property
+coverage|~|MSTR_REF|~|BOPFuneralDirCov|~|Funeral Director Liability|~|Funeral Director Liability
+coverage|~|MSTR_REF|~|BOPFungiPropCov|~|Limited Fungi Coverage (Property)|~|Limited Fungi Coverage (Property)
+coverage|~|MSTR_REF|~|BOPGuestPropCov|~|Guest's Property|~|Guest's Property
+coverage|~|MSTR_REF|~|BOPGuestSafeDepCov|~|Guests Property In Safe Deposit|~|Guests Property In Safe Deposit
+coverage|~|MSTR_REF|~|BOPHearingAidCov|~|Hearing Aid / Optician Liability|~|Hearing Aid / Optician Liability
+coverage|~|MSTR_REF|~|BOPHiredAuto|~|Hired Auto|~|Hired Auto
+coverage|~|MSTR_REF|~|BOPLeasedWorkerInjCov|~|Leased Workers - Injury Coverage|~|Leased Workers - Injury Coverage
+coverage|~|MSTR_REF|~|BOPLiabilityCov|~|Liability|~|Liability
+coverage|~|MSTR_REF|~|BOPLiquorCov|~|Liquor Liability Coverage|~|Liquor Liability Coverage
+coverage|~|MSTR_REF|~|BOPLiquorEvents|~|Liquor Liability - Event Only|~|Liquor Liability - Event Only
+coverage|~|MSTR_REF|~|BOPLiquorRemoveExc|~|Liquor Liability - Remove Exclusion|~|Liquor Liability - Remove Exclusion
+coverage|~|MSTR_REF|~|BOPLocWindHailCov|~|Windstorm/Hail|~|Windstorm/Hail
+coverage|~|MSTR_REF|~|BOPMALeadPoisonCov|~|MA - Lead Poisoning|~|MA - Lead Poisoning
+coverage|~|MSTR_REF|~|BOPMATenantReloCov|~|MA - Apartment Coverage|~|MA - Apartment Coverage
+coverage|~|MSTR_REF|~|BOPMechBreakdownCov|~|Mechanical Breakdown|~|Mechanical Breakdown
+coverage|~|MSTR_REF|~|BOPMedExpCov|~|Premises Medical Expense|~|Premises Medical Expense
+coverage|~|MSTR_REF|~|BOPMineSubCov|~|Mine Subsidence|~|Mine Subsidence
+coverage|~|MSTR_REF|~|BOPMoneySecCov|~|Money and Securities|~|Money and Securities
+coverage|~|MSTR_REF|~|BOPMotelCov|~|Motel Coverage|~|Motel Coverage
+coverage|~|MSTR_REF|~|BOPNewAcquiredOrgCov|~|Newly Acquired Organization Coverage|~|Newly Acquired Organization Coverage
+coverage|~|MSTR_REF|~|BOPNonOwnedAutoCov|~|Non-owned Auto Liability|~|Non-owned Auto Liability
+coverage|~|MSTR_REF|~|BOPOrdinanceCov|~|Ordinance or Law|~|Ordinance or Law
+coverage|~|MSTR_REF|~|BOPOutdoorProp|~|Outdoor Property|~|Outdoor Property
+coverage|~|MSTR_REF|~|BOPOutSignCov|~|Outdoor Signs|~|Outdoor Signs
+coverage|~|MSTR_REF|~|BOPOverflowCov|~|Water Backup and Sump Overflow|~|Water Backup and Sump Overflow
+coverage|~|MSTR_REF|~|BOPPersAdvertInj|~|Personal and Advertising Injury|~|Personal and Advertising Injury
+coverage|~|MSTR_REF|~|BOPPersonalEffects|~|Personal Effects|~|Personal Effects
+coverage|~|MSTR_REF|~|BOPPersonalPropCov|~|Business Personal Property|~|Business Personal Property
+coverage|~|MSTR_REF|~|BOPPersPropOffPrem|~|Personal Property Off Premises|~|Personal Property Off Premises
+coverage|~|MSTR_REF|~|BOPPesticideApplicatorCov|~|Pesticide Applicator Coverage|~|Pesticide Applicator Coverage
+coverage|~|MSTR_REF|~|BOPPharmacistCov|~|Pharmacist Limited Liability Coverage|~|Pharmacist Limited Liability Coverage
+coverage|~|MSTR_REF|~|BOPPollutionCov|~|Pollution - Limited Liability Extension|~|Pollution - Limited Liability Extension
+coverage|~|MSTR_REF|~|BOPPrinterCov|~|Printers Errors and Omissions|~|Printers Errors and Omissions
+coverage|~|MSTR_REF|~|BOPPropertyCov|~|Policywide Property Deductible|~|Policywide Property Deductible
+coverage|~|MSTR_REF|~|BOPReceivablesCov|~|Accounts Receivable|~|Accounts Receivable
+coverage|~|MSTR_REF|~|BOPSelfStorCov|~|Self Storage Coverage|~|Self Storage Coverage
+coverage|~|MSTR_REF|~|BOPSpoilageCov|~|Spoilage|~|Spoilage
+coverage|~|MSTR_REF|~|BOPTenantFireCov|~|Tenants Fire Liability|~|Tenants Fire Liability
+coverage|~|MSTR_REF|~|BOPTenantsLiabilityCov|~|Tenants Liability|~|Tenants Liability
+coverage|~|MSTR_REF|~|BOPToolsInstallUnschedCov|~|Contractors Tools/Installation|~|Contractors Tools/Installation
+coverage|~|MSTR_REF|~|BOPToolsSchedCov|~|Contractors Tools - Scheduled|~|Contractors Tools - Scheduled
+coverage|~|MSTR_REF|~|BOPUtilDirectCov|~|Utilities - Direct Damage|~|Utilities - Direct Damage
+coverage|~|MSTR_REF|~|BOPUtilTimeCov|~|Utilities - Time Element|~|Utilities - Time Element
+coverage|~|MSTR_REF|~|BOPVacancyChangeCov|~|Vacancy Change Coverage|~|Vacancy Change Coverage
+coverage|~|MSTR_REF|~|BOPVacancyCov|~|Vacancy Permit|~|Vacancy Permit
+coverage|~|MSTR_REF|~|BOPValuablePapersCov|~|Valuable Papers|~|Valuable Papers
+coverage|~|MSTR_REF|~|BOPVetCov|~|Veterinarian Liability|~|Veterinarian Liability
+coverage|~|MSTR_REF|~|BOPY2KIncomeExpenseCov|~|Income/Expense - Electronic Equip.|~|Income/Expense - Electronic Equip.
+coverage|~|MSTR_REF|~|BOPY2KLimitedCov|~|Computer Limited Liability Coverage|~|Computer Limited Liability Coverage
+coverage|~|MSTR_REF|~|BOPY2KPremOnlyCov|~|Computer Liability-Premises Only|~|Computer Liability-Premises Only
+coverage|~|MSTR_REF|~|BusIncChangeCov|~|Bus. Inc. Waiting Period Change|~|Bus. Inc. Waiting Period Change
+coverage|~|MSTR_REF|~|CA_PIP_AR|~|PIP - Arkansas|~|PIP - Arkansas
+coverage|~|MSTR_REF|~|CA_PIP_DC|~|PIP - District Of Columbia|~|PIP - District Of Columbia
+coverage|~|MSTR_REF|~|CADeathDisabilityCov|~|Death and Disability|~|Death and Disability
+coverage|~|MSTR_REF|~|CAPIP_DE|~|PIP - Delaware|~|PIP - Delaware
+coverage|~|MSTR_REF|~|CAPIP_FL|~|PIP - Florida|~|PIP - Florida
+coverage|~|MSTR_REF|~|CAPIP_HI|~|PIP - Hawaii|~|PIP - Hawaii
+coverage|~|MSTR_REF|~|CAPIP_KS|~|PIP - Kansas|~|PIP - Kansas
+coverage|~|MSTR_REF|~|CAPIP_KY|~|PIP - Kentucky|~|PIP - Kentucky
+coverage|~|MSTR_REF|~|CAPIP_MA|~|PIP - Massachusetts|~|PIP - Massachusetts
+coverage|~|MSTR_REF|~|CAPIP_MD|~|PIP - Maryland|~|PIP - Maryland
+coverage|~|MSTR_REF|~|CAPIP_MI|~|PIP - Michigan|~|PIP - Michigan
+coverage|~|MSTR_REF|~|CAPIP_MN|~|PIP - Minnesota|~|PIP - Minnesota
+coverage|~|MSTR_REF|~|CAPIP_ND|~|PIP - North Dakota|~|PIP - North Dakota
+coverage|~|MSTR_REF|~|CAPIP_NJ|~|PIP - New Jersey|~|PIP - New Jersey
+coverage|~|MSTR_REF|~|CAPIP_NY|~|PIP - New York|~|PIP - New York
+coverage|~|MSTR_REF|~|CAPIP_OR|~|PIP - Oregon|~|PIP - Oregon
+coverage|~|MSTR_REF|~|CAPIP_PA|~|PIP - Pennsylvania|~|PIP - Pennsylvania
+coverage|~|MSTR_REF|~|CAPIP_TX|~|PIP - Texas|~|PIP - Texas
+coverage|~|MSTR_REF|~|CAPIP_UT|~|PIP - Utah|~|PIP - Utah
+coverage|~|MSTR_REF|~|CAPIP_WA|~|PIP - Washington|~|PIP - Washington
+coverage|~|MSTR_REF|~|ContractorsEquipAdditionallyAcquiredProperty|~|Contractors Equipment - Additional Aquired Property|~|Contractors Equipment - Additional Aquired Property
+coverage|~|MSTR_REF|~|ContractorsEquipDebrisRemoval|~|Contractors Equipment - Debris Removal|~|Contractors Equipment - Debris Removal
+coverage|~|MSTR_REF|~|ContractorsEquipEmployeesTools|~|Contractors Equipment - Employees Tools|~|Contractors Equipment - Employees Tools
+coverage|~|MSTR_REF|~|ContractorsEquipMiscUnscheduledCov|~|Contractors Equipment - Misc. Items|~|Contractors Equipment - Misc. Items
+coverage|~|MSTR_REF|~|ContractorsEquipPollutionCleanup|~|Contractors Equipment - Pollution Cleanup|~|Contractors Equipment - Pollution Cleanup
+coverage|~|MSTR_REF|~|ContractorsEquipPreservationOfProperty|~|Contractors Equipment - Preservation of Property|~|Contractors Equipment - Preservation of Property
+coverage|~|MSTR_REF|~|ContractorsEquipRentalReibursement|~|Contractors Rental Reimbursement|~|Contractors Rental Reimbursement
+coverage|~|MSTR_REF|~|ContractorsEquipRentedEquipment|~|Contractors Rented Equipment|~|Contractors Rented Equipment
+coverage|~|MSTR_REF|~|ContractorsEquipSchedCov|~|Contractors Scheduled Equipment|~|Contractors Scheduled Equipment
+coverage|~|MSTR_REF|~|CPBlanketCov|~|CPBlanket Coverage|~|CPBlanket Coverage
+coverage|~|MSTR_REF|~|CPBldgBusIncomeCov|~|Business Income Coverage|~|Business Income Coverage
+coverage|~|MSTR_REF|~|CPBldgCov|~|Building Coverage|~|Building Coverage
+coverage|~|MSTR_REF|~|CPBldgExtraExpenseCov|~|Extra Expense Coverage|~|Extra Expense Coverage
+coverage|~|MSTR_REF|~|CPBldgStockCov|~|Business Personal Property - Separation of Coverage (Stock)|~|Business Personal Property - Separation of Coverage (Stock)
+coverage|~|MSTR_REF|~|CPBPPCov|~|Business Personal Property Coverage|~|Business Personal Property Coverage
+coverage|~|MSTR_REF|~|DandO|~|Directors and Officers|~|Directors and Officers
+coverage|~|MSTR_REF|~|DPDW_Dwelling_Cov_HOE|~|Fire Dwelling|~|Fire Dwelling
+coverage|~|MSTR_REF|~|DPDW_Loss_Of_Use_HOE|~|Fire Dwelling Loss Of Use|~|Fire Dwelling Loss Of Use
+coverage|~|MSTR_REF|~|DPDW_OrdinanceCov_HOE|~|Fire Dwelling Ordinance Or Law|~|Fire Dwelling Ordinance Or Law
+coverage|~|MSTR_REF|~|DPDW_Other_Structures_HOE|~|Fire Dwelling Other Structures|~|Fire Dwelling Other Structures
+coverage|~|MSTR_REF|~|DPDW_Personal_Property_HOE|~|Fire Dwelling Personal Property|~|Fire Dwelling Personal Property
+coverage|~|MSTR_REF|~|DPDW_Theft_HOE|~|Dwelling Theft|~|Dwelling Theft
+coverage|~|MSTR_REF|~|DPLI_Med_Pay_HOE|~|Fire Dwelling Medical Payments|~|Fire Dwelling Medical Payments
+coverage|~|MSTR_REF|~|DPLI_Personal_Liability_HOE|~|Fire Dwelling Personal Liability|~|Fire Dwelling Personal Liability
+coverage|~|MSTR_REF|~|EANDO|~|Errors and omissions|~|Errors and omissions
+coverage|~|MSTR_REF|~|FARM|~|Farmowners|~|Farmowners
+coverage|~|MSTR_REF|~|GLAddCondoCov|~|Condominiums|~|Condominiums
+coverage|~|MSTR_REF|~|GLAddInjuryLeasedWorkers|~|Coverage for Injury to Leased Workers|~|Coverage for Injury to Leased Workers
+coverage|~|MSTR_REF|~|GLCGLCov|~|General Liability|~|General Liability
+coverage|~|MSTR_REF|~|GLContractualLiabRR|~|Contractual Liability - Railroads|~|Contractual Liability - Railroads
+coverage|~|MSTR_REF|~|GLDeductible|~|GL Deductible|~|GL Deductible
+coverage|~|MSTR_REF|~|GLElectronicDataLiability|~|Electronic Data Liability|~|Electronic Data Liability
+coverage|~|MSTR_REF|~|GLEmpBenefitsLiabilityCov|~|Employee Benefits Liability|~|Employee Benefits Liability
+coverage|~|MSTR_REF|~|GLGovSubdivisions|~|Governmental Subdivisions|~|Governmental Subdivisions
+coverage|~|MSTR_REF|~|GLLawnCare|~|Lawn Care Services|~|Lawn Care Services
+coverage|~|MSTR_REF|~|GLLimitedPAandInjuryCov|~|Ltd Contractual Liab for Personal and Advertising|~|Ltd Contractual Liab for Personal and Advertising
+coverage|~|MSTR_REF|~|GLLiquorEndorsement|~|Liquor Liability Endorsement|~|Liquor Liability Endorsement
+coverage|~|MSTR_REF|~|GLLtdFungiBacteriaCov|~|Limited Fungi or Bacteria Coverage|~|Limited Fungi or Bacteria Coverage
+coverage|~|MSTR_REF|~|GLPestHerbicideApplicatorSchedule|~|Pesticide Or Herbicide Applicator Coverage|~|Pesticide Or Herbicide Applicator Coverage
+coverage|~|MSTR_REF|~|GLPollutionDesignatedCov|~|Designated Pollutants|~|Designated Pollutants
+coverage|~|MSTR_REF|~|GLPollutionShortTermCov|~|Short Term Pollution Coverage|~|Short Term Pollution Coverage
+coverage|~|MSTR_REF|~|GLUndergroundResourceCov|~|Underground Resources And Equip Coverage|~|Underground Resources And Equip Coverage
+coverage|~|MSTR_REF|~|health_travel|~|Health|~|Heath coverage
+coverage|~|MSTR_REF|~|hiredauto_travel|~|Hired Auto|~|Excesses for hired/rented auto
+coverage|~|MSTR_REF|~|HODW_Dwelling_Cov_HOE|~|Homeowners Dwelling|~|Homeowners Dwelling
+coverage|~|MSTR_REF|~|HODW_Earthquake_HOE|~|Earthquake Coverage|~|Earthquake Coverage
+coverage|~|MSTR_REF|~|HODW_FungiCov_HOE|~|Limited Fungi, Wet or Dry Rot or Bacteria|~|Limited Fungi, Wet or Dry Rot or Bacteria
+coverage|~|MSTR_REF|~|HODW_FungiCovFlorida_HOE|~|Limited Fungi, Wet Or Dry Rot Or Bacteria Florida|~|Limited Fungi, Wet Or Dry Rot Or Bacteria Florida
+coverage|~|MSTR_REF|~|HODW_InflationGaurd_HOE|~|Inflation Guard|~|Inflation Guard
+coverage|~|MSTR_REF|~|HODW_Loss_Of_Use_HOE|~|Homeowners Loss Of Use|~|Homeowners Loss Of Use
+coverage|~|MSTR_REF|~|HODW_OrdinanceCov_HOE|~|Homeowners Ordinance Or Law|~|Homeowners Ordinance Or Law
+coverage|~|MSTR_REF|~|HODW_Other_Structures_HOE|~|Homeowners Other Structures|~|Homeowners Other Structures
+coverage|~|MSTR_REF|~|HODW_OtherStructuresOffPremise_HOE|~|Other Structures Off The Residence Premises|~|Other Structures Off The Residence Premises
+coverage|~|MSTR_REF|~|HODW_OtherStructuresOnPremise_HOE|~|Other Structures On The Residence Premises|~|Other Structures On The Residence Premises
+coverage|~|MSTR_REF|~|HODW_Personal_Property_HOE|~|Homeowners Personal Property|~|Homeowners Personal Property
+coverage|~|MSTR_REF|~|HODW_PersonalPropertyOffResidence_HOE|~|Personal Property At Other Residences|~|Personal Property At Other Residences
+coverage|~|MSTR_REF|~|HODW_ScheduledProperty_HOE|~|Scheduled Personal Property|~|Scheduled Personal Property
+coverage|~|MSTR_REF|~|HODW_SectionI_Ded_HOE|~|Section I Deductibles|~|Section I Deductibles
+coverage|~|MSTR_REF|~|HODW_SpecialLimitsCovC_HOE|~|Special Limits Personal Property|~|Special Limits Personal Property
+coverage|~|MSTR_REF|~|HODW_SpecificStructuresOffPremise_HOE|~|Specific Structures Away From The Residence Premises|~|Specific Structures Away From The Residence Premises
+coverage|~|MSTR_REF|~|HOLI_FungiCov_HOE|~|Section II Limited Fungi, Wet Or Dry Rot Or Bacteria|~|Section II Limited Fungi, Wet Or Dry Rot Or Bacteria
+coverage|~|MSTR_REF|~|HOLI_LimitedComputer_HOE|~|Section II - Limited Coverage For  Computer Related And Other Electronical Problems|~|Section II - Limited Coverage For  Computer Related And Other Electronical Problems
+coverage|~|MSTR_REF|~|HOLI_Med_Pay_HOE|~|Homeowners Medical Payments|~|Homeowners Medical Payments
+coverage|~|MSTR_REF|~|HOLI_OtherInsuredResidence_HOE|~|Other Insured Locations Occupied By Named Insured|~|Other Insured Locations Occupied By Named Insured
+coverage|~|MSTR_REF|~|HOLI_Personal_Liability_HOE|~|Homeowners Personal Liability|~|Homeowners Personal Liability
+coverage|~|MSTR_REF|~|HOLI_PersonalInjury_HOE|~|Personal Injury|~|Personal Injury
+coverage|~|MSTR_REF|~|IMAccountReceivableCov|~|Accounts Receivable|~|Accounts Receivable
+coverage|~|MSTR_REF|~|IMSignCov|~|Inland Marine Sign|~|Inland Marine Sign
+coverage|~|MSTR_REF|~|LEG_COVG_CD|~|Legacy Coverage Code|~|Legacy Coverage Code
+coverage|~|MSTR_REF|~|liab_travel|~|Liability|~|3rd party liability
+coverage|~|MSTR_REF|~|MALP|~|Malpractice|~|Malpractice
+coverage|~|MSTR_REF|~|N/A|~|N/A|~|Not Applicable
+coverage|~|MSTR_REF|~|PACollision_MA_MI_Limited|~|Collision - Limited Coverage|~|Collision - Limited Coverage
+coverage|~|MSTR_REF|~|PACollisionCov|~|Collision|~|Collision
+coverage|~|MSTR_REF|~|PAComprehensiveCov|~|Comprehensive|~|Comprehensive
+coverage|~|MSTR_REF|~|PADeathDisabilityCov|~|Death & Disability Benefit|~|Death & Disability Benefit
+coverage|~|MSTR_REF|~|PAExcessElectronicsCov|~|Electronic Equipment|~|Electronic Equipment
+coverage|~|MSTR_REF|~|PALiabilityCov|~|Liability - Bodily Injury and Property Damage|~|Liability - Bodily Injury and Property Damage
+coverage|~|MSTR_REF|~|PALimitedMexicoCov|~|Mexico Coverage - Limited|~|Mexico Coverage - Limited
+coverage|~|MSTR_REF|~|PALossOfUseCov|~|Rental Car Loss of Use|~|Rental Car Loss of Use
+coverage|~|MSTR_REF|~|PAMedPayCov|~|Medical Payments|~|Medical Payments
+coverage|~|MSTR_REF|~|PAPIP_AR|~|PIP - Arkansas|~|PIP - Arkansas
+coverage|~|MSTR_REF|~|PAPIP_DC|~|PIP - District of Columbia|~|PIP - District of Columbia
+coverage|~|MSTR_REF|~|PAPIP_DE|~|PIP - Delaware|~|PIP - Delaware
+coverage|~|MSTR_REF|~|PAPIP_FL|~|PIP - Florida|~|PIP - Florida
+coverage|~|MSTR_REF|~|PAPIP_HI|~|PIP - Hawaii|~|PIP - Hawaii
+coverage|~|MSTR_REF|~|PAPIP_KS|~|PIP - Kansas|~|PIP - Kansas
+coverage|~|MSTR_REF|~|PAPIP_KY|~|PIP - Kentucky|~|PIP - Kentucky
+coverage|~|MSTR_REF|~|PAPIP_MA|~|PIP - Massachusetts|~|PIP - Massachusetts
+coverage|~|MSTR_REF|~|PAPIP_MD|~|PIP - Maryland|~|PIP - Maryland
+coverage|~|MSTR_REF|~|PAPIP_MI|~|PIP - Michigan|~|PIP - Michigan
+coverage|~|MSTR_REF|~|PAPIP_MN|~|PIP - Minnesota|~|PIP - Minnesota
+coverage|~|MSTR_REF|~|PAPIP_ND|~|PIP - North Dakota|~|PIP - North Dakota
+coverage|~|MSTR_REF|~|PAPIP_NJ|~|PIP - New Jersey|~|PIP - New Jersey
+coverage|~|MSTR_REF|~|PAPIP_NY|~|PIP - New York|~|PIP - New York
+coverage|~|MSTR_REF|~|PAPIP_OR|~|PIP - Oregon|~|PIP - Oregon
+coverage|~|MSTR_REF|~|PAPIP_PA|~|PIP - Pennsylvania|~|PIP - Pennsylvania
+coverage|~|MSTR_REF|~|PAPIP_TX|~|PIP - Texas|~|PIP - Texas
+coverage|~|MSTR_REF|~|PAPIP_UT|~|PIP - Utah|~|PIP - Utah
+coverage|~|MSTR_REF|~|PAPIP_WA|~|PIP - Washington|~|PIP - Washington
+coverage|~|MSTR_REF|~|PAPropProtectionCov|~|Property Protection Insurance|~|Property Protection Insurance
+coverage|~|MSTR_REF|~|PARentalCov|~|Rental Reimbursement|~|Rental Reimbursement
+coverage|~|MSTR_REF|~|PATapeDiscMediaCov|~|Tape / Disc Media|~|Tape / Disc Media
+coverage|~|MSTR_REF|~|PATowingLaborCov|~|Towing and Labor|~|Towing and Labor
+coverage|~|MSTR_REF|~|PAUIMBICov|~|Underinsured Motorist - Bodily Injury|~|Underinsured Motorist - Bodily Injury
+coverage|~|MSTR_REF|~|PAUIMPDCov|~|Underinsured Motorist - Property Damage|~|Underinsured Motorist - Property Damage
+coverage|~|MSTR_REF|~|PAUMBICov|~|Uninsured Motorist - Bodily Injury|~|Uninsured Motorist - Bodily Injury
+coverage|~|MSTR_REF|~|PAUMPDCov|~|Uninsured Motorist - Property Damage|~|Uninsured Motorist - Property Damage
+coverage|~|MSTR_REF|~|PollutionBroadLimited|~|Pollution Coverage|~|Pollution Coverage
+coverage|~|MSTR_REF|~|ProductWithdrawalLtd|~|Product Withdrawal - Limited|~|Product Withdrawal - Limited
+coverage|~|MSTR_REF|~|PUP_Primary_LiabilityCov_PUE|~|Primary Personal Liability Coverage|~|Primary Personal Liability Coverage
+coverage|~|MSTR_REF|~|PUP_WorldWideCov_PUE|~|World Wide|~|World Wide
+coverage|~|MSTR_REF|~|trip|~|Trip|~|Trip coverage for travel and accommodations
+coverage|~|MSTR_REF|~|UNK|~|Unknown|~|Unknown Coverage
+coverage|~|MSTR_REF|~|WCEmpLiabCov|~|Workers' Comp Employer's Liability|~|Workers' Comp Employer's Liability
+coverage|~|MSTR_REF|~|WCFedEmpLiabCov|~|Federal Employer's Liability|~|Federal Employer's Liability
+coverage|~|MSTR_REF|~|WCOtherStatesInsurance|~|Other States Insurance|~|Other States Insurance
+coverage|~|MSTR_REF|~|WCWorkCompDeductCov|~|Workers' Comp State-Specific Deductible|~|Workers' Comp State-Specific Deductible
+coverage|~|MSTR_REF|~|WCWorkersCompCov|~|Statutory Workers' Comp|~|Statutory Workers' Comp
+coverage|~|MSTR_REF|~|XCUSpecified|~|XCU - Specified|~|XCU - Specified
+coverage|~|MSTR_REF|~|Y2KLimitedCov|~|Y2K/Computer - Limited|~|Y2K/Computer - Limited
+covg_part|~|MSTR_REF|~|BAPDOCGrp|~|BAPDOCGrp|~|BAPDOCGrp
+covg_part|~|MSTR_REF|~|BAPEquipGrp|~|BAPEquipGrp|~|BAPEquipGrp
+covg_part|~|MSTR_REF|~|BAPFellowEmpGrp|~|BAPFellowEmpGrp|~|BAPFellowEmpGrp
+covg_part|~|MSTR_REF|~|BAPHiredGrp|~|BAPHiredGrp|~|BAPHiredGrp
+covg_part|~|MSTR_REF|~|BAPIPCoverageCat|~|BAPIPCoverageCat|~|BAPIPCoverageCat
+covg_part|~|MSTR_REF|~|BAPLoanLeaseGapGrp|~|BAPLoanLeaseGapGrp|~|BAPLoanLeaseGapGrp
+covg_part|~|MSTR_REF|~|BAPLossOfUseGrp|~|BAPLossOfUseGrp|~|BAPLossOfUseGrp
+covg_part|~|MSTR_REF|~|BAPNonownedGrp|~|BAPNonownedGrp|~|BAPNonownedGrp
+covg_part|~|MSTR_REF|~|BAPNonownedSSGrp|~|BAPNonownedSSGrp|~|BAPNonownedSSGrp
+covg_part|~|MSTR_REF|~|BAPOwnedLiabGrp|~|BAPOwnedLiabGrp|~|BAPOwnedLiabGrp
+covg_part|~|MSTR_REF|~|BAPOwnedPhysDamGrp|~|BAPOwnedPhysDamGrp|~|BAPOwnedPhysDamGrp
+covg_part|~|MSTR_REF|~|BAPPollutionGrp|~|BAPPollutionGrp|~|BAPPollutionGrp
+covg_part|~|MSTR_REF|~|BAPRentalGrp|~|BAPRentalGrp|~|BAPRentalGrp
+covg_part|~|MSTR_REF|~|BAPTapeDiscRecordGrp|~|BAPTapeDiscRecordGrp|~|BAPTapeDiscRecordGrp
+covg_part|~|MSTR_REF|~|BAPVehicleStateGrp|~|BAPVehicleStateGrp|~|BAPVehicleStateGrp
+covg_part|~|MSTR_REF|~|BOPBuildingCat|~|BOPBuildingCat|~|BOPBuildingCat
+covg_part|~|MSTR_REF|~|BOPBuildingOtherCat|~|BOPBuildingOtherCat|~|BOPBuildingOtherCat
+covg_part|~|MSTR_REF|~|BOPBuildingSpecialPerilCat|~|BOPBuildingSpecialPerilCat|~|BOPBuildingSpecialPerilCat
+covg_part|~|MSTR_REF|~|BOPBuildingUtilitiesCat|~|BOPBuildingUtilitiesCat|~|BOPBuildingUtilitiesCat
+covg_part|~|MSTR_REF|~|BOPContractorCat|~|BOPContractorCat|~|BOPContractorCat
+covg_part|~|MSTR_REF|~|BOPCrimeCat|~|BOPCrimeCat|~|BOPCrimeCat
+covg_part|~|MSTR_REF|~|BOPGuestCovCat|~|BOPGuestCovCat|~|BOPGuestCovCat
+covg_part|~|MSTR_REF|~|BOPIncomeExpenseCat|~|BOPIncomeExpenseCat|~|BOPIncomeExpenseCat
+covg_part|~|MSTR_REF|~|BOPLiabilityCat|~|BOPLiabilityCat|~|BOPLiabilityCat
+covg_part|~|MSTR_REF|~|BOPLiabilityOtherCat|~|BOPLiabilityOtherCat|~|BOPLiabilityOtherCat
+covg_part|~|MSTR_REF|~|BOPLiquorCat|~|BOPLiquorCat|~|BOPLiquorCat
+covg_part|~|MSTR_REF|~|BOPLocationCat|~|BOPLocationCat|~|BOPLocationCat
+covg_part|~|MSTR_REF|~|BOPOtherIncludedCat|~|BOPOtherIncludedCat|~|BOPOtherIncludedCat
+covg_part|~|MSTR_REF|~|BOPPolicyOtherCat|~|BOPPolicyOtherCat|~|BOPPolicyOtherCat
+covg_part|~|MSTR_REF|~|BOPProfessionalCat|~|BOPProfessionalCat|~|BOPProfessionalCat
+covg_part|~|MSTR_REF|~|BOPProgramCat|~|BOPProgramCat|~|BOPProgramCat
+covg_part|~|MSTR_REF|~|BOPPropertyRequiredCat|~|BOPPropertyRequiredCat|~|BOPPropertyRequiredCat
+covg_part|~|MSTR_REF|~|BOPStateCat|~|BOPStateCat|~|BOPStateCat
+covg_part|~|MSTR_REF|~|BOPTerrorismCat|~|BOPTerrorismCat|~|BOPTerrorismCat
+covg_part|~|MSTR_REF|~|ContractorsEquipCategory|~|ContractorsEquipCategory|~|ContractorsEquipCategory
+covg_part|~|MSTR_REF|~|ContractorsEquipPartCategory|~|ContractorsEquipPartCategory|~|ContractorsEquipPartCategory
+covg_part|~|MSTR_REF|~|ContractorsEquipPolicywideUnscheduled|~|ContractorsEquipPolicywideUnscheduled|~|ContractorsEquipPolicywideUnscheduled
+covg_part|~|MSTR_REF|~|CPBlanketCovCategory|~|CPBlanketCovCategory|~|CPBlanketCovCategory
+covg_part|~|MSTR_REF|~|CPBldgCovCategory|~|CPBldgCovCategory|~|CPBldgCovCategory
+covg_part|~|MSTR_REF|~|CPBusIncCovCategory|~|CPBusIncCovCategory|~|CPBusIncCovCategory
+covg_part|~|MSTR_REF|~|CPContentsCategory|~|CPContentsCategory|~|CPContentsCategory
+covg_part|~|MSTR_REF|~|DPDW_LiabilityCoverages_HOE|~|DPDW_LiabilityCoverages_HOE|~|DPDW_LiabilityCoverages_HOE
+covg_part|~|MSTR_REF|~|GLContractualAll|~|GLContractualAll|~|GLContractualAll
+covg_part|~|MSTR_REF|~|GLDesignated|~|GLDesignated|~|GLDesignated
+covg_part|~|MSTR_REF|~|GLEmployment|~|GLEmployment|~|GLEmployment
+covg_part|~|MSTR_REF|~|GLGroup|~|GLGroup|~|GLGroup
+covg_part|~|MSTR_REF|~|GLLiquorAll|~|GLLiquorAll|~|GLLiquorAll
+covg_part|~|MSTR_REF|~|GLOther|~|GLOther|~|GLOther
+covg_part|~|MSTR_REF|~|GLPollutionAll|~|GLPollutionAll|~|GLPollutionAll
+covg_part|~|MSTR_REF|~|GLY2K|~|GLY2K|~|GLY2K
+covg_part|~|MSTR_REF|~|HODW_Additional_HOE|~|HODW_Additional_HOE|~|HODW_Additional_HOE
+covg_part|~|MSTR_REF|~|HODW_Optional_HOE|~|HODW_Optional_HOE|~|HODW_Optional_HOE
+covg_part|~|MSTR_REF|~|HODW_SchedulesCov_HOE|~|HODW_SchedulesCov_HOE|~|HODW_SchedulesCov_HOE
+covg_part|~|MSTR_REF|~|HODW_SectionI_HOE|~|HODW_SectionI_HOE|~|HODW_SectionI_HOE
+covg_part|~|MSTR_REF|~|HODW_SectionII_HOE|~|HODW_SectionII_HOE|~|HODW_SectionII_HOE
+covg_part|~|MSTR_REF|~|HODW_SpecialLocationCov_HOE|~|HODW_SpecialLocationCov_HOE|~|HODW_SpecialLocationCov_HOE
+covg_part|~|MSTR_REF|~|HOLI_Additional_HOE|~|HOLI_Additional_HOE|~|HOLI_Additional_HOE
+covg_part|~|MSTR_REF|~|HOLI_Optional_HOE|~|HOLI_Optional_HOE|~|HOLI_Optional_HOE
+covg_part|~|MSTR_REF|~|HOLI_SpecialLocationCov_HOE|~|HOLI_SpecialLocationCov_HOE|~|HOLI_SpecialLocationCov_HOE
+covg_part|~|MSTR_REF|~|IMARCategory|~|IMARCategory|~|IMARCategory
+covg_part|~|MSTR_REF|~|IMARPartCategory|~|IMARPartCategory|~|IMARPartCategory
+covg_part|~|MSTR_REF|~|IMSignCategory|~|IMSignCategory|~|IMSignCategory
+covg_part|~|MSTR_REF|~|PAMiscGrp|~|PAMiscGrp|~|PAMiscGrp
+covg_part|~|MSTR_REF|~|PAPip|~|PAPip|~|PAPip
+covg_part|~|MSTR_REF|~|PAPLiabGrp|~|PAPLiabGrp|~|PAPLiabGrp
+covg_part|~|MSTR_REF|~|PAPPhysDamGrp|~|PAPPhysDamGrp|~|PAPPhysDamGrp
+covg_part|~|MSTR_REF|~|UNK|~|Unknown|~|Unknown Coverage Part
+covg_part|~|MSTR_REF|~|WorkersCompFELGrp|~|WorkersCompFELGrp|~|WorkersCompFELGrp
+covg_part|~|MSTR_REF|~|WorkersCompGrp|~|WorkersCompGrp|~|WorkersCompGrp
+covg_part|~|MSTR_REF|~|WorkersCompStateGrp|~|WorkersCompStateGrp|~|WorkersCompStateGrp
+covg_term|~|MSTR_REF|~|AccountsRecOffPremisesPropertyDescription|~|AccountsRecOffPremisesPropertyDescription|~|AccountsRecOffPremisesPropertyDescription
+covg_term|~|MSTR_REF|~|AccountsRecOffPremisesPropertyLimit|~|AccountsRecOffPremisesPropertyLimit|~|AccountsRecOffPremisesPropertyLimit
+covg_term|~|MSTR_REF|~|BAAudVisDataEquipDed|~|BAAudVisDataEquipDed|~|BAAudVisDataEquipDed
+covg_term|~|MSTR_REF|~|BAAudVisDataEquipLim|~|BAAudVisDataEquipLim|~|BAAudVisDataEquipLim
+covg_term|~|MSTR_REF|~|BABobtailLiabCov|~|BABobtailLiabCov|~|BABobtailLiabCov
+covg_term|~|MSTR_REF|~|BACollisionBroad|~|BACollisionBroad|~|BACollisionBroad
+covg_term|~|MSTR_REF|~|BACollisionDeduct|~|BACollisionDeduct|~|BACollisionDeduct
+covg_term|~|MSTR_REF|~|BACollisionLimited_MAMI|~|BACollisionLimited_MAMI|~|BACollisionLimited_MAMI
+covg_term|~|MSTR_REF|~|BAComprehensiveDdct|~|BAComprehensiveDdct|~|BAComprehensiveDdct
+covg_term|~|MSTR_REF|~|BADealerLimitLiabClass1|~|BADealerLimitLiabClass1|~|BADealerLimitLiabClass1
+covg_term|~|MSTR_REF|~|BADealerLimitLiabClass2|~|BADealerLimitLiabClass2|~|BADealerLimitLiabClass2
+covg_term|~|MSTR_REF|~|BADealerLimitLiabCustomer|~|BADealerLimitLiabCustomer|~|BADealerLimitLiabCustomer
+covg_term|~|MSTR_REF|~|BADealerLimitLiabLimit-Bodily Injury Each Person|~|BADealerLimitLiabLimit-Bodily Injury Each Person|~|BADealerLimitLiabLimit-Bodily Injury Each Person
+covg_term|~|MSTR_REF|~|BADealerLimitLiabLimit-Bodily Injury Per Occurrence|~|BADealerLimitLiabLimit-Bodily Injury Per Occurrence|~|BADealerLimitLiabLimit-Bodily Injury Per Occurrence
+covg_term|~|MSTR_REF|~|BADealerLimitLiabLimit-Combined Single Limit|~|BADealerLimitLiabLimit-Combined Single Limit|~|BADealerLimitLiabLimit-Combined Single Limit
+covg_term|~|MSTR_REF|~|BADealerLimitLiabLimit-Property Damage|~|BADealerLimitLiabLimit-Property Damage|~|BADealerLimitLiabLimit-Property Damage
+covg_term|~|MSTR_REF|~|BADealerLimitLiabTotalEmp|~|BADealerLimitLiabTotalEmp|~|BADealerLimitLiabTotalEmp
+covg_term|~|MSTR_REF|~|BADOCCollisionDeduct|~|BADOCCollisionDeduct|~|BADOCCollisionDeduct
+covg_term|~|MSTR_REF|~|BADOCCompDeduct|~|BADOCCompDeduct|~|BADOCCompDeduct
+covg_term|~|MSTR_REF|~|BADOCLiabilityLiab-Bodily Injury Each Person|~|BADOCLiabilityLiab-Bodily Injury Each Person|~|BADOCLiabilityLiab-Bodily Injury Each Person
+covg_term|~|MSTR_REF|~|BADOCLiabilityLiab-Bodily Injury Per Occurrence|~|BADOCLiabilityLiab-Bodily Injury Per Occurrence|~|BADOCLiabilityLiab-Bodily Injury Per Occurrence
+covg_term|~|MSTR_REF|~|BADOCLiabilityLiab-Combined Single Limit|~|BADOCLiabilityLiab-Combined Single Limit|~|BADOCLiabilityLiab-Combined Single Limit
+covg_term|~|MSTR_REF|~|BADOCLiabilityLiab-Property Damage|~|BADOCLiabilityLiab-Property Damage|~|BADOCLiabilityLiab-Property Damage
+covg_term|~|MSTR_REF|~|BADOCMedPayLimit|~|BADOCMedPayLimit|~|BADOCMedPayLimit
+covg_term|~|MSTR_REF|~|BADOCUnderinsBI-Bodily Injury Each Person|~|BADOCUnderinsBI-Bodily Injury Each Person|~|BADOCUnderinsBI-Bodily Injury Each Person
+covg_term|~|MSTR_REF|~|BADOCUnderinsBI-Bodily Injury Per Occurrence|~|BADOCUnderinsBI-Bodily Injury Per Occurrence|~|BADOCUnderinsBI-Bodily Injury Per Occurrence
+covg_term|~|MSTR_REF|~|BADOCUninsuredBI-Bodily Injury Each Person|~|BADOCUninsuredBI-Bodily Injury Each Person|~|BADOCUninsuredBI-Bodily Injury Each Person
+covg_term|~|MSTR_REF|~|BADOCUninsuredBI-Bodily Injury Per Occurrence|~|BADOCUninsuredBI-Bodily Injury Per Occurrence|~|BADOCUninsuredBI-Bodily Injury Per Occurrence
+covg_term|~|MSTR_REF|~|BAFellowEmployeesCov|~|BAFellowEmployeesCov|~|BAFellowEmployeesCov
+covg_term|~|MSTR_REF|~|BAHiredCollDeduct|~|BAHiredCollDeduct|~|BAHiredCollDeduct
+covg_term|~|MSTR_REF|~|BAHiredCompDeduct|~|BAHiredCompDeduct|~|BAHiredCompDeduct
+covg_term|~|MSTR_REF|~|BAHiredLiabilityBI-Bodily Injury Each Person|~|BAHiredLiabilityBI-Bodily Injury Each Person|~|BAHiredLiabilityBI-Bodily Injury Each Person
+covg_term|~|MSTR_REF|~|BAHiredLiabilityBI-Bodily Injury Per Occurrence|~|BAHiredLiabilityBI-Bodily Injury Per Occurrence|~|BAHiredLiabilityBI-Bodily Injury Per Occurrence
+covg_term|~|MSTR_REF|~|BAHiredLiabilityBI-Combined Single Limit|~|BAHiredLiabilityBI-Combined Single Limit|~|BAHiredLiabilityBI-Combined Single Limit
+covg_term|~|MSTR_REF|~|BAHiredSpecPerilCovHiredCauseOfLoss|~|BAHiredSpecPerilCovHiredCauseOfLoss|~|BAHiredSpecPerilCovHiredCauseOfLoss
+covg_term|~|MSTR_REF|~|BAHiredSpecPerilDdct|~|BAHiredSpecPerilDdct|~|BAHiredSpecPerilDdct
+covg_term|~|MSTR_REF|~|BAHiredUIMCov|~|BAHiredUIMCov|~|BAHiredUIMCov
+covg_term|~|MSTR_REF|~|BAHiredUMCov|~|BAHiredUMCov|~|BAHiredUMCov
+covg_term|~|MSTR_REF|~|BALiabilityTort|~|BALiabilityTort|~|BALiabilityTort
+covg_term|~|MSTR_REF|~|BALimitedPropDamLmt|~|BALimitedPropDamLmt|~|BALimitedPropDamLmt
+covg_term|~|MSTR_REF|~|BALoanLeaseGapCov|~|BALoanLeaseGapCov|~|BALoanLeaseGapCov
+covg_term|~|MSTR_REF|~|BALossOfUseCov|~|BALossOfUseCov|~|BALossOfUseCov
+covg_term|~|MSTR_REF|~|BANonOwndSSExtendCov|~|BANonOwndSSExtendCov|~|BANonOwndSSExtendCov
+covg_term|~|MSTR_REF|~|BANonownedLiabBI-Bodily Injury Each Person|~|BANonownedLiabBI-Bodily Injury Each Person|~|BANonownedLiabBI-Bodily Injury Each Person
+covg_term|~|MSTR_REF|~|BANonownedLiabBI-Bodily Injury Per Occurrence|~|BANonownedLiabBI-Bodily Injury Per Occurrence|~|BANonownedLiabBI-Bodily Injury Per Occurrence
+covg_term|~|MSTR_REF|~|BANonownedLiabBI-Combined Single Limit|~|BANonownedLiabBI-Combined Single Limit|~|BANonownedLiabBI-Combined Single Limit
+covg_term|~|MSTR_REF|~|BAOwnedLiabilityLimit-Bodily Injury Each Person|~|BAOwnedLiabilityLimit-Bodily Injury Each Person|~|BAOwnedLiabilityLimit-Bodily Injury Each Person
+covg_term|~|MSTR_REF|~|BAOwnedLiabilityLimit-Bodily Injury Per Occurrence|~|BAOwnedLiabilityLimit-Bodily Injury Per Occurrence|~|BAOwnedLiabilityLimit-Bodily Injury Per Occurrence
+covg_term|~|MSTR_REF|~|BAOwnedLiabilityLimit-Combined Single Limit|~|BAOwnedLiabilityLimit-Combined Single Limit|~|BAOwnedLiabilityLimit-Combined Single Limit
+covg_term|~|MSTR_REF|~|BAOwnedLiabilityLimit-Property Damage|~|BAOwnedLiabilityLimit-Property Damage|~|BAOwnedLiabilityLimit-Property Damage
+covg_term|~|MSTR_REF|~|BAOwnedMedPayCoordinate|~|BAOwnedMedPayCoordinate|~|BAOwnedMedPayCoordinate
+covg_term|~|MSTR_REF|~|BAOwnedMedPayLimit|~|BAOwnedMedPayLimit|~|BAOwnedMedPayLimit
+covg_term|~|MSTR_REF|~|BAOwnedUIMBI-Bodily Injury Each Person|~|BAOwnedUIMBI-Bodily Injury Each Person|~|BAOwnedUIMBI-Bodily Injury Each Person
+covg_term|~|MSTR_REF|~|BAOwnedUIMBI-Bodily Injury Per Occurrence|~|BAOwnedUIMBI-Bodily Injury Per Occurrence|~|BAOwnedUIMBI-Bodily Injury Per Occurrence
+covg_term|~|MSTR_REF|~|BAOwnedUMBI-Bodily Injury Each Person|~|BAOwnedUMBI-Bodily Injury Each Person|~|BAOwnedUMBI-Bodily Injury Each Person
+covg_term|~|MSTR_REF|~|BAOwnedUMBI-Bodily Injury Per Occurrence|~|BAOwnedUMBI-Bodily Injury Per Occurrence|~|BAOwnedUMBI-Bodily Injury Per Occurrence
+covg_term|~|MSTR_REF|~|BAOwnedUMBI-Property Damage|~|BAOwnedUMBI-Property Damage|~|BAOwnedUMBI-Property Damage
+covg_term|~|MSTR_REF|~|BAOwnedUMBISuppBI-Bodily Injury Each Person|~|BAOwnedUMBISuppBI-Bodily Injury Each Person|~|BAOwnedUMBISuppBI-Bodily Injury Each Person
+covg_term|~|MSTR_REF|~|BAOwnedUMBISuppBI-Bodily Injury Per Occurrence|~|BAOwnedUMBISuppBI-Bodily Injury Per Occurrence|~|BAOwnedUMBISuppBI-Bodily Injury Per Occurrence
+covg_term|~|MSTR_REF|~|BAOwnedUMBISuppBI-Combined Single Limit|~|BAOwnedUMBISuppBI-Combined Single Limit|~|BAOwnedUMBISuppBI-Combined Single Limit
+covg_term|~|MSTR_REF|~|BAOwnedUMConversion|~|BAOwnedUMConversion|~|BAOwnedUMConversion
+covg_term|~|MSTR_REF|~|BAOwnedUMStack|~|BAOwnedUMStack|~|BAOwnedUMStack
+covg_term|~|MSTR_REF|~|BAOwnedUMStackUIM|~|BAOwnedUMStackUIM|~|BAOwnedUMStackUIM
+covg_term|~|MSTR_REF|~|BAPIP_AR_Med|~|BAPIP_AR_Med|~|BAPIP_AR_Med
+covg_term|~|MSTR_REF|~|BAPIP_AR_WorkLoss|~|BAPIP_AR_WorkLoss|~|BAPIP_AR_WorkLoss
+covg_term|~|MSTR_REF|~|BAPIP_DC_Funeral|~|BAPIP_DC_Funeral|~|BAPIP_DC_Funeral
+covg_term|~|MSTR_REF|~|BAPIP_DC_Medical|~|BAPIP_DC_Medical|~|BAPIP_DC_Medical
+covg_term|~|MSTR_REF|~|BAPIP_DC_WorkLoss|~|BAPIP_DC_WorkLoss|~|BAPIP_DC_WorkLoss
+covg_term|~|MSTR_REF|~|BAPIP_DE_LIM-100ACCIDENT|~|BAPIP_DE_LIM-100ACCIDENT|~|BAPIP_DE_LIM-100ACCIDENT
+covg_term|~|MSTR_REF|~|BAPIP_DE_LIM-100CSL|~|BAPIP_DE_LIM-100CSL|~|BAPIP_DE_LIM-100CSL
+covg_term|~|MSTR_REF|~|BAPIP_DE_LIM-15PERSON|~|BAPIP_DE_LIM-15PERSON|~|BAPIP_DE_LIM-15PERSON
+covg_term|~|MSTR_REF|~|BAPIP_DE_LIM-25PERSON|~|BAPIP_DE_LIM-25PERSON|~|BAPIP_DE_LIM-25PERSON
+covg_term|~|MSTR_REF|~|BAPIP_DE_LIM-30ACCIDENT|~|BAPIP_DE_LIM-30ACCIDENT|~|BAPIP_DE_LIM-30ACCIDENT
+covg_term|~|MSTR_REF|~|BAPIP_DE_LIM-30CSL|~|BAPIP_DE_LIM-30CSL|~|BAPIP_DE_LIM-30CSL
+covg_term|~|MSTR_REF|~|BAPIP_DE_LIM-50ACCIDENT|~|BAPIP_DE_LIM-50ACCIDENT|~|BAPIP_DE_LIM-50ACCIDENT
+covg_term|~|MSTR_REF|~|BAPIP_DE_LIM-50CSL|~|BAPIP_DE_LIM-50CSL|~|BAPIP_DE_LIM-50CSL
+covg_term|~|MSTR_REF|~|BAPIP_DE_LIM-50PERSON|~|BAPIP_DE_LIM-50PERSON|~|BAPIP_DE_LIM-50PERSON
+covg_term|~|MSTR_REF|~|BAPollutLiabBasicCov|~|BAPollutLiabBasicCov|~|BAPollutLiabBasicCov
+covg_term|~|MSTR_REF|~|BAPollutLiabBoardCov|~|BAPollutLiabBoardCov|~|BAPollutLiabBoardCov
+covg_term|~|MSTR_REF|~|BAPropProtectLimit|~|BAPropProtectLimit|~|BAPropProtectLimit
+covg_term|~|MSTR_REF|~|BARental-Num Days|~|BARental-Num Days|~|BARental-Num Days
+covg_term|~|MSTR_REF|~|BARental-Per Day Limit|~|BARental-Per Day Limit|~|BARental-Per Day Limit
+covg_term|~|MSTR_REF|~|BASeasonalTrailerLiabDesc|~|BASeasonalTrailerLiabDesc|~|BASeasonalTrailerLiabDesc
+covg_term|~|MSTR_REF|~|BASeasonTrailerLiabCount|~|BASeasonTrailerLiabCount|~|BASeasonTrailerLiabCount
+covg_term|~|MSTR_REF|~|BASeasonTrailerLiabEndDate|~|BASeasonTrailerLiabEndDate|~|BASeasonTrailerLiabEndDate
+covg_term|~|MSTR_REF|~|BASeasonTrailerLiabLimit|~|BASeasonTrailerLiabLimit|~|BASeasonTrailerLiabLimit
+covg_term|~|MSTR_REF|~|BASeasonTrailerLiabProdTransp|~|BASeasonTrailerLiabProdTransp|~|BASeasonTrailerLiabProdTransp
+covg_term|~|MSTR_REF|~|BASeasonTrailerLiabStartDate|~|BASeasonTrailerLiabStartDate|~|BASeasonTrailerLiabStartDate
+covg_term|~|MSTR_REF|~|BASpecCausesLossCovSpecifiedCauseOfLoss|~|BASpecCausesLossCovSpecifiedCauseOfLoss|~|BASpecCausesLossCovSpecifiedCauseOfLoss
+covg_term|~|MSTR_REF|~|BASpecCausesLossDdct|~|BASpecCausesLossDdct|~|BASpecCausesLossDdct
+covg_term|~|MSTR_REF|~|BATapeDiscLimit|~|BATapeDiscLimit|~|BATapeDiscLimit
+covg_term|~|MSTR_REF|~|BATow|~|BATow|~|BATow
+covg_term|~|MSTR_REF|~|BAUIMPDLimit|~|BAUIMPDLimit|~|BAUIMPDLimit
+covg_term|~|MSTR_REF|~|BAUMEconomicOnly|~|BAUMEconomicOnly|~|BAUMEconomicOnly
+covg_term|~|MSTR_REF|~|BAUMPDLimit|~|BAUMPDLimit|~|BAUMPDLimit
+covg_term|~|MSTR_REF|~|BAZeroGlass|~|BAZeroGlass|~|BAZeroGlass
+covg_term|~|MSTR_REF|~|BOPAggLimitProjCov|~|BOPAggLimitProjCov|~|BOPAggLimitProjCov
+covg_term|~|MSTR_REF|~|BOPAlaskaAFGLLim|~|BOPAlaskaAFGLLim|~|BOPAlaskaAFGLLim
+covg_term|~|MSTR_REF|~|BOPARonPremLim|~|BOPARonPremLim|~|BOPARonPremLim
+covg_term|~|MSTR_REF|~|BOPBarberBeautNum|~|BOPBarberBeautNum|~|BOPBarberBeautNum
+covg_term|~|MSTR_REF|~|BOPBaseDed|~|BOPBaseDed|~|BOPBaseDed
+covg_term|~|MSTR_REF|~|BOPBIDepPropLim|~|BOPBIDepPropLim|~|BOPBIDepPropLim
+covg_term|~|MSTR_REF|~|BOPBldgAnnualIncrease|~|BOPBldgAnnualIncrease|~|BOPBldgAnnualIncrease
+covg_term|~|MSTR_REF|~|BOPBldgLim|~|BOPBldgLim|~|BOPBldgLim
+covg_term|~|MSTR_REF|~|BOPBldgValuation|~|BOPBldgValuation|~|BOPBldgValuation
+covg_term|~|MSTR_REF|~|BOPBPPBldgLim|~|BOPBPPBldgLim|~|BOPBPPBldgLim
+covg_term|~|MSTR_REF|~|BOPBPPValuation|~|BOPBPPValuation|~|BOPBPPValuation
+covg_term|~|MSTR_REF|~|BOPBreakContam|~|BOPBreakContam|~|BOPBreakContam
+covg_term|~|MSTR_REF|~|BOPBuildingCoin|~|BOPBuildingCoin|~|BOPBuildingCoin
+covg_term|~|MSTR_REF|~|BOPBurgRobLim|~|BOPBurgRobLim|~|BOPBurgRobLim
+covg_term|~|MSTR_REF|~|BOPCAEqBldgRecLimit|~|BOPCAEqBldgRecLimit|~|BOPCAEqBldgRecLimit
+covg_term|~|MSTR_REF|~|BOPCAEqBldgSubDed|~|BOPCAEqBldgSubDed|~|BOPCAEqBldgSubDed
+covg_term|~|MSTR_REF|~|BOPCAEqBldgSubLim|~|BOPCAEqBldgSubLim|~|BOPCAEqBldgSubLim
+covg_term|~|MSTR_REF|~|BOPCertTerrorCapLimit|~|BOPCertTerrorCapLimit|~|BOPCertTerrorCapLimit
+covg_term|~|MSTR_REF|~|BOPComputerFraudLim|~|BOPComputerFraudLim|~|BOPComputerFraudLim
+covg_term|~|MSTR_REF|~|BOPCondoAssnCov|~|BOPCondoAssnCov|~|BOPCondoAssnCov
+covg_term|~|MSTR_REF|~|BOPDesigPremProj|~|BOPDesigPremProj|~|BOPDesigPremProj
+covg_term|~|MSTR_REF|~|BOPElectricalSchedLimit|~|BOPElectricalSchedLimit|~|BOPElectricalSchedLimit
+covg_term|~|MSTR_REF|~|BOPEmpBenAggLim|~|BOPEmpBenAggLim|~|BOPEmpBenAggLim
+covg_term|~|MSTR_REF|~|BOPEmpBenEachEmpDed|~|BOPEmpBenEachEmpDed|~|BOPEmpBenEachEmpDed
+covg_term|~|MSTR_REF|~|BOPEmpBenEachEmpLim|~|BOPEmpBenEachEmpLim|~|BOPEmpBenEachEmpLim
+covg_term|~|MSTR_REF|~|BOPEmpBenExtRpting|~|BOPEmpBenExtRpting|~|BOPEmpBenExtRpting
+covg_term|~|MSTR_REF|~|BOPEmpBenRetroDate|~|BOPEmpBenRetroDate|~|BOPEmpBenRetroDate
+covg_term|~|MSTR_REF|~|BOPEmpDisLimit|~|BOPEmpDisLimit|~|BOPEmpDisLimit
+covg_term|~|MSTR_REF|~|BOPEmpDisNumEmp|~|BOPEmpDisNumEmp|~|BOPEmpDisNumEmp
+covg_term|~|MSTR_REF|~|BOPEmpDisNumLoc|~|BOPEmpDisNumLoc|~|BOPEmpDisNumLoc
+covg_term|~|MSTR_REF|~|BOPEqSpBldgCov|~|BOPEqSpBldgCov|~|BOPEqSpBldgCov
+covg_term|~|MSTR_REF|~|BOPFDService|~|BOPFDService|~|BOPFDService
+covg_term|~|MSTR_REF|~|BOPFoodContamAdvLim|~|BOPFoodContamAdvLim|~|BOPFoodContamAdvLim
+covg_term|~|MSTR_REF|~|BOPFoodContamLim|~|BOPFoodContamLim|~|BOPFoodContamLim
+covg_term|~|MSTR_REF|~|BOPForgeAltLimit|~|BOPForgeAltLimit|~|BOPForgeAltLimit
+covg_term|~|MSTR_REF|~|BOPFridgeMaintenance|~|BOPFridgeMaintenance|~|BOPFridgeMaintenance
+covg_term|~|MSTR_REF|~|BOPFuncPerPropLim|~|BOPFuncPerPropLim|~|BOPFuncPerPropLim
+covg_term|~|MSTR_REF|~|BOPFuneralDirNum|~|BOPFuneralDirNum|~|BOPFuneralDirNum
+covg_term|~|MSTR_REF|~|BOPFungiAggLevel|~|BOPFungiAggLevel|~|BOPFungiAggLevel
+covg_term|~|MSTR_REF|~|BOPFungiPropLim|~|BOPFungiPropLim|~|BOPFungiPropLim
+covg_term|~|MSTR_REF|~|BOPFungiTimeCov|~|BOPFungiTimeCov|~|BOPFungiTimeCov
+covg_term|~|MSTR_REF|~|BOPGlassDed|~|BOPGlassDed|~|BOPGlassDed
+covg_term|~|MSTR_REF|~|BOPGuestSafeDepLimit|~|BOPGuestSafeDepLimit|~|BOPGuestSafeDepLimit
+covg_term|~|MSTR_REF|~|BOPHearingAidSales|~|BOPHearingAidSales|~|BOPHearingAidSales
+covg_term|~|MSTR_REF|~|BOPHiredAuto|~|BOPHiredAuto|~|BOPHiredAuto
+covg_term|~|MSTR_REF|~|BOPInstallationLim-All Jobs Limit|~|BOPInstallationLim-All Jobs Limit|~|BOPInstallationLim-All Jobs Limit
+covg_term|~|MSTR_REF|~|BOPInstallationLim-Each Job Limit|~|BOPInstallationLim-Each Job Limit|~|BOPInstallationLim-Each Job Limit
+covg_term|~|MSTR_REF|~|BOPLeasedWorkerInjCov|~|BOPLeasedWorkerInjCov|~|BOPLeasedWorkerInjCov
+covg_term|~|MSTR_REF|~|BOPLiabDeductType|~|BOPLiabDeductType|~|BOPLiabDeductType
+covg_term|~|MSTR_REF|~|BOPLiability-BOP liability-general agg|~|BOPLiability-BOP liability-general agg|~|BOPLiability-BOP liability-general agg
+covg_term|~|MSTR_REF|~|BOPLiability-BOP liability-medical|~|BOPLiability-BOP liability-medical|~|BOPLiability-BOP liability-medical
+covg_term|~|MSTR_REF|~|BOPLiability-BOP liability-products|~|BOPLiability-BOP liability-products|~|BOPLiability-BOP liability-products
+covg_term|~|MSTR_REF|~|BOPLiabPDDeductible|~|BOPLiabPDDeductible|~|BOPLiabPDDeductible
+covg_term|~|MSTR_REF|~|BOPLiquorAggLim|~|BOPLiquorAggLim|~|BOPLiquorAggLim
+covg_term|~|MSTR_REF|~|BOPLiquorCauseBILim|~|BOPLiquorCauseBILim|~|BOPLiquorCauseBILim
+covg_term|~|MSTR_REF|~|BOPLiquorCauseLim|~|BOPLiquorCauseLim|~|BOPLiquorCauseLim
+covg_term|~|MSTR_REF|~|BOPLiquorCauseMSLim|~|BOPLiquorCauseMSLim|~|BOPLiquorCauseMSLim
+covg_term|~|MSTR_REF|~|BOPLiquorMSLim|~|BOPLiquorMSLim|~|BOPLiquorMSLim
+covg_term|~|MSTR_REF|~|BOPLiquorPersonBILim|~|BOPLiquorPersonBILim|~|BOPLiquorPersonBILim
+covg_term|~|MSTR_REF|~|BOPLiquorPersonLim|~|BOPLiquorPersonLim|~|BOPLiquorPersonLim
+covg_term|~|MSTR_REF|~|BOPLiquorPersonMSLim|~|BOPLiquorPersonMSLim|~|BOPLiquorPersonMSLim
+covg_term|~|MSTR_REF|~|BOPLiquorPersonPDLim|~|BOPLiquorPersonPDLim|~|BOPLiquorPersonPDLim
+covg_term|~|MSTR_REF|~|BOPLiquorRemoveExc|~|BOPLiquorRemoveExc|~|BOPLiquorRemoveExc
+covg_term|~|MSTR_REF|~|BOPMALeadPoisonCov|~|BOPMALeadPoisonCov|~|BOPMALeadPoisonCov
+covg_term|~|MSTR_REF|~|BOPMATenantReloCov|~|BOPMATenantReloCov|~|BOPMATenantReloCov
+covg_term|~|MSTR_REF|~|BOPMechBreakdownDeduct|~|BOPMechBreakdownDeduct|~|BOPMechBreakdownDeduct
+covg_term|~|MSTR_REF|~|BOPMechBreakdownIncomeDeduct|~|BOPMechBreakdownIncomeDeduct|~|BOPMechBreakdownIncomeDeduct
+covg_term|~|MSTR_REF|~|BOPMechBreakdownLim|~|BOPMechBreakdownLim|~|BOPMechBreakdownLim
+covg_term|~|MSTR_REF|~|BOPMedExpenseLimit|~|BOPMedExpenseLimit|~|BOPMedExpenseLimit
+covg_term|~|MSTR_REF|~|BOPMineSubLim|~|BOPMineSubLim|~|BOPMineSubLim
+covg_term|~|MSTR_REF|~|BOPMoneyOffPremLim|~|BOPMoneyOffPremLim|~|BOPMoneyOffPremLim
+covg_term|~|MSTR_REF|~|BOPMoneyOnPremLim|~|BOPMoneyOnPremLim|~|BOPMoneyOnPremLim
+covg_term|~|MSTR_REF|~|BOPMotelCov|~|BOPMotelCov|~|BOPMotelCov
+covg_term|~|MSTR_REF|~|BOPNewAcquiredOrgCov|~|BOPNewAcquiredOrgCov|~|BOPNewAcquiredOrgCov
+covg_term|~|MSTR_REF|~|BOPNonOwnedAutoCov|~|BOPNonOwnedAutoCov|~|BOPNonOwnedAutoCov
+covg_term|~|MSTR_REF|~|BOPOptCovDed|~|BOPOptCovDed|~|BOPOptCovDed
+covg_term|~|MSTR_REF|~|BOPOrdLawCov1yesno|~|BOPOrdLawCov1yesno|~|BOPOrdLawCov1yesno
+covg_term|~|MSTR_REF|~|BOPOrdLawCov23Lim|~|BOPOrdLawCov23Lim|~|BOPOrdLawCov23Lim
+covg_term|~|MSTR_REF|~|BOPOrdLawCov2Lim|~|BOPOrdLawCov2Lim|~|BOPOrdLawCov2Lim
+covg_term|~|MSTR_REF|~|BOPOrdLawCov3Lim|~|BOPOrdLawCov3Lim|~|BOPOrdLawCov3Lim
+covg_term|~|MSTR_REF|~|BOPOrdLawIncomeExpense|~|BOPOrdLawIncomeExpense|~|BOPOrdLawIncomeExpense
+covg_term|~|MSTR_REF|~|BOPOrdLawIncomeExpenseDeduct|~|BOPOrdLawIncomeExpenseDeduct|~|BOPOrdLawIncomeExpenseDeduct
+covg_term|~|MSTR_REF|~|BOPOutdoorPropLim-BOP_PropLim|~|BOPOutdoorPropLim-BOP_PropLim|~|BOPOutdoorPropLim-BOP_PropLim
+covg_term|~|MSTR_REF|~|BOPOutdoorPropLim-BOP_PropLimOther|~|BOPOutdoorPropLim-BOP_PropLimOther|~|BOPOutdoorPropLim-BOP_PropLimOther
+covg_term|~|MSTR_REF|~|BOPOutdoorSignLim|~|BOPOutdoorSignLim|~|BOPOutdoorSignLim
+covg_term|~|MSTR_REF|~|BOPOverflowLim|~|BOPOverflowLim|~|BOPOverflowLim
+covg_term|~|MSTR_REF|~|BOPPerPropOffPremLim|~|BOPPerPropOffPremLim|~|BOPPerPropOffPremLim
+covg_term|~|MSTR_REF|~|BOPPersAdvertInj|~|BOPPersAdvertInj|~|BOPPersAdvertInj
+covg_term|~|MSTR_REF|~|BOPPersEffectsLim|~|BOPPersEffectsLim|~|BOPPersEffectsLim
+covg_term|~|MSTR_REF|~|BOPPersonalPropCoin|~|BOPPersonalPropCoin|~|BOPPersonalPropCoin
+covg_term|~|MSTR_REF|~|BOPPesticideApplicatorCov|~|BOPPesticideApplicatorCov|~|BOPPesticideApplicatorCov
+covg_term|~|MSTR_REF|~|BOPPhamacistSales|~|BOPPhamacistSales|~|BOPPhamacistSales
+covg_term|~|MSTR_REF|~|BOPPollutionLim|~|BOPPollutionLim|~|BOPPollutionLim
+covg_term|~|MSTR_REF|~|BOPPowerOutage|~|BOPPowerOutage|~|BOPPowerOutage
+covg_term|~|MSTR_REF|~|BOPPrinterSales|~|BOPPrinterSales|~|BOPPrinterSales
+covg_term|~|MSTR_REF|~|BOPPropBuildDed|~|BOPPropBuildDed|~|BOPPropBuildDed
+covg_term|~|MSTR_REF|~|BOPPropertyCovCauseOfLoss|~|BOPPropertyCovCauseOfLoss|~|BOPPropertyCovCauseOfLoss
+covg_term|~|MSTR_REF|~|BOPReceivablesOffPremLim|~|BOPReceivablesOffPremLim|~|BOPReceivablesOffPremLim
+covg_term|~|MSTR_REF|~|BOPSelfStorCov|~|BOPSelfStorCov|~|BOPSelfStorCov
+covg_term|~|MSTR_REF|~|BOPSpoilageCovDescription|~|BOPSpoilageCovDescription|~|BOPSpoilageCovDescription
+covg_term|~|MSTR_REF|~|BOPSpoilageDed|~|BOPSpoilageDed|~|BOPSpoilageDed
+covg_term|~|MSTR_REF|~|BOPSpoilageLim|~|BOPSpoilageLim|~|BOPSpoilageLim
+covg_term|~|MSTR_REF|~|BOPSprinklerLeak|~|BOPSprinklerLeak|~|BOPSprinklerLeak
+covg_term|~|MSTR_REF|~|BOPTenantsFireLiabBaseLimit|~|BOPTenantsFireLiabBaseLimit|~|BOPTenantsFireLiabBaseLimit
+covg_term|~|MSTR_REF|~|BOPTenantsLiabLim|~|BOPTenantsLiabLim|~|BOPTenantsLiabLim
+covg_term|~|MSTR_REF|~|BOPToolsBlanketLim|~|BOPToolsBlanketLim|~|BOPToolsBlanketLim
+covg_term|~|MSTR_REF|~|BOPToolsEmployees|~|BOPToolsEmployees|~|BOPToolsEmployees
+covg_term|~|MSTR_REF|~|BOPToolsNonOwnedLim|~|BOPToolsNonOwnedLim|~|BOPToolsNonOwnedLim
+covg_term|~|MSTR_REF|~|BOPToolsSchedLim|~|BOPToolsSchedLim|~|BOPToolsSchedLim
+covg_term|~|MSTR_REF|~|BOPUtilDirectComm|~|BOPUtilDirectComm|~|BOPUtilDirectComm
+covg_term|~|MSTR_REF|~|BOPUtilDirectCommOH|~|BOPUtilDirectCommOH|~|BOPUtilDirectCommOH
+covg_term|~|MSTR_REF|~|BOPUtilDirectLim|~|BOPUtilDirectLim|~|BOPUtilDirectLim
+covg_term|~|MSTR_REF|~|BOPUtilDirectPower|~|BOPUtilDirectPower|~|BOPUtilDirectPower
+covg_term|~|MSTR_REF|~|BOPUtilDirectPowerOH|~|BOPUtilDirectPowerOH|~|BOPUtilDirectPowerOH
+covg_term|~|MSTR_REF|~|BOPUtilDirectWater|~|BOPUtilDirectWater|~|BOPUtilDirectWater
+covg_term|~|MSTR_REF|~|BOPUtilTimeComm|~|BOPUtilTimeComm|~|BOPUtilTimeComm
+covg_term|~|MSTR_REF|~|BOPUtilTimeCommOH|~|BOPUtilTimeCommOH|~|BOPUtilTimeCommOH
+covg_term|~|MSTR_REF|~|BOPUtilTimeLim|~|BOPUtilTimeLim|~|BOPUtilTimeLim
+covg_term|~|MSTR_REF|~|BOPUtilTimePower|~|BOPUtilTimePower|~|BOPUtilTimePower
+covg_term|~|MSTR_REF|~|BOPUtilTimePowerOH|~|BOPUtilTimePowerOH|~|BOPUtilTimePowerOH
+covg_term|~|MSTR_REF|~|BOPUtilTimeWater|~|BOPUtilTimeWater|~|BOPUtilTimeWater
+covg_term|~|MSTR_REF|~|BOPVacancyChange|~|BOPVacancyChange|~|BOPVacancyChange
+covg_term|~|MSTR_REF|~|BOPVacancyCovFromDate|~|BOPVacancyCovFromDate|~|BOPVacancyCovFromDate
+covg_term|~|MSTR_REF|~|BOPVacancyCovToDate|~|BOPVacancyCovToDate|~|BOPVacancyCovToDate
+covg_term|~|MSTR_REF|~|BOPValPaperOnPremLim|~|BOPValPaperOnPremLim|~|BOPValPaperOnPremLim
+covg_term|~|MSTR_REF|~|BOPValPapersOffPremLimit|~|BOPValPapersOffPremLimit|~|BOPValPapersOffPremLimit
+covg_term|~|MSTR_REF|~|BOPVandalism|~|BOPVandalism|~|BOPVandalism
+covg_term|~|MSTR_REF|~|BOPVetNum|~|BOPVetNum|~|BOPVetNum
+covg_term|~|MSTR_REF|~|BOPWindHailDed|~|BOPWindHailDed|~|BOPWindHailDed
+covg_term|~|MSTR_REF|~|BOPWindHailMoneyDed|~|BOPWindHailMoneyDed|~|BOPWindHailMoneyDed
+covg_term|~|MSTR_REF|~|BOPY2KIncomeExpenseLim|~|BOPY2KIncomeExpenseLim|~|BOPY2KIncomeExpenseLim
+covg_term|~|MSTR_REF|~|BOPY2KLimitedCov|~|BOPY2KLimitedCov|~|BOPY2KLimitedCov
+covg_term|~|MSTR_REF|~|BOPY2KPremOnlyCov|~|BOPY2KPremOnlyCov|~|BOPY2KPremOnlyCov
+covg_term|~|MSTR_REF|~|BusIncomeExtended|~|BusIncomeExtended|~|BusIncomeExtended
+covg_term|~|MSTR_REF|~|BusIncomeMfgLimit|~|BusIncomeMfgLimit|~|BusIncomeMfgLimit
+covg_term|~|MSTR_REF|~|BusIncomeOrdPayroll|~|BusIncomeOrdPayroll|~|BusIncomeOrdPayroll
+covg_term|~|MSTR_REF|~|BusIncomeOtherLimit|~|BusIncomeOtherLimit|~|BusIncomeOtherLimit
+covg_term|~|MSTR_REF|~|BusIncomeRentalLimit|~|BusIncomeRentalLimit|~|BusIncomeRentalLimit
+covg_term|~|MSTR_REF|~|BusIncWaitingPeriod|~|BusIncWaitingPeriod|~|BusIncWaitingPeriod
+covg_term|~|MSTR_REF|~|CAPIP_FL_ApplyDeductible|~|CAPIP_FL_ApplyDeductible|~|CAPIP_FL_ApplyDeductible
+covg_term|~|MSTR_REF|~|CAPIP_FL_Deductible|~|CAPIP_FL_Deductible|~|CAPIP_FL_Deductible
+covg_term|~|MSTR_REF|~|CAPIP_FL_LIMIT|~|CAPIP_FL_LIMIT|~|CAPIP_FL_LIMIT
+covg_term|~|MSTR_REF|~|CAPIP_FL_WorkWaiver|~|CAPIP_FL_WorkWaiver|~|CAPIP_FL_WorkWaiver
+covg_term|~|MSTR_REF|~|CAPIP_ND_INCOME|~|CAPIP_ND_INCOME|~|CAPIP_ND_INCOME
+covg_term|~|MSTR_REF|~|CAPIP_ND_MEDICAL|~|CAPIP_ND_MEDICAL|~|CAPIP_ND_MEDICAL
+covg_term|~|MSTR_REF|~|CAPIP_NY_AGGREGATE|~|CAPIP_NY_AGGREGATE|~|CAPIP_NY_AGGREGATE
+covg_term|~|MSTR_REF|~|CGLProdCompOpBIAgg|~|CGLProdCompOpBIAgg|~|CGLProdCompOpBIAgg
+covg_term|~|MSTR_REF|~|CGLProdCompOpsPDAgg|~|CGLProdCompOpsPDAgg|~|CGLProdCompOpsPDAgg
+covg_term|~|MSTR_REF|~|CGLProductsAggLim|~|CGLProductsAggLim|~|CGLProductsAggLim
+covg_term|~|MSTR_REF|~|ClaimBasis|~|ClaimBasis|~|ClaimBasis
+covg_term|~|MSTR_REF|~|CondoLossAssessment|~|CondoLossAssessment|~|CondoLossAssessment
+covg_term|~|MSTR_REF|~|CondoMiscProp|~|CondoMiscProp|~|CondoMiscProp
+covg_term|~|MSTR_REF|~|CondoMiscPropDed|~|CondoMiscPropDed|~|CondoMiscPropDed
+covg_term|~|MSTR_REF|~|CondoOwnerLimit|~|CondoOwnerLimit|~|CondoOwnerLimit
+covg_term|~|MSTR_REF|~|ContractorsEquipAdditionallyAcquiredProperty|~|ContractorsEquipAdditionallyAcquiredProperty|~|ContractorsEquipAdditionallyAcquiredProperty
+covg_term|~|MSTR_REF|~|ContractorsEquipDebrisRemoval|~|ContractorsEquipDebrisRemoval|~|ContractorsEquipDebrisRemoval
+covg_term|~|MSTR_REF|~|ContractorsEquipEmployeesToolsDeductible|~|ContractorsEquipEmployeesToolsDeductible|~|ContractorsEquipEmployeesToolsDeductible
+covg_term|~|MSTR_REF|~|ContractorsEquipEmployeesToolsLimit|~|ContractorsEquipEmployeesToolsLimit|~|ContractorsEquipEmployeesToolsLimit
+covg_term|~|MSTR_REF|~|ContractorsEquipEmployeesToolsMaxIndivItemVal|~|ContractorsEquipEmployeesToolsMaxIndivItemVal|~|ContractorsEquipEmployeesToolsMaxIndivItemVal
+covg_term|~|MSTR_REF|~|ContractorsEquipMiscUnscheduledDeductible|~|ContractorsEquipMiscUnscheduledDeductible|~|ContractorsEquipMiscUnscheduledDeductible
+covg_term|~|MSTR_REF|~|ContractorsEquipMiscUnscheduledLimit|~|ContractorsEquipMiscUnscheduledLimit|~|ContractorsEquipMiscUnscheduledLimit
+covg_term|~|MSTR_REF|~|ContractorsEquipMiscUnschItemMaxItemVal|~|ContractorsEquipMiscUnschItemMaxItemVal|~|ContractorsEquipMiscUnschItemMaxItemVal
+covg_term|~|MSTR_REF|~|ContractorsEquipPollutionCleanup|~|ContractorsEquipPollutionCleanup|~|ContractorsEquipPollutionCleanup
+covg_term|~|MSTR_REF|~|ContractorsEquipPreservationOfProperty|~|ContractorsEquipPreservationOfProperty|~|ContractorsEquipPreservationOfProperty
+covg_term|~|MSTR_REF|~|ContractorsEquipRentalPolicyLimit|~|ContractorsEquipRentalPolicyLimit|~|ContractorsEquipRentalPolicyLimit
+covg_term|~|MSTR_REF|~|ContractorsEquipRentalReibursementDeductible|~|ContractorsEquipRentalReibursementDeductible|~|ContractorsEquipRentalReibursementDeductible
+covg_term|~|MSTR_REF|~|ContractorsEquipRentalReibursementOccurrenceLimit|~|ContractorsEquipRentalReibursementOccurrenceLimit|~|ContractorsEquipRentalReibursementOccurrenceLimit
+covg_term|~|MSTR_REF|~|ContractorsEquipRentedEquipmentDeductible|~|ContractorsEquipRentedEquipmentDeductible|~|ContractorsEquipRentedEquipmentDeductible
+covg_term|~|MSTR_REF|~|ContractorsEquipRentedEquipmentLimit|~|ContractorsEquipRentedEquipmentLimit|~|ContractorsEquipRentedEquipmentLimit
+covg_term|~|MSTR_REF|~|ContractorsEquipRentedEquipmentMaxIndivItemVal|~|ContractorsEquipRentedEquipmentMaxIndivItemVal|~|ContractorsEquipRentedEquipmentMaxIndivItemVal
+covg_term|~|MSTR_REF|~|ContractorsEquipSchedCovDeductible|~|ContractorsEquipSchedCovDeductible|~|ContractorsEquipSchedCovDeductible
+covg_term|~|MSTR_REF|~|ContractorsEquipSchedCovLimit|~|ContractorsEquipSchedCovLimit|~|ContractorsEquipSchedCovLimit
+covg_term|~|MSTR_REF|~|ContractorsEquipSchedCovValuation|~|ContractorsEquipSchedCovValuation|~|ContractorsEquipSchedCovValuation
+covg_term|~|MSTR_REF|~|CPBlanketCoinsurance|~|CPBlanketCoinsurance|~|CPBlanketCoinsurance
+covg_term|~|MSTR_REF|~|CPBlanketDeductible|~|CPBlanketDeductible|~|CPBlanketDeductible
+covg_term|~|MSTR_REF|~|CPBlanketLimit|~|CPBlanketLimit|~|CPBlanketLimit
+covg_term|~|MSTR_REF|~|CPBldgBusIncomeCovCauseOfLoss|~|CPBldgBusIncomeCovCauseOfLoss|~|CPBldgBusIncomeCovCauseOfLoss
+covg_term|~|MSTR_REF|~|CPBldgBusIncomeCovCoinsurance|~|CPBldgBusIncomeCovCoinsurance|~|CPBldgBusIncomeCovCoinsurance
+covg_term|~|MSTR_REF|~|CPBldgBusIncomeCovPeriod|~|CPBldgBusIncomeCovPeriod|~|CPBldgBusIncomeCovPeriod
+covg_term|~|MSTR_REF|~|CPBldgBusIncomeCovWaiting|~|CPBldgBusIncomeCovWaiting|~|CPBldgBusIncomeCovWaiting
+covg_term|~|MSTR_REF|~|CPBldgCovAutoIncrease|~|CPBldgCovAutoIncrease|~|CPBldgCovAutoIncrease
+covg_term|~|MSTR_REF|~|CPBldgCovCauseOfLoss|~|CPBldgCovCauseOfLoss|~|CPBldgCovCauseOfLoss
+covg_term|~|MSTR_REF|~|CPBldgCovCoinsurance|~|CPBldgCovCoinsurance|~|CPBldgCovCoinsurance
+covg_term|~|MSTR_REF|~|CPBldgCovDeductible|~|CPBldgCovDeductible|~|CPBldgCovDeductible
+covg_term|~|MSTR_REF|~|CPBldgCovExcludeSprinkler|~|CPBldgCovExcludeSprinkler|~|CPBldgCovExcludeSprinkler
+covg_term|~|MSTR_REF|~|CPBldgCovExcludeTheft|~|CPBldgCovExcludeTheft|~|CPBldgCovExcludeTheft
+covg_term|~|MSTR_REF|~|CPBldgCovExcludeVandalism|~|CPBldgCovExcludeVandalism|~|CPBldgCovExcludeVandalism
+covg_term|~|MSTR_REF|~|CPBldgCovLimit|~|CPBldgCovLimit|~|CPBldgCovLimit
+covg_term|~|MSTR_REF|~|CPBldgCovValuationMethod|~|CPBldgCovValuationMethod|~|CPBldgCovValuationMethod
+covg_term|~|MSTR_REF|~|CPBldgCovWindDeductible|~|CPBldgCovWindDeductible|~|CPBldgCovWindDeductible
+covg_term|~|MSTR_REF|~|CPBldgExtraExpenseCovLimit|~|CPBldgExtraExpenseCovLimit|~|CPBldgExtraExpenseCovLimit
+covg_term|~|MSTR_REF|~|CPBldgExtraExpenseCovMonthLimit-Month 1|~|CPBldgExtraExpenseCovMonthLimit-Month 1|~|CPBldgExtraExpenseCovMonthLimit-Month 1
+covg_term|~|MSTR_REF|~|CPBldgExtraExpenseCovMonthLimit-Month 2|~|CPBldgExtraExpenseCovMonthLimit-Month 2|~|CPBldgExtraExpenseCovMonthLimit-Month 2
+covg_term|~|MSTR_REF|~|CPBldgExtraExpenseCovMonthLimit-Month 3|~|CPBldgExtraExpenseCovMonthLimit-Month 3|~|CPBldgExtraExpenseCovMonthLimit-Month 3
+covg_term|~|MSTR_REF|~|CPBldgExtraExpenseCovMonthLimit-Month 4|~|CPBldgExtraExpenseCovMonthLimit-Month 4|~|CPBldgExtraExpenseCovMonthLimit-Month 4
+covg_term|~|MSTR_REF|~|CPBldgStockCovCauseOfLoss|~|CPBldgStockCovCauseOfLoss|~|CPBldgStockCovCauseOfLoss
+covg_term|~|MSTR_REF|~|CPBldgStockCovCoinsurance|~|CPBldgStockCovCoinsurance|~|CPBldgStockCovCoinsurance
+covg_term|~|MSTR_REF|~|CPBldgStockCovDeductible|~|CPBldgStockCovDeductible|~|CPBldgStockCovDeductible
+covg_term|~|MSTR_REF|~|CPBldgStockCovExcludeSprinkler|~|CPBldgStockCovExcludeSprinkler|~|CPBldgStockCovExcludeSprinkler
+covg_term|~|MSTR_REF|~|CPBldgStockCovExcludeTheft|~|CPBldgStockCovExcludeTheft|~|CPBldgStockCovExcludeTheft
+covg_term|~|MSTR_REF|~|CPBldgStockCovExcludeVandalism|~|CPBldgStockCovExcludeVandalism|~|CPBldgStockCovExcludeVandalism
+covg_term|~|MSTR_REF|~|CPBldgStockCovLimit|~|CPBldgStockCovLimit|~|CPBldgStockCovLimit
+covg_term|~|MSTR_REF|~|CPBldgStockCovReportingForm|~|CPBldgStockCovReportingForm|~|CPBldgStockCovReportingForm
+covg_term|~|MSTR_REF|~|CPBldgStockCovValuationMethod|~|CPBldgStockCovValuationMethod|~|CPBldgStockCovValuationMethod
+covg_term|~|MSTR_REF|~|CPBldgStockCovWindDeductible|~|CPBldgStockCovWindDeductible|~|CPBldgStockCovWindDeductible
+covg_term|~|MSTR_REF|~|CPBPPCovCauseOfLoss|~|CPBPPCovCauseOfLoss|~|CPBPPCovCauseOfLoss
+covg_term|~|MSTR_REF|~|CPBPPCovCoinsurance|~|CPBPPCovCoinsurance|~|CPBPPCovCoinsurance
+covg_term|~|MSTR_REF|~|CPBPPCovDeductible|~|CPBPPCovDeductible|~|CPBPPCovDeductible
+covg_term|~|MSTR_REF|~|CPBPPCovExcludeSprinkler|~|CPBPPCovExcludeSprinkler|~|CPBPPCovExcludeSprinkler
+covg_term|~|MSTR_REF|~|CPBPPCovExcludeTheft|~|CPBPPCovExcludeTheft|~|CPBPPCovExcludeTheft
+covg_term|~|MSTR_REF|~|CPBPPCovExcludeVandalism|~|CPBPPCovExcludeVandalism|~|CPBPPCovExcludeVandalism
+covg_term|~|MSTR_REF|~|CPBPPCovLimit|~|CPBPPCovLimit|~|CPBPPCovLimit
+covg_term|~|MSTR_REF|~|CPBPPCovReportingForm|~|CPBPPCovReportingForm|~|CPBPPCovReportingForm
+covg_term|~|MSTR_REF|~|CPBPPCovWindDeductible|~|CPBPPCovWindDeductible|~|CPBPPCovWindDeductible
+covg_term|~|MSTR_REF|~|CPBPPValuationMethod|~|CPBPPValuationMethod|~|CPBPPValuationMethod
+covg_term|~|MSTR_REF|~|DeathBenefit|~|DeathBenefit|~|DeathBenefit
+covg_term|~|MSTR_REF|~|DeathBenefitLimit|~|DeathBenefitLimit|~|DeathBenefitLimit
+covg_term|~|MSTR_REF|~|DesignatedPollutants|~|DesignatedPollutants|~|DesignatedPollutants
+covg_term|~|MSTR_REF|~|DisabilityBenefit|~|DisabilityBenefit|~|DisabilityBenefit
+covg_term|~|MSTR_REF|~|DisabilityBenefitLimit|~|DisabilityBenefitLimit|~|DisabilityBenefitLimit
+covg_term|~|MSTR_REF|~|DismembermentBenefitLimit|~|DismembermentBenefitLimit|~|DismembermentBenefitLimit
+covg_term|~|MSTR_REF|~|DPDW_Dwelling_Limit_HOE|~|DPDW_Dwelling_Limit_HOE|~|DPDW_Dwelling_Limit_HOE
+covg_term|~|MSTR_REF|~|DPDW_LossOfUseDwelLimit_HOE|~|DPDW_LossOfUseDwelLimit_HOE|~|DPDW_LossOfUseDwelLimit_HOE
+covg_term|~|MSTR_REF|~|DPDW_OffPremiseLimit_HOE|~|DPDW_OffPremiseLimit_HOE|~|DPDW_OffPremiseLimit_HOE
+covg_term|~|MSTR_REF|~|DPDW_OnPremiseLimit_HOE|~|DPDW_OnPremiseLimit_HOE|~|DPDW_OnPremiseLimit_HOE
+covg_term|~|MSTR_REF|~|DPDW_OrdinanceLimit_HOE|~|DPDW_OrdinanceLimit_HOE|~|DPDW_OrdinanceLimit_HOE
+covg_term|~|MSTR_REF|~|DPDW_OtherStructuresLimit_HOE|~|DPDW_OtherStructuresLimit_HOE|~|DPDW_OtherStructuresLimit_HOE
+covg_term|~|MSTR_REF|~|DPDW_PersonalPropertyLimit_HOE|~|DPDW_PersonalPropertyLimit_HOE|~|DPDW_PersonalPropertyLimit_HOE
+covg_term|~|MSTR_REF|~|DPDW_PropertyValuation_HOE|~|DPDW_PropertyValuation_HOE|~|DPDW_PropertyValuation_HOE
+covg_term|~|MSTR_REF|~|DPDW_TheftBasis_HOE|~|DPDW_TheftBasis_HOE|~|DPDW_TheftBasis_HOE
+covg_term|~|MSTR_REF|~|DPDW_ValuationMethod_HOE|~|DPDW_ValuationMethod_HOE|~|DPDW_ValuationMethod_HOE
+covg_term|~|MSTR_REF|~|DPLI_LiabilityLimit_HOE|~|DPLI_LiabilityLimit_HOE|~|DPLI_LiabilityLimit_HOE
+covg_term|~|MSTR_REF|~|DPLI_MedPay_Limit_HOE|~|DPLI_MedPay_Limit_HOE|~|DPLI_MedPay_Limit_HOE
+covg_term|~|MSTR_REF|~|EQDeductible|~|EQDeductible|~|EQDeductible
+covg_term|~|MSTR_REF|~|FedEmpLiabAct|~|FedEmpLiabAct|~|FedEmpLiabAct
+covg_term|~|MSTR_REF|~|FELADisease|~|FELADisease|~|FELADisease
+covg_term|~|MSTR_REF|~|GLAddCondoCov|~|GLAddCondoCov|~|GLAddCondoCov
+covg_term|~|MSTR_REF|~|GLAddInjuryLeasedWorkers|~|GLAddInjuryLeasedWorkers|~|GLAddInjuryLeasedWorkers
+covg_term|~|MSTR_REF|~|GLBIDeductible|~|GLBIDeductible|~|GLBIDeductible
+covg_term|~|MSTR_REF|~|GLCGLAggLimit|~|GLCGLAggLimit|~|GLCGLAggLimit
+covg_term|~|MSTR_REF|~|GLCGLBIAggLimit|~|GLCGLBIAggLimit|~|GLCGLBIAggLimit
+covg_term|~|MSTR_REF|~|GLCGLBILimit|~|GLCGLBILimit|~|GLCGLBILimit
+covg_term|~|MSTR_REF|~|GLCGLMedPayLimit|~|GLCGLMedPayLimit|~|GLCGLMedPayLimit
+covg_term|~|MSTR_REF|~|GLCGLOccLimit|~|GLCGLOccLimit|~|GLCGLOccLimit
+covg_term|~|MSTR_REF|~|GLCGLPDAggLimit|~|GLCGLPDAggLimit|~|GLCGLPDAggLimit
+covg_term|~|MSTR_REF|~|GLCGLPDLimit|~|GLCGLPDLimit|~|GLCGLPDLimit
+covg_term|~|MSTR_REF|~|GLCGLPersAdLimit|~|GLCGLPersAdLimit|~|GLCGLPersAdLimit
+covg_term|~|MSTR_REF|~|GLCGLRentedPropLimit|~|GLCGLRentedPropLimit|~|GLCGLRentedPropLimit
+covg_term|~|MSTR_REF|~|GLContractualLiabRRDescription|~|GLContractualLiabRRDescription|~|GLContractualLiabRRDescription
+covg_term|~|MSTR_REF|~|GLCSLDeductible|~|GLCSLDeductible|~|GLCSLDeductible
+covg_term|~|MSTR_REF|~|GLElectronicDataLimit|~|GLElectronicDataLimit|~|GLElectronicDataLimit
+covg_term|~|MSTR_REF|~|GLEmpBenefitsAggLimit|~|GLEmpBenefitsAggLimit|~|GLEmpBenefitsAggLimit
+covg_term|~|MSTR_REF|~|GLEmpBenefitsLiabDeduct|~|GLEmpBenefitsLiabDeduct|~|GLEmpBenefitsLiabDeduct
+covg_term|~|MSTR_REF|~|GLEmpBenefitsLiabilityCovRetroactiveDate|~|GLEmpBenefitsLiabilityCovRetroactiveDate|~|GLEmpBenefitsLiabilityCovRetroactiveDate
+covg_term|~|MSTR_REF|~|GLEmpBenefitsPerEmpLimit|~|GLEmpBenefitsPerEmpLimit|~|GLEmpBenefitsPerEmpLimit
+covg_term|~|MSTR_REF|~|GLGovSubdivisions|~|GLGovSubdivisions|~|GLGovSubdivisions
+covg_term|~|MSTR_REF|~|GLLawnCare|~|GLLawnCare|~|GLLawnCare
+covg_term|~|MSTR_REF|~|GLLimitedPAandInjuryCovDescription|~|GLLimitedPAandInjuryCovDescription|~|GLLimitedPAandInjuryCovDescription
+covg_term|~|MSTR_REF|~|GLLiquorEvent|~|GLLiquorEvent|~|GLLiquorEvent
+covg_term|~|MSTR_REF|~|GLLiquorEventDesc|~|GLLiquorEventDesc|~|GLLiquorEventDesc
+covg_term|~|MSTR_REF|~|GLLitdFungiBacteriaLimit|~|GLLitdFungiBacteriaLimit|~|GLLitdFungiBacteriaLimit
+covg_term|~|MSTR_REF|~|GLPDDeductible|~|GLPDDeductible|~|GLPDDeductible
+covg_term|~|MSTR_REF|~|GLPestHerbicideApplicatorSchedule|~|GLPestHerbicideApplicatorSchedule|~|GLPestHerbicideApplicatorSchedule
+covg_term|~|MSTR_REF|~|GLUndergroundResourceLimit|~|GLUndergroundResourceLimit|~|GLUndergroundResourceLimit
+covg_term|~|MSTR_REF|~|GuestPropClaimLim|~|GuestPropClaimLim|~|GuestPropClaimLim
+covg_term|~|MSTR_REF|~|GuestPropOccLim|~|GuestPropOccLim|~|GuestPropOccLim
+covg_term|~|MSTR_REF|~|HI_Death|~|HI_Death|~|HI_Death
+covg_term|~|MSTR_REF|~|HO_FullRepPercent_HOE|~|HO_FullRepPercent_HOE|~|HO_FullRepPercent_HOE
+covg_term|~|MSTR_REF|~|HODW_AnnualIncrease_HOE|~|HODW_AnnualIncrease_HOE|~|HODW_AnnualIncrease_HOE
+covg_term|~|MSTR_REF|~|HODW_Dwelling_Limit_HOE|~|HODW_Dwelling_Limit_HOE|~|HODW_Dwelling_Limit_HOE
+covg_term|~|MSTR_REF|~|HODW_DwellingValuation_HOE|~|HODW_DwellingValuation_HOE|~|HODW_DwellingValuation_HOE
+covg_term|~|MSTR_REF|~|HODW_EarthquakeDed_HOE|~|HODW_EarthquakeDed_HOE|~|HODW_EarthquakeDed_HOE
+covg_term|~|MSTR_REF|~|HODW_EarthquakeMason_HOE|~|HODW_EarthquakeMason_HOE|~|HODW_EarthquakeMason_HOE
+covg_term|~|MSTR_REF|~|HODW_FungiLimitFlorida_HOE|~|HODW_FungiLimitFlorida_HOE|~|HODW_FungiLimitFlorida_HOE
+covg_term|~|MSTR_REF|~|HODW_FungiSectionII_HOE|~|HODW_FungiSectionII_HOE|~|HODW_FungiSectionII_HOE
+covg_term|~|MSTR_REF|~|HODW_FungiSectionILimit_HOE|~|HODW_FungiSectionILimit_HOE|~|HODW_FungiSectionILimit_HOE
+covg_term|~|MSTR_REF|~|HODW_Hurricane_Ded_HOE|~|HODW_Hurricane_Ded_HOE|~|HODW_Hurricane_Ded_HOE
+covg_term|~|MSTR_REF|~|HODW_LossOfUseDwelLimit_HOE|~|HODW_LossOfUseDwelLimit_HOE|~|HODW_LossOfUseDwelLimit_HOE
+covg_term|~|MSTR_REF|~|HODW_LossOfUsePropLimit_HOE|~|HODW_LossOfUsePropLimit_HOE|~|HODW_LossOfUsePropLimit_HOE
+covg_term|~|MSTR_REF|~|HODW_OrdinanceLimit_HOE|~|HODW_OrdinanceLimit_HOE|~|HODW_OrdinanceLimit_HOE
+covg_term|~|MSTR_REF|~|HODW_OtherPerils_Ded_HOE|~|HODW_OtherPerils_Ded_HOE|~|HODW_OtherPerils_Ded_HOE
+covg_term|~|MSTR_REF|~|HODW_OtherStructures_Limit_HOE|~|HODW_OtherStructures_Limit_HOE|~|HODW_OtherStructures_Limit_HOE
+covg_term|~|MSTR_REF|~|HODW_OtherStructuresOffPremise_HOE|~|HODW_OtherStructuresOffPremise_HOE|~|HODW_OtherStructuresOffPremise_HOE
+covg_term|~|MSTR_REF|~|HODW_OtherStructuresOnPremise_HOE|~|HODW_OtherStructuresOnPremise_HOE|~|HODW_OtherStructuresOnPremise_HOE
+covg_term|~|MSTR_REF|~|HODW_PersonalPropertyLimit_HOE|~|HODW_PersonalPropertyLimit_HOE|~|HODW_PersonalPropertyLimit_HOE
+covg_term|~|MSTR_REF|~|HODW_PersonalPropertyOffResidence_HOE|~|HODW_PersonalPropertyOffResidence_HOE|~|HODW_PersonalPropertyOffResidence_HOE
+covg_term|~|MSTR_REF|~|HODW_PropertyHO4_6Limit_HOE|~|HODW_PropertyHO4_6Limit_HOE|~|HODW_PropertyHO4_6Limit_HOE
+covg_term|~|MSTR_REF|~|HODW_PropertyValuation_HOE|~|HODW_PropertyValuation_HOE|~|HODW_PropertyValuation_HOE
+covg_term|~|MSTR_REF|~|HODW_ScheduledProperty_HOE|~|HODW_ScheduledProperty_HOE|~|HODW_ScheduledProperty_HOE
+covg_term|~|MSTR_REF|~|HODW_SpecialLimitsCovC_HOE|~|HODW_SpecialLimitsCovC_HOE|~|HODW_SpecialLimitsCovC_HOE
+covg_term|~|MSTR_REF|~|HODW_SpecificStructuresOffPremise_HOE|~|HODW_SpecificStructuresOffPremise_HOE|~|HODW_SpecificStructuresOffPremise_HOE
+covg_term|~|MSTR_REF|~|HODW_TheftDed_HOE|~|HODW_TheftDed_HOE|~|HODW_TheftDed_HOE
+covg_term|~|MSTR_REF|~|HODW_WindHail_Ded_HOE|~|HODW_WindHail_Ded_HOE|~|HODW_WindHail_Ded_HOE
+covg_term|~|MSTR_REF|~|HOLI_AggLimit_HOE|~|HOLI_AggLimit_HOE|~|HOLI_AggLimit_HOE
+covg_term|~|MSTR_REF|~|HOLI_Liability_Limit_HOE|~|HOLI_Liability_Limit_HOE|~|HOLI_Liability_Limit_HOE
+covg_term|~|MSTR_REF|~|HOLI_LimitedComputer_HOE|~|HOLI_LimitedComputer_HOE|~|HOLI_LimitedComputer_HOE
+covg_term|~|MSTR_REF|~|HOLI_MedPay_Limit_HOE|~|HOLI_MedPay_Limit_HOE|~|HOLI_MedPay_Limit_HOE
+covg_term|~|MSTR_REF|~|HOLI_OtherInsuredResidence_HOE|~|HOLI_OtherInsuredResidence_HOE|~|HOLI_OtherInsuredResidence_HOE
+covg_term|~|MSTR_REF|~|HOLI_PersonalInjury_HOE|~|HOLI_PersonalInjury_HOE|~|HOLI_PersonalInjury_HOE
+covg_term|~|MSTR_REF|~|IMAccountsReceivableLimit|~|IMAccountsReceivableLimit|~|IMAccountsReceivableLimit
+covg_term|~|MSTR_REF|~|IMSignDeductible|~|IMSignDeductible|~|IMSignDeductible
+covg_term|~|MSTR_REF|~|IMSignLimit|~|IMSignLimit|~|IMSignLimit
+covg_term|~|MSTR_REF|~|KYPIP_Motorcylce|~|KYPIP_Motorcylce|~|KYPIP_Motorcylce
+covg_term|~|MSTR_REF|~|Limit_HO6_HOE|~|Limit_HO6_HOE|~|Limit_HO6_HOE
+covg_term|~|MSTR_REF|~|LiqLiabEventDate|~|LiqLiabEventDate|~|LiqLiabEventDate
+covg_term|~|MSTR_REF|~|LiqLiabEventsDescription|~|LiqLiabEventsDescription|~|LiqLiabEventsDescription
+covg_term|~|MSTR_REF|~|NamedPerilsOnly|~|NamedPerilsOnly|~|NamedPerilsOnly
+covg_term|~|MSTR_REF|~|NYPIP_EXPENSE|~|NYPIP_EXPENSE|~|NYPIP_EXPENSE
+covg_term|~|MSTR_REF|~|PACollDeductible|~|PACollDeductible|~|PACollDeductible
+covg_term|~|MSTR_REF|~|PACollision_MA_MI_Limited|~|PACollision_MA_MI_Limited|~|PACollision_MA_MI_Limited
+covg_term|~|MSTR_REF|~|PACollisionBroad|~|PACollisionBroad|~|PACollisionBroad
+covg_term|~|MSTR_REF|~|PACompDeductible|~|PACompDeductible|~|PACompDeductible
+covg_term|~|MSTR_REF|~|PACompZeroGlass|~|PACompZeroGlass|~|PACompZeroGlass
+covg_term|~|MSTR_REF|~|PAExcessElectronicsLimit|~|PAExcessElectronicsLimit|~|PAExcessElectronicsLimit
+covg_term|~|MSTR_REF|~|PAFullLimitedTort|~|PAFullLimitedTort|~|PAFullLimitedTort
+covg_term|~|MSTR_REF|~|PALiability-PA_accident_agglimit|~|PALiability-PA_accident_agglimit|~|PALiability-PA_accident_agglimit
+covg_term|~|MSTR_REF|~|PALiability-PA_combined_agglimit|~|PALiability-PA_combined_agglimit|~|PALiability-PA_combined_agglimit
+covg_term|~|MSTR_REF|~|PALiability-PA_person_agglimit|~|PALiability-PA_person_agglimit|~|PALiability-PA_person_agglimit
+covg_term|~|MSTR_REF|~|PALiability-PA_property_agglimit|~|PALiability-PA_property_agglimit|~|PALiability-PA_property_agglimit
+covg_term|~|MSTR_REF|~|PALimitedMexicoCov|~|PALimitedMexicoCov|~|PALimitedMexicoCov
+covg_term|~|MSTR_REF|~|PAMedLimit|~|PAMedLimit|~|PAMedLimit
+covg_term|~|MSTR_REF|~|PAMedPayCoordinateBene|~|PAMedPayCoordinateBene|~|PAMedPayCoordinateBene
+covg_term|~|MSTR_REF|~|PAPIP_AR_Death|~|PAPIP_AR_Death|~|PAPIP_AR_Death
+covg_term|~|MSTR_REF|~|PAPIP_AR_Med|~|PAPIP_AR_Med|~|PAPIP_AR_Med
+covg_term|~|MSTR_REF|~|PAPIP_AR_WorkLoss|~|PAPIP_AR_WorkLoss|~|PAPIP_AR_WorkLoss
+covg_term|~|MSTR_REF|~|PAPIP_DC_Funeral|~|PAPIP_DC_Funeral|~|PAPIP_DC_Funeral
+covg_term|~|MSTR_REF|~|PAPIP_DC_Medical|~|PAPIP_DC_Medical|~|PAPIP_DC_Medical
+covg_term|~|MSTR_REF|~|PAPIP_DC_WorkLoss|~|PAPIP_DC_WorkLoss|~|PAPIP_DC_WorkLoss
+covg_term|~|MSTR_REF|~|PAPIP_DE_Deduct_WhoApplies|~|PAPIP_DE_Deduct_WhoApplies|~|PAPIP_DE_Deduct_WhoApplies
+covg_term|~|MSTR_REF|~|PAPIP_DE_Deductible|~|PAPIP_DE_Deductible|~|PAPIP_DE_Deductible
+covg_term|~|MSTR_REF|~|PAPIP_DE_LIM-accident|~|PAPIP_DE_LIM-accident|~|PAPIP_DE_LIM-accident
+covg_term|~|MSTR_REF|~|PAPIP_DE_LIM-CSL|~|PAPIP_DE_LIM-CSL|~|PAPIP_DE_LIM-CSL
+covg_term|~|MSTR_REF|~|PAPIP_DE_LIM-person|~|PAPIP_DE_LIM-person|~|PAPIP_DE_LIM-person
+covg_term|~|MSTR_REF|~|PAPIP_DE_LIM-persoon|~|PAPIP_DE_LIM-persoon|~|PAPIP_DE_LIM-persoon
+covg_term|~|MSTR_REF|~|PAPIP_FL_ApplyDeductible|~|PAPIP_FL_ApplyDeductible|~|PAPIP_FL_ApplyDeductible
+covg_term|~|MSTR_REF|~|PAPIP_FL_Deductible|~|PAPIP_FL_Deductible|~|PAPIP_FL_Deductible
+covg_term|~|MSTR_REF|~|PAPIP_FL_LIMIT|~|PAPIP_FL_LIMIT|~|PAPIP_FL_LIMIT
+covg_term|~|MSTR_REF|~|PAPIP_FL_WorkWaiver|~|PAPIP_FL_WorkWaiver|~|PAPIP_FL_WorkWaiver
+covg_term|~|MSTR_REF|~|PAPIP_HI_AltTreatment-number of visits|~|PAPIP_HI_AltTreatment-number of visits|~|PAPIP_HI_AltTreatment-number of visits
+covg_term|~|MSTR_REF|~|PAPIP_HI_AltTreatment-per visit|~|PAPIP_HI_AltTreatment-per visit|~|PAPIP_HI_AltTreatment-per visit
+covg_term|~|MSTR_REF|~|PAPIP_HI_Death|~|PAPIP_HI_Death|~|PAPIP_HI_Death
+covg_term|~|MSTR_REF|~|PAPIP_HI_DEDUCTIBLE|~|PAPIP_HI_DEDUCTIBLE|~|PAPIP_HI_DEDUCTIBLE
+covg_term|~|MSTR_REF|~|PAPIP_HI_Funeral|~|PAPIP_HI_Funeral|~|PAPIP_HI_Funeral
+covg_term|~|MSTR_REF|~|PAPIP_HI_MANAGED_CARE|~|PAPIP_HI_MANAGED_CARE|~|PAPIP_HI_MANAGED_CARE
+covg_term|~|MSTR_REF|~|PAPIP_HI_MedRehab|~|PAPIP_HI_MedRehab|~|PAPIP_HI_MedRehab
+covg_term|~|MSTR_REF|~|PAPIP_HI_MGDCARE_COPAY_DEDUCT|~|PAPIP_HI_MGDCARE_COPAY_DEDUCT|~|PAPIP_HI_MGDCARE_COPAY_DEDUCT
+covg_term|~|MSTR_REF|~|PAPIP_HI_WageLoss-acccident|~|PAPIP_HI_WageLoss-acccident|~|PAPIP_HI_WageLoss-acccident
+covg_term|~|MSTR_REF|~|PAPIP_HI_WageLoss-accident|~|PAPIP_HI_WageLoss-accident|~|PAPIP_HI_WageLoss-accident
+covg_term|~|MSTR_REF|~|PAPIP_HI_WageLoss-monthly|~|PAPIP_HI_WageLoss-monthly|~|PAPIP_HI_WageLoss-monthly
+covg_term|~|MSTR_REF|~|PAPIP_ND_INCOME|~|PAPIP_ND_INCOME|~|PAPIP_ND_INCOME
+covg_term|~|MSTR_REF|~|PAPIP_ND_MEDICAL|~|PAPIP_ND_MEDICAL|~|PAPIP_ND_MEDICAL
+covg_term|~|MSTR_REF|~|PAPIP_NY_AGGREGATE|~|PAPIP_NY_AGGREGATE|~|PAPIP_NY_AGGREGATE
+covg_term|~|MSTR_REF|~|PAPIPKS_FUNERAL|~|PAPIPKS_FUNERAL|~|PAPIPKS_FUNERAL
+covg_term|~|MSTR_REF|~|PAPIPKS_MED|~|PAPIPKS_MED|~|PAPIPKS_MED
+covg_term|~|MSTR_REF|~|PAPIPKS_REHAB|~|PAPIPKS_REHAB|~|PAPIPKS_REHAB
+covg_term|~|MSTR_REF|~|PAPIPKS_SERVICES|~|PAPIPKS_SERVICES|~|PAPIPKS_SERVICES
+covg_term|~|MSTR_REF|~|PAPIPKS_SURVIVOR-Income/month|~|PAPIPKS_SURVIVOR-Income/month|~|PAPIPKS_SURVIVOR-Income/month
+covg_term|~|MSTR_REF|~|PAPIPKS_SURVIVOR-Income/week|~|PAPIPKS_SURVIVOR-Income/week|~|PAPIPKS_SURVIVOR-Income/week
+covg_term|~|MSTR_REF|~|PAPIPKS_SURVIVOR-Years|~|PAPIPKS_SURVIVOR-Years|~|PAPIPKS_SURVIVOR-Years
+covg_term|~|MSTR_REF|~|PAPIPKS_WORK-1500month|~|PAPIPKS_WORK-1500month|~|PAPIPKS_WORK-1500month
+covg_term|~|MSTR_REF|~|PAPIPKS_WORK-1year|~|PAPIPKS_WORK-1year|~|PAPIPKS_WORK-1year
+covg_term|~|MSTR_REF|~|PAPIPKS_WORK-2year|~|PAPIPKS_WORK-2year|~|PAPIPKS_WORK-2year
+covg_term|~|MSTR_REF|~|PAPIPKS_WORK-900month|~|PAPIPKS_WORK-900month|~|PAPIPKS_WORK-900month
+covg_term|~|MSTR_REF|~|PAPIPKY_AggLimit|~|PAPIPKY_AggLimit|~|PAPIPKY_AggLimit
+covg_term|~|MSTR_REF|~|PAPIPKY_Funeral|~|PAPIPKY_Funeral|~|PAPIPKY_Funeral
+covg_term|~|MSTR_REF|~|PAPIPKY_GuestONLY|~|PAPIPKY_GuestONLY|~|PAPIPKY_GuestONLY
+covg_term|~|MSTR_REF|~|PAPIPKY_Motorcycle|~|PAPIPKY_Motorcycle|~|PAPIPKY_Motorcycle
+covg_term|~|MSTR_REF|~|PAPIPKYWEEKLY|~|PAPIPKYWEEKLY|~|PAPIPKYWEEKLY
+covg_term|~|MSTR_REF|~|PAPIPMA_AIRBAG|~|PAPIPMA_AIRBAG|~|PAPIPMA_AIRBAG
+covg_term|~|MSTR_REF|~|PAPIPMA_DEDUCTIBLE|~|PAPIPMA_DEDUCTIBLE|~|PAPIPMA_DEDUCTIBLE
+covg_term|~|MSTR_REF|~|PAPIPMA_LIMIT|~|PAPIPMA_LIMIT|~|PAPIPMA_LIMIT
+covg_term|~|MSTR_REF|~|PAPIPMA_WC|~|PAPIPMA_WC|~|PAPIPMA_WC
+covg_term|~|MSTR_REF|~|PAPIPMD_GUEST|~|PAPIPMD_GUEST|~|PAPIPMD_GUEST
+covg_term|~|MSTR_REF|~|PAPIPMD_LIMIT|~|PAPIPMD_LIMIT|~|PAPIPMD_LIMIT
+covg_term|~|MSTR_REF|~|PAPIPMD_WAIVER|~|PAPIPMD_WAIVER|~|PAPIPMD_WAIVER
+covg_term|~|MSTR_REF|~|PAPIPMI_DEDUCTIBLE|~|PAPIPMI_DEDUCTIBLE|~|PAPIPMI_DEDUCTIBLE
+covg_term|~|MSTR_REF|~|PAPIPMI_FUNERAL|~|PAPIPMI_FUNERAL|~|PAPIPMI_FUNERAL
+covg_term|~|MSTR_REF|~|PAPIPMI_INCOME|~|PAPIPMI_INCOME|~|PAPIPMI_INCOME
+covg_term|~|MSTR_REF|~|PAPIPMI_MED|~|PAPIPMI_MED|~|PAPIPMI_MED
+covg_term|~|MSTR_REF|~|PAPIPMI_OtherProvider|~|PAPIPMI_OtherProvider|~|PAPIPMI_OtherProvider
+covg_term|~|MSTR_REF|~|PAPIPMI_SERVICES|~|PAPIPMI_SERVICES|~|PAPIPMI_SERVICES
+covg_term|~|MSTR_REF|~|PAPIPMI_SURVIVOR|~|PAPIPMI_SURVIVOR|~|PAPIPMI_SURVIVOR
+covg_term|~|MSTR_REF|~|PAPIPMN_CYCLE|~|PAPIPMN_CYCLE|~|PAPIPMN_CYCLE
+covg_term|~|MSTR_REF|~|PAPIPMN_EXC_WORK|~|PAPIPMN_EXC_WORK|~|PAPIPMN_EXC_WORK
+covg_term|~|MSTR_REF|~|PAPIPMN_MED_DEDUCT|~|PAPIPMN_MED_DEDUCT|~|PAPIPMN_MED_DEDUCT
+covg_term|~|MSTR_REF|~|PAPIPMN_MEDICAL|~|PAPIPMN_MEDICAL|~|PAPIPMN_MEDICAL
+covg_term|~|MSTR_REF|~|PAPIPMN_OTH_DEDUCT|~|PAPIPMN_OTH_DEDUCT|~|PAPIPMN_OTH_DEDUCT
+covg_term|~|MSTR_REF|~|PAPIPMN_OTHER|~|PAPIPMN_OTHER|~|PAPIPMN_OTHER
+covg_term|~|MSTR_REF|~|PAPIPMN_SERVICES|~|PAPIPMN_SERVICES|~|PAPIPMN_SERVICES
+covg_term|~|MSTR_REF|~|PAPIPMN_STACK|~|PAPIPMN_STACK|~|PAPIPMN_STACK
+covg_term|~|MSTR_REF|~|PAPIPMN_SURVIVOR|~|PAPIPMN_SURVIVOR|~|PAPIPMN_SURVIVOR
+covg_term|~|MSTR_REF|~|PAPIPMN_WORK|~|PAPIPMN_WORK|~|PAPIPMN_WORK
+covg_term|~|MSTR_REF|~|PAPIPND_AGG|~|PAPIPND_AGG|~|PAPIPND_AGG
+covg_term|~|MSTR_REF|~|PAPIPND_FUNERAL|~|PAPIPND_FUNERAL|~|PAPIPND_FUNERAL
+covg_term|~|MSTR_REF|~|PAPIPND_SERVICE|~|PAPIPND_SERVICE|~|PAPIPND_SERVICE
+covg_term|~|MSTR_REF|~|PAPIPND_SURVIVOR|~|PAPIPND_SURVIVOR|~|PAPIPND_SURVIVOR
+covg_term|~|MSTR_REF|~|PAPIPNJ_MED_COPAY|~|PAPIPNJ_MED_COPAY|~|PAPIPNJ_MED_COPAY
+covg_term|~|MSTR_REF|~|PAPIPNJ_MEDDEDUCT|~|PAPIPNJ_MEDDEDUCT|~|PAPIPNJ_MEDDEDUCT
+covg_term|~|MSTR_REF|~|PAPIPNJ_MEDDEDUCTappliesto|~|PAPIPNJ_MEDDEDUCTappliesto|~|PAPIPNJ_MEDDEDUCTappliesto
+covg_term|~|MSTR_REF|~|PAPIPNJ_MEDLIMIT|~|PAPIPNJ_MEDLIMIT|~|PAPIPNJ_MEDLIMIT
+covg_term|~|MSTR_REF|~|PAPIPNJ_MEDONLY|~|PAPIPNJ_MEDONLY|~|PAPIPNJ_MEDONLY
+covg_term|~|MSTR_REF|~|PAPIPNJ_MEDsecondary|~|PAPIPNJ_MEDsecondary|~|PAPIPNJ_MEDsecondary
+covg_term|~|MSTR_REF|~|PAPIPNJ_OTHER_LIMS-Daily Services|~|PAPIPNJ_OTHER_LIMS-Daily Services|~|PAPIPNJ_OTHER_LIMS-Daily Services
+covg_term|~|MSTR_REF|~|PAPIPNJ_OTHER_LIMS-Death|~|PAPIPNJ_OTHER_LIMS-Death|~|PAPIPNJ_OTHER_LIMS-Death
+covg_term|~|MSTR_REF|~|PAPIPNJ_OTHER_LIMS-Funeral|~|PAPIPNJ_OTHER_LIMS-Funeral|~|PAPIPNJ_OTHER_LIMS-Funeral
+covg_term|~|MSTR_REF|~|PAPIPNJ_OTHER_LIMS-Income Max|~|PAPIPNJ_OTHER_LIMS-Income Max|~|PAPIPNJ_OTHER_LIMS-Income Max
+covg_term|~|MSTR_REF|~|PAPIPNJ_OTHER_LIMS-Max Income|~|PAPIPNJ_OTHER_LIMS-Max Income|~|PAPIPNJ_OTHER_LIMS-Max Income
+covg_term|~|MSTR_REF|~|PAPIPNJ_OTHER_LIMS-Max Services|~|PAPIPNJ_OTHER_LIMS-Max Services|~|PAPIPNJ_OTHER_LIMS-Max Services
+covg_term|~|MSTR_REF|~|PAPIPNJ_OTHER_LIMS-Services Max|~|PAPIPNJ_OTHER_LIMS-Services Max|~|PAPIPNJ_OTHER_LIMS-Services Max
+covg_term|~|MSTR_REF|~|PAPIPNJ_OTHER_LIMS-Weekly Income|~|PAPIPNJ_OTHER_LIMS-Weekly Income|~|PAPIPNJ_OTHER_LIMS-Weekly Income
+covg_term|~|MSTR_REF|~|PAPIPNY_DEATH|~|PAPIPNY_DEATH|~|PAPIPNY_DEATH
+covg_term|~|MSTR_REF|~|PAPIPNY_DEDUCTIBLE|~|PAPIPNY_DEDUCTIBLE|~|PAPIPNY_DEDUCTIBLE
+covg_term|~|MSTR_REF|~|PAPIPNY_EXMED|~|PAPIPNY_EXMED|~|PAPIPNY_EXMED
+covg_term|~|MSTR_REF|~|PAPIPNY_EXPENSE|~|PAPIPNY_EXPENSE|~|PAPIPNY_EXPENSE
+covg_term|~|MSTR_REF|~|PAPIPNY_INCOME|~|PAPIPNY_INCOME|~|PAPIPNY_INCOME
+covg_term|~|MSTR_REF|~|PAPIPNY_MOTORCYCLE|~|PAPIPNY_MOTORCYCLE|~|PAPIPNY_MOTORCYCLE
+covg_term|~|MSTR_REF|~|PAPIPNY_OBEL|~|PAPIPNY_OBEL|~|PAPIPNY_OBEL
+covg_term|~|MSTR_REF|~|PAPIPOR_CHILDCARE|~|PAPIPOR_CHILDCARE|~|PAPIPOR_CHILDCARE
+covg_term|~|MSTR_REF|~|PAPIPOR_DEDUCT|~|PAPIPOR_DEDUCT|~|PAPIPOR_DEDUCT
+covg_term|~|MSTR_REF|~|PAPIPOR_DEDUCTIBLEappliesto|~|PAPIPOR_DEDUCTIBLEappliesto|~|PAPIPOR_DEDUCTIBLEappliesto
+covg_term|~|MSTR_REF|~|PAPIPOR_FUNERAL|~|PAPIPOR_FUNERAL|~|PAPIPOR_FUNERAL
+covg_term|~|MSTR_REF|~|PAPIPOR_INCOME|~|PAPIPOR_INCOME|~|PAPIPOR_INCOME
+covg_term|~|MSTR_REF|~|PAPIPOR_MED|~|PAPIPOR_MED|~|PAPIPOR_MED
+covg_term|~|MSTR_REF|~|PAPIPOR_SERVICES|~|PAPIPOR_SERVICES|~|PAPIPOR_SERVICES
+covg_term|~|MSTR_REF|~|PAPIPPA_COMBINED|~|PAPIPPA_COMBINED|~|PAPIPPA_COMBINED
+covg_term|~|MSTR_REF|~|PAPIPPA_DEATH|~|PAPIPPA_DEATH|~|PAPIPPA_DEATH
+covg_term|~|MSTR_REF|~|PAPIPPA_EXTRAMED|~|PAPIPPA_EXTRAMED|~|PAPIPPA_EXTRAMED
+covg_term|~|MSTR_REF|~|PAPIPPA_FUNERAL|~|PAPIPPA_FUNERAL|~|PAPIPPA_FUNERAL
+covg_term|~|MSTR_REF|~|PAPIPPA_INCOME-Max|~|PAPIPPA_INCOME-Max|~|PAPIPPA_INCOME-Max
+covg_term|~|MSTR_REF|~|PAPIPPA_INCOME-Monthly|~|PAPIPPA_INCOME-Monthly|~|PAPIPPA_INCOME-Monthly
+covg_term|~|MSTR_REF|~|PAPIPPA_MEDICAL|~|PAPIPPA_MEDICAL|~|PAPIPPA_MEDICAL
+covg_term|~|MSTR_REF|~|PAPIPTX_LIMIT|~|PAPIPTX_LIMIT|~|PAPIPTX_LIMIT
+covg_term|~|MSTR_REF|~|PAPIPUT_FUNERAL|~|PAPIPUT_FUNERAL|~|PAPIPUT_FUNERAL
+covg_term|~|MSTR_REF|~|PAPIPUT_MEDICAL|~|PAPIPUT_MEDICAL|~|PAPIPUT_MEDICAL
+covg_term|~|MSTR_REF|~|PAPIPUT_SURVIVOR|~|PAPIPUT_SURVIVOR|~|PAPIPUT_SURVIVOR
+covg_term|~|MSTR_REF|~|PAPIPUT_WORK|~|PAPIPUT_WORK|~|PAPIPUT_WORK
+covg_term|~|MSTR_REF|~|PAPIPWA_FUNERAL|~|PAPIPWA_FUNERAL|~|PAPIPWA_FUNERAL
+covg_term|~|MSTR_REF|~|PAPIPWA_INCOME|~|PAPIPWA_INCOME|~|PAPIPWA_INCOME
+covg_term|~|MSTR_REF|~|PAPIPWA_MED|~|PAPIPWA_MED|~|PAPIPWA_MED
+covg_term|~|MSTR_REF|~|PAPIPWA_SERVICES|~|PAPIPWA_SERVICES|~|PAPIPWA_SERVICES
+covg_term|~|MSTR_REF|~|PAPropProtectLimit|~|PAPropProtectLimit|~|PAPropProtectLimit
+covg_term|~|MSTR_REF|~|PARental-AggLimit|~|PARental-AggLimit|~|PARental-AggLimit
+covg_term|~|MSTR_REF|~|PARental-DailyLimit|~|PARental-DailyLimit|~|PARental-DailyLimit
+covg_term|~|MSTR_REF|~|PARentalLossOfUseLimit|~|PARentalLossOfUseLimit|~|PARentalLossOfUseLimit
+covg_term|~|MSTR_REF|~|PATapeDiscMediaLimit|~|PATapeDiscMediaLimit|~|PATapeDiscMediaLimit
+covg_term|~|MSTR_REF|~|PAUIMBI-BA_accident_agglimit|~|PAUIMBI-BA_accident_agglimit|~|PAUIMBI-BA_accident_agglimit
+covg_term|~|MSTR_REF|~|PAUIMBI-BA_person_agglimit|~|PAUIMBI-BA_person_agglimit|~|PAUIMBI-BA_person_agglimit
+covg_term|~|MSTR_REF|~|PAUIMBIstacked|~|PAUIMBIstacked|~|PAUIMBIstacked
+covg_term|~|MSTR_REF|~|PAUIMPDlimit|~|PAUIMPDlimit|~|PAUIMPDlimit
+covg_term|~|MSTR_REF|~|PAUIMPDstack|~|PAUIMPDstack|~|PAUIMPDstack
+covg_term|~|MSTR_REF|~|PAUMBI-BA_accident_agglimit|~|PAUMBI-BA_accident_agglimit|~|PAUMBI-BA_accident_agglimit
+covg_term|~|MSTR_REF|~|PAUMBI-BA_combined_agglimit|~|PAUMBI-BA_combined_agglimit|~|PAUMBI-BA_combined_agglimit
+covg_term|~|MSTR_REF|~|PAUMBI-BA_person_agglimit|~|PAUMBI-BA_person_agglimit|~|PAUMBI-BA_person_agglimit
+covg_term|~|MSTR_REF|~|PAUMBIIncludeUIM|~|PAUMBIIncludeUIM|~|PAUMBIIncludeUIM
+covg_term|~|MSTR_REF|~|PAUMBIstacked|~|PAUMBIstacked|~|PAUMBIstacked
+covg_term|~|MSTR_REF|~|PAUMPDLimit|~|PAUMPDLimit|~|PAUMPDLimit
+covg_term|~|MSTR_REF|~|PAUMPDstacked|~|PAUMPDstacked|~|PAUMPDstacked
+covg_term|~|MSTR_REF|~|PIP_AR_Death|~|PIP_AR_Death|~|PIP_AR_Death
+covg_term|~|MSTR_REF|~|PIP_DE_Deduct_WhoApplies|~|PIP_DE_Deduct_WhoApplies|~|PIP_DE_Deduct_WhoApplies
+covg_term|~|MSTR_REF|~|PIP_DE_Deductible|~|PIP_DE_Deductible|~|PIP_DE_Deductible
+covg_term|~|MSTR_REF|~|PIP_HI_Funeral|~|PIP_HI_Funeral|~|PIP_HI_Funeral
+covg_term|~|MSTR_REF|~|PIP_HI_MedRehab|~|PIP_HI_MedRehab|~|PIP_HI_MedRehab
+covg_term|~|MSTR_REF|~|PIPAltTreatment-Visit  Cost|~|PIPAltTreatment-Visit  Cost|~|PIPAltTreatment-Visit  Cost
+covg_term|~|MSTR_REF|~|PIPAltTreatment-Vist Count|~|PIPAltTreatment-Vist Count|~|PIPAltTreatment-Vist Count
+covg_term|~|MSTR_REF|~|PIPHI_DEDUCTIBLE|~|PIPHI_DEDUCTIBLE|~|PIPHI_DEDUCTIBLE
+covg_term|~|MSTR_REF|~|PIPHI_MANAGED_CARE|~|PIPHI_MANAGED_CARE|~|PIPHI_MANAGED_CARE
+covg_term|~|MSTR_REF|~|PIPHI_MGDCARE_COPAY_DEDUCT|~|PIPHI_MGDCARE_COPAY_DEDUCT|~|PIPHI_MGDCARE_COPAY_DEDUCT
+covg_term|~|MSTR_REF|~|PIPKS_FUNERAL|~|PIPKS_FUNERAL|~|PIPKS_FUNERAL
+covg_term|~|MSTR_REF|~|PIPKS_MED|~|PIPKS_MED|~|PIPKS_MED
+covg_term|~|MSTR_REF|~|PIPKS_REHAB|~|PIPKS_REHAB|~|PIPKS_REHAB
+covg_term|~|MSTR_REF|~|PIPKS_SERVICES|~|PIPKS_SERVICES|~|PIPKS_SERVICES
+covg_term|~|MSTR_REF|~|PIPKS_SURVIVOR-INCOME/month|~|PIPKS_SURVIVOR-INCOME/month|~|PIPKS_SURVIVOR-INCOME/month
+covg_term|~|MSTR_REF|~|PIPKS_SURVIVOR-INCOME/week|~|PIPKS_SURVIVOR-INCOME/week|~|PIPKS_SURVIVOR-INCOME/week
+covg_term|~|MSTR_REF|~|PIPKS_SURVIVOR-YEARS|~|PIPKS_SURVIVOR-YEARS|~|PIPKS_SURVIVOR-YEARS
+covg_term|~|MSTR_REF|~|PIPKS_WORK-1500month|~|PIPKS_WORK-1500month|~|PIPKS_WORK-1500month
+covg_term|~|MSTR_REF|~|PIPKS_WORK-1year|~|PIPKS_WORK-1year|~|PIPKS_WORK-1year
+covg_term|~|MSTR_REF|~|PIPKS_WORK-2year|~|PIPKS_WORK-2year|~|PIPKS_WORK-2year
+covg_term|~|MSTR_REF|~|PIPKS_WORK-900month|~|PIPKS_WORK-900month|~|PIPKS_WORK-900month
+covg_term|~|MSTR_REF|~|PIPKY_AggLimit|~|PIPKY_AggLimit|~|PIPKY_AggLimit
+covg_term|~|MSTR_REF|~|PIPKY_Funeral|~|PIPKY_Funeral|~|PIPKY_Funeral
+covg_term|~|MSTR_REF|~|PIPKY_GuestONLY|~|PIPKY_GuestONLY|~|PIPKY_GuestONLY
+covg_term|~|MSTR_REF|~|PIPKYWEEKLY|~|PIPKYWEEKLY|~|PIPKYWEEKLY
+covg_term|~|MSTR_REF|~|PIPMA_AIRBAG|~|PIPMA_AIRBAG|~|PIPMA_AIRBAG
+covg_term|~|MSTR_REF|~|PIPMA_DEDUCTIBLE|~|PIPMA_DEDUCTIBLE|~|PIPMA_DEDUCTIBLE
+covg_term|~|MSTR_REF|~|PIPMA_PIP|~|PIPMA_PIP|~|PIPMA_PIP
+covg_term|~|MSTR_REF|~|PIPMA_WC|~|PIPMA_WC|~|PIPMA_WC
+covg_term|~|MSTR_REF|~|PIPMD_GUEST|~|PIPMD_GUEST|~|PIPMD_GUEST
+covg_term|~|MSTR_REF|~|PIPMD_PIP|~|PIPMD_PIP|~|PIPMD_PIP
+covg_term|~|MSTR_REF|~|PIPMD_WAIVER|~|PIPMD_WAIVER|~|PIPMD_WAIVER
+covg_term|~|MSTR_REF|~|PIPMI_DEDUCTIBLE|~|PIPMI_DEDUCTIBLE|~|PIPMI_DEDUCTIBLE
+covg_term|~|MSTR_REF|~|PIPMI_FUNERAL|~|PIPMI_FUNERAL|~|PIPMI_FUNERAL
+covg_term|~|MSTR_REF|~|PIPMI_INCOME|~|PIPMI_INCOME|~|PIPMI_INCOME
+covg_term|~|MSTR_REF|~|PIPMI_MED|~|PIPMI_MED|~|PIPMI_MED
+covg_term|~|MSTR_REF|~|PIPMI_OtherProvider|~|PIPMI_OtherProvider|~|PIPMI_OtherProvider
+covg_term|~|MSTR_REF|~|PIPMI_SERVICES|~|PIPMI_SERVICES|~|PIPMI_SERVICES
+covg_term|~|MSTR_REF|~|PIPMI_SURVIVOR|~|PIPMI_SURVIVOR|~|PIPMI_SURVIVOR
+covg_term|~|MSTR_REF|~|PIPMN_CYCLE|~|PIPMN_CYCLE|~|PIPMN_CYCLE
+covg_term|~|MSTR_REF|~|PIPMN_EXC_WORK|~|PIPMN_EXC_WORK|~|PIPMN_EXC_WORK
+covg_term|~|MSTR_REF|~|PIPMN_MED_DEDUCT|~|PIPMN_MED_DEDUCT|~|PIPMN_MED_DEDUCT
+covg_term|~|MSTR_REF|~|PIPMN_MEDICAL|~|PIPMN_MEDICAL|~|PIPMN_MEDICAL
+covg_term|~|MSTR_REF|~|PIPMN_OTH_DEDUCT|~|PIPMN_OTH_DEDUCT|~|PIPMN_OTH_DEDUCT
+covg_term|~|MSTR_REF|~|PIPMN_OTHER|~|PIPMN_OTHER|~|PIPMN_OTHER
+covg_term|~|MSTR_REF|~|PIPMN_SERVICES|~|PIPMN_SERVICES|~|PIPMN_SERVICES
+covg_term|~|MSTR_REF|~|PIPMN_STACK|~|PIPMN_STACK|~|PIPMN_STACK
+covg_term|~|MSTR_REF|~|PIPMN_SURVIVOR|~|PIPMN_SURVIVOR|~|PIPMN_SURVIVOR
+covg_term|~|MSTR_REF|~|PIPMN_WORK|~|PIPMN_WORK|~|PIPMN_WORK
+covg_term|~|MSTR_REF|~|PIPND_AGG|~|PIPND_AGG|~|PIPND_AGG
+covg_term|~|MSTR_REF|~|PIPND_FUNERAL|~|PIPND_FUNERAL|~|PIPND_FUNERAL
+covg_term|~|MSTR_REF|~|PIPND_SERVICE|~|PIPND_SERVICE|~|PIPND_SERVICE
+covg_term|~|MSTR_REF|~|PIPND_SURVIVOR|~|PIPND_SURVIVOR|~|PIPND_SURVIVOR
+covg_term|~|MSTR_REF|~|PIPNJ_MED_COPAY|~|PIPNJ_MED_COPAY|~|PIPNJ_MED_COPAY
+covg_term|~|MSTR_REF|~|PIPNJ_MEDDEDUCT|~|PIPNJ_MEDDEDUCT|~|PIPNJ_MEDDEDUCT
+covg_term|~|MSTR_REF|~|PIPNJ_MEDDEDUCTappliesto|~|PIPNJ_MEDDEDUCTappliesto|~|PIPNJ_MEDDEDUCTappliesto
+covg_term|~|MSTR_REF|~|PIPNJ_MEDLIMIT|~|PIPNJ_MEDLIMIT|~|PIPNJ_MEDLIMIT
+covg_term|~|MSTR_REF|~|PIPNJ_MEDONLY|~|PIPNJ_MEDONLY|~|PIPNJ_MEDONLY
+covg_term|~|MSTR_REF|~|PIPNJ_MEDsecondary|~|PIPNJ_MEDsecondary|~|PIPNJ_MEDsecondary
+covg_term|~|MSTR_REF|~|PIPNJ_OTHER_LIMS-Daily Services|~|PIPNJ_OTHER_LIMS-Daily Services|~|PIPNJ_OTHER_LIMS-Daily Services
+covg_term|~|MSTR_REF|~|PIPNJ_OTHER_LIMS-Death|~|PIPNJ_OTHER_LIMS-Death|~|PIPNJ_OTHER_LIMS-Death
+covg_term|~|MSTR_REF|~|PIPNJ_OTHER_LIMS-Funeral|~|PIPNJ_OTHER_LIMS-Funeral|~|PIPNJ_OTHER_LIMS-Funeral
+covg_term|~|MSTR_REF|~|PIPNJ_OTHER_LIMS-Income Max|~|PIPNJ_OTHER_LIMS-Income Max|~|PIPNJ_OTHER_LIMS-Income Max
+covg_term|~|MSTR_REF|~|PIPNJ_OTHER_LIMS-Max Income|~|PIPNJ_OTHER_LIMS-Max Income|~|PIPNJ_OTHER_LIMS-Max Income
+covg_term|~|MSTR_REF|~|PIPNJ_OTHER_LIMS-Max Services|~|PIPNJ_OTHER_LIMS-Max Services|~|PIPNJ_OTHER_LIMS-Max Services
+covg_term|~|MSTR_REF|~|PIPNJ_OTHER_LIMS-Services Max|~|PIPNJ_OTHER_LIMS-Services Max|~|PIPNJ_OTHER_LIMS-Services Max
+covg_term|~|MSTR_REF|~|PIPNJ_OTHER_LIMS-Weekly Income|~|PIPNJ_OTHER_LIMS-Weekly Income|~|PIPNJ_OTHER_LIMS-Weekly Income
+covg_term|~|MSTR_REF|~|PIPNY_DEATH|~|PIPNY_DEATH|~|PIPNY_DEATH
+covg_term|~|MSTR_REF|~|PIPNY_DEDUCTIBLE|~|PIPNY_DEDUCTIBLE|~|PIPNY_DEDUCTIBLE
+covg_term|~|MSTR_REF|~|PIPNY_EXMED|~|PIPNY_EXMED|~|PIPNY_EXMED
+covg_term|~|MSTR_REF|~|PIPNY_INCOME|~|PIPNY_INCOME|~|PIPNY_INCOME
+covg_term|~|MSTR_REF|~|PIPNY_MOTORCYCLE|~|PIPNY_MOTORCYCLE|~|PIPNY_MOTORCYCLE
+covg_term|~|MSTR_REF|~|PIPNY_OBEL|~|PIPNY_OBEL|~|PIPNY_OBEL
+covg_term|~|MSTR_REF|~|PIPOR_CHILDCARE|~|PIPOR_CHILDCARE|~|PIPOR_CHILDCARE
+covg_term|~|MSTR_REF|~|PIPOR_DEDUCT|~|PIPOR_DEDUCT|~|PIPOR_DEDUCT
+covg_term|~|MSTR_REF|~|PIPOR_DEDUCTIBLEappliesto|~|PIPOR_DEDUCTIBLEappliesto|~|PIPOR_DEDUCTIBLEappliesto
+covg_term|~|MSTR_REF|~|PIPOR_FUNERAL|~|PIPOR_FUNERAL|~|PIPOR_FUNERAL
+covg_term|~|MSTR_REF|~|PIPOR_INCOME|~|PIPOR_INCOME|~|PIPOR_INCOME
+covg_term|~|MSTR_REF|~|PIPOR_MED|~|PIPOR_MED|~|PIPOR_MED
+covg_term|~|MSTR_REF|~|PIPOR_SERVICES|~|PIPOR_SERVICES|~|PIPOR_SERVICES
+covg_term|~|MSTR_REF|~|PIPPA_COMBINED|~|PIPPA_COMBINED|~|PIPPA_COMBINED
+covg_term|~|MSTR_REF|~|PIPPA_DEATH|~|PIPPA_DEATH|~|PIPPA_DEATH
+covg_term|~|MSTR_REF|~|PIPPA_EXTRAMED|~|PIPPA_EXTRAMED|~|PIPPA_EXTRAMED
+covg_term|~|MSTR_REF|~|PIPPA_FUNERAL|~|PIPPA_FUNERAL|~|PIPPA_FUNERAL
+covg_term|~|MSTR_REF|~|PIPPA_INCOME-Max|~|PIPPA_INCOME-Max|~|PIPPA_INCOME-Max
+covg_term|~|MSTR_REF|~|PIPPA_INCOME-Monthly|~|PIPPA_INCOME-Monthly|~|PIPPA_INCOME-Monthly
+covg_term|~|MSTR_REF|~|PIPPA_MEDICAL|~|PIPPA_MEDICAL|~|PIPPA_MEDICAL
+covg_term|~|MSTR_REF|~|PIPTX_PIP|~|PIPTX_PIP|~|PIPTX_PIP
+covg_term|~|MSTR_REF|~|PIPUT_FUNERAL|~|PIPUT_FUNERAL|~|PIPUT_FUNERAL
+covg_term|~|MSTR_REF|~|PIPUT_MEDICAL|~|PIPUT_MEDICAL|~|PIPUT_MEDICAL
+covg_term|~|MSTR_REF|~|PIPUT_SURVIVOR|~|PIPUT_SURVIVOR|~|PIPUT_SURVIVOR
+covg_term|~|MSTR_REF|~|PIPUT_WORK|~|PIPUT_WORK|~|PIPUT_WORK
+covg_term|~|MSTR_REF|~|PIPWA_FUNERAL|~|PIPWA_FUNERAL|~|PIPWA_FUNERAL
+covg_term|~|MSTR_REF|~|PIPWA_INCOME|~|PIPWA_INCOME|~|PIPWA_INCOME
+covg_term|~|MSTR_REF|~|PIPWA_MED|~|PIPWA_MED|~|PIPWA_MED
+covg_term|~|MSTR_REF|~|PIPWA_SERVICES|~|PIPWA_SERVICES|~|PIPWA_SERVICES
+covg_term|~|MSTR_REF|~|PollutionLimitType|~|PollutionLimitType|~|PollutionLimitType
+covg_term|~|MSTR_REF|~|PollutionSubLimit|~|PollutionSubLimit|~|PollutionSubLimit
+covg_term|~|MSTR_REF|~|ProductWithdrawCutOffDate|~|ProductWithdrawCutOffDate|~|ProductWithdrawCutOffDate
+covg_term|~|MSTR_REF|~|ProductWithdrawDeduct|~|ProductWithdrawDeduct|~|ProductWithdrawDeduct
+covg_term|~|MSTR_REF|~|ProductWithdrawPercent|~|ProductWithdrawPercent|~|ProductWithdrawPercent
+covg_term|~|MSTR_REF|~|ProdWithdrawAgg|~|ProdWithdrawAgg|~|ProdWithdrawAgg
+covg_term|~|MSTR_REF|~|SBSpecialPacks|~|SBSpecialPacks|~|SBSpecialPacks
+covg_term|~|MSTR_REF|~|TowingAndLaborLimit|~|TowingAndLaborLimit|~|TowingAndLaborLimit
+covg_term|~|MSTR_REF|~|UNK|~|Unknown|~|Unknown Coverage Term
+covg_term|~|MSTR_REF|~|WageLoss-1000month|~|WageLoss-1000month|~|WageLoss-1000month
+covg_term|~|MSTR_REF|~|WageLoss-12000acc|~|WageLoss-12000acc|~|WageLoss-12000acc
+covg_term|~|MSTR_REF|~|WageLoss-1500month|~|WageLoss-1500month|~|WageLoss-1500month
+covg_term|~|MSTR_REF|~|WageLoss-2000month|~|WageLoss-2000month|~|WageLoss-2000month
+covg_term|~|MSTR_REF|~|WageLoss-3000acc|~|WageLoss-3000acc|~|WageLoss-3000acc
+covg_term|~|MSTR_REF|~|WageLoss-500month|~|WageLoss-500month|~|WageLoss-500month
+covg_term|~|MSTR_REF|~|WageLoss-6000acc|~|WageLoss-6000acc|~|WageLoss-6000acc
+covg_term|~|MSTR_REF|~|WageLoss-9000acc|~|WageLoss-9000acc|~|WageLoss-9000acc
+covg_term|~|MSTR_REF|~|WCDeductible-WC_aggregate_deduct_perpolicy|~|WCDeductible-WC_aggregate_deduct_perpolicy|~|WCDeductible-WC_aggregate_deduct_perpolicy
+covg_term|~|MSTR_REF|~|WCDeductible-WC_coinsurance_limit_perclaim|~|WCDeductible-WC_coinsurance_limit_perclaim|~|WCDeductible-WC_coinsurance_limit_perclaim
+covg_term|~|MSTR_REF|~|WCDeductible-WC_med_indem_deduct_perclaim|~|WCDeductible-WC_med_indem_deduct_perclaim|~|WCDeductible-WC_med_indem_deduct_perclaim
+covg_term|~|MSTR_REF|~|WCDeductible-WC_med_only_deduct_perclaim|~|WCDeductible-WC_med_only_deduct_perclaim|~|WCDeductible-WC_med_only_deduct_perclaim
+covg_term|~|MSTR_REF|~|WCEmpLiabLimit-BI - accident|~|WCEmpLiabLimit-BI - accident|~|WCEmpLiabLimit-BI - accident
+covg_term|~|MSTR_REF|~|WCEmpLiabLimit-BI - agg disease|~|WCEmpLiabLimit-BI - agg disease|~|WCEmpLiabLimit-BI - agg disease
+covg_term|~|MSTR_REF|~|WCEmpLiabLimit-BI - disease|~|WCEmpLiabLimit-BI - disease|~|WCEmpLiabLimit-BI - disease
+covg_term|~|MSTR_REF|~|WCExcludedStates|~|WCExcludedStates|~|WCExcludedStates
+covg_term|~|MSTR_REF|~|WCFedEmpLiabCovProgram|~|WCFedEmpLiabCovProgram|~|WCFedEmpLiabCovProgram
+covg_term|~|MSTR_REF|~|WCFedEmpLiabilityLaw|~|WCFedEmpLiabilityLaw|~|WCFedEmpLiabilityLaw
+covg_term|~|MSTR_REF|~|WCFedEmpLiabLimit|~|WCFedEmpLiabLimit|~|WCFedEmpLiabLimit
+covg_term|~|MSTR_REF|~|WCIncludedMonopolisticStates|~|WCIncludedMonopolisticStates|~|WCIncludedMonopolisticStates
+covg_term|~|MSTR_REF|~|WCIncludedStates|~|WCIncludedStates|~|WCIncludedStates
+covg_term|~|MSTR_REF|~|WCOtherStatesOpt|~|WCOtherStatesOpt|~|WCOtherStatesOpt
+covg_term|~|MSTR_REF|~|WCStopGapOpt|~|WCStopGapOpt|~|WCStopGapOpt
+covg_term|~|MSTR_REF|~|WCWorkersCompCov|~|WCWorkersCompCov|~|WCWorkersCompCov
+covg_term|~|MSTR_REF|~|XCULocOpsHazBasis|~|XCULocOpsHazBasis|~|XCULocOpsHazBasis
+covg_term|~|MSTR_REF|~|Y2KBILimit|~|Y2KBILimit|~|Y2KBILimit
+covg_term|~|MSTR_REF|~|Y2KDescription|~|Y2KDescription|~|Y2KDescription
+covg_term|~|MSTR_REF|~|Y2KPDLimit|~|Y2KPDLimit|~|Y2KPDLimit
+covg_term|~|MSTR_REF|~|Y2KPersAdvrtInjuryLimit|~|Y2KPersAdvrtInjuryLimit|~|Y2KPersAdvrtInjuryLimit
+dwlng_usage|~|MSTR_REF|~|prim|~|Primary|~|Primary
+dwlng_usage|~|MSTR_REF|~|rent|~|Rental Property|~|Rental Property
+dwlng_usage|~|MSTR_REF|~|seas|~|Seasonal|~|Seasonal
+dwlng_usage|~|MSTR_REF|~|sec|~|Secondary|~|Secondary
+dwlng_usage|~|MSTR_REF|~|UNK|~|Unknown|~|Unknown Dwelling Usage Type
+electrical_type|~|MSTR_REF|~|CircuitBreaker|~|Circuit Breaker|~|Circuit Breaker
+electrical_type|~|MSTR_REF|~|Fuses|~|Fuses|~|Fuses
+electrical_type|~|MSTR_REF|~|other|~|Other|~|Other
+electrical_type|~|MSTR_REF|~|UNK|~|Unknown|~|Unknown Electrical Type
+examiner|~|MSTR_REF|~|btsCCPR:105899|~|gwagner|~|Gus Wagner
+examiner|~|MSTR_REF|~|btsCCPR:105903|~|jhruzek|~|Joe Hruzek
+examiner|~|MSTR_REF|~|btsCCPR:107884|~|wanthacy|~|Cynthia Wanthal
+examiner|~|MSTR_REF|~|btsCCPR:107885|~|hobbsja|~|Janice Hobbs
+examiner|~|MSTR_REF|~|btsCCPR:108595|~|phadwin|~|Philip Hadwin
+examiner|~|MSTR_REF|~|btsCCPR:108596|~|bmurray|~|Bob Murray
+examiner|~|MSTR_REF|~|btsCCPR:110946|~|ALi|~|Alex Li
+examiner|~|MSTR_REF|~|btsCCPR:111070|~|njones|~|Nick Jones
+examiner|~|MSTR_REF|~|btsCCPR:112355|~|acruz|~|Alexandra Cruz
+examiner|~|MSTR_REF|~|btsCCPR:113825|~|jlwallace|~|Jamiya Wallace
+examiner|~|MSTR_REF|~|btsCCPR:115523|~|hickswa|~|Wayne Hicks
+examiner|~|MSTR_REF|~|btsCCPR:115524|~|kentty|~|Tya Kent
+examiner|~|MSTR_REF|~|btsCCPR:115525|~|freemara|~|Rasherra Freeman
+examiner|~|MSTR_REF|~|btsCCPR:116069|~|rfranklin|~|Ronda Franklin
+examiner|~|MSTR_REF|~|btsCCPR:116498|~|windleer|~|Erin Windle
+examiner|~|MSTR_REF|~|btsCCPR:116499|~|kallen|~|Keisha Allen
+examiner|~|MSTR_REF|~|btsCCPR:116500|~|martinan|~|Angelica Martin
+examiner|~|MSTR_REF|~|btsCCPR:116501|~|sfeliciano|~|Sharon Feliciano
+examiner|~|MSTR_REF|~|btsCCPR:116506|~|hornebe|~|Beverly Horne
+examiner|~|MSTR_REF|~|btsCCPR:116582|~|bowdenta|~|Tammy Bowden
+examiner|~|MSTR_REF|~|btsCCPR:118454|~|cbuettgen|~|Carl Buettgen
+examiner|~|MSTR_REF|~|btsCCPR:119317|~|KDavitt|~|Kyle Davitt
+examiner|~|MSTR_REF|~|btsCCPR:119560|~|gtorres|~|Genesis Torres
+examiner|~|MSTR_REF|~|btsCCPR:120280|~|buxtonke|~|Kevin Buxton
+examiner|~|MSTR_REF|~|btsCCPR:123842|~|dshea|~|Donna Shea
+examiner|~|MSTR_REF|~|btsCCPR:129804|~|dlorence|~|Drew Lorence
+examiner|~|MSTR_REF|~|btsCCPR:131943|~|aazhar|~|Awais Azhar
+examiner|~|MSTR_REF|~|btsCCPR:132277|~|vtaylor|~|Veronica Taylor
+examiner|~|MSTR_REF|~|btsCCPR:133130|~|npeji|~|Nina Peji
+examiner|~|MSTR_REF|~|btsCCPR:133599|~|cvharris|~|Carline Harris
+examiner|~|MSTR_REF|~|btsCCPR:133600|~|sperfetto|~|Sonja Perfetto
+examiner|~|MSTR_REF|~|btsCCPR:133601|~|ehansen|~|Eric Hansen
+examiner|~|MSTR_REF|~|btsCCPR:133602|~|shill|~|Susan Hill
+examiner|~|MSTR_REF|~|btsCCPR:133603|~|dgagliardi|~|Dennis Gagliardi
+examiner|~|MSTR_REF|~|btsCCPR:133605|~|sramu|~|Sivakumar Ramu
+examiner|~|MSTR_REF|~|btsCCPR:133606|~|kkirkling|~|Kyra Kirkling
+examiner|~|MSTR_REF|~|btsCCPR:133895|~|dsternberg|~|Debbie Sternberg
+examiner|~|MSTR_REF|~|btsCCPR:133896|~|nbouwman|~|Naomi Bouwman
+examiner|~|MSTR_REF|~|btsCCPR:133897|~|jjones|~|Joanne Jones
+examiner|~|MSTR_REF|~|btsCCPR:133998|~|sberriman|~|Scott Berriman
+examiner|~|MSTR_REF|~|btsCCPR:133999|~|tbenson|~|Timothy Benson
+examiner|~|MSTR_REF|~|btsCCPR:134000|~|tveal|~|Tom Veal
+examiner|~|MSTR_REF|~|btsCCPR:134001|~|sdouglas|~|Sandy Douglas
+examiner|~|MSTR_REF|~|btsCCPR:134002|~|rlewicki|~|Ron Lewicki
+examiner|~|MSTR_REF|~|btsCCPR:134003|~|sgibson|~|Shawn Gibson
+examiner|~|MSTR_REF|~|btsCCPR:134004|~|bbafitis|~|Barbara Bafitis
+examiner|~|MSTR_REF|~|btsCCPR:134005|~|rzambelli|~|Roberta Zambelli
+examiner|~|MSTR_REF|~|btsCCPR:134006|~|mchrest|~|Marie Chrest
+examiner|~|MSTR_REF|~|btsCCPR:134007|~|tbanks|~|Tiffany Banks
+examiner|~|MSTR_REF|~|btsCCPR:134008|~|ndeloia|~|Nicole Deloia
+examiner|~|MSTR_REF|~|btsCCPR:134009|~|dcook|~|Dienetha Cook
+examiner|~|MSTR_REF|~|btsCCPR:134010|~|ncrockett|~|Nancy Crockett
+examiner|~|MSTR_REF|~|btsCCPR:134011|~|gperry|~|Glenda Perry
+examiner|~|MSTR_REF|~|btsCCPR:134012|~|jreed|~|Jolie Reed
+examiner|~|MSTR_REF|~|btsCCPR:134024|~|jyancoskie|~|Jesse Yancoskie
+examiner|~|MSTR_REF|~|btsCCPR:134648|~|spaneris|~|Sylvia Paneris
+examiner|~|MSTR_REF|~|btsCCPR:159653|~|jmccusker|~|Joseph McCusker
+examiner|~|MSTR_REF|~|btsCCPR:160330|~|eray|~|Eric Ray
+examiner|~|MSTR_REF|~|btsCCPR:160341|~|pcarothers|~|Patricia Carothers
+examiner|~|MSTR_REF|~|btsCCPR:161425|~|trodriguez|~|Tatianna Rodriguez
+examiner|~|MSTR_REF|~|btsCCPR:161426|~|munderwood|~|Maile Underwood
+examiner|~|MSTR_REF|~|btsCCPR:164110|~|mfarrington|~|Melanie Farrington
+examiner|~|MSTR_REF|~|btsCCPR:164112|~|whayden|~|Wesley Hayden
+examiner|~|MSTR_REF|~|btsCCPR:164242|~|gwagner|~|Gus Wagner
+examiner|~|MSTR_REF|~|btsCCPR:165286|~|rcarlson|~|Rebecca Carlson
+examiner|~|MSTR_REF|~|btsCCPR:165287|~|kwalker|~|Kasey Walker
+examiner|~|MSTR_REF|~|btsCCPR:168297|~|sscott|~|Siobhan Scott
+examiner|~|MSTR_REF|~|btsCCPR:170390|~|jefletcher|~|Jeffrey Fletcher
+examiner|~|MSTR_REF|~|btsCCPR:174926|~|jalmeida|~|Jessica Almeida
+examiner|~|MSTR_REF|~|btsCCPR:175884|~|mforeman|~|Mia Foreman
+examiner|~|MSTR_REF|~|btsCCPR:181413|~|stoltzbe|~|Bethany Smith
+examiner|~|MSTR_REF|~|btsCCPR:185322|~|RTWNewLoss|~|RTW New Loss Loss
+examiner|~|MSTR_REF|~|btsCCPR:190693|~|wshui|~|Walter Shui
+examiner|~|MSTR_REF|~|btsCCPR:202811|~|hbisyir|~|Hykel Bisyir
+examiner|~|MSTR_REF|~|btsCCPR:204128|~|asleeba|~|Amey Sleeba
+examiner|~|MSTR_REF|~|btsCCPR:210586|~|jbrauns|~|Jennifer Braunschweig
+examiner|~|MSTR_REF|~|btsCCPR:210638|~|maguilera|~|Maria Aguilera
+examiner|~|MSTR_REF|~|btsCCPR:211492|~|jeuzent|~|Jonathan Euzent
+examiner|~|MSTR_REF|~|btsCCPR:219506|~|sgilligan|~|Stephen Gilligan
+examiner|~|MSTR_REF|~|btsCCPR:221975|~|fcasim|~|Faizan Casim
+examiner|~|MSTR_REF|~|btsCCPR:223185|~|MDeGroot|~|Mark DeGroot
+examiner|~|MSTR_REF|~|btsCCPR:223186|~|DBrothers|~|Douglas Brothers
+examiner|~|MSTR_REF|~|btsCCPR:225433|~|krcarroll|~|Kristie Carroll
+examiner|~|MSTR_REF|~|btsCCPR:228006|~|nnavar|~|Nidia Navar
+examiner|~|MSTR_REF|~|btsCCPR:228149|~|afowler|~|Amy Fowler
+examiner|~|MSTR_REF|~|btsCCPR:229122|~|kdrobey|~|Kevin Robey
+examiner|~|MSTR_REF|~|btsCCPR:238327|~|nclaims|~|New Claims
+examiner|~|MSTR_REF|~|btsCCPR:464458|~|swooldridge|~|Sean Wooldridge
+examiner|~|MSTR_REF|~|btsCCPR:468910|~|mpena|~|Maria Pena
+examiner|~|MSTR_REF|~|btsCCPR:469667|~|kto|~|Karry To
+examiner|~|MSTR_REF|~|btsCCPR:470629|~|ssharma|~|shailendra sharma
+examiner|~|MSTR_REF|~|btsCCPR:471676|~|mgonder|~|Matthew Gonder
+examiner|~|MSTR_REF|~|btsCCPR:472781|~|amahato|~|Ashik Mahato
+examiner|~|MSTR_REF|~|btsCCPR:473898|~|amolina|~|Alexander Molina
+examiner|~|MSTR_REF|~|btsCCPR:476837|~|btsccprdsvc|~|Temp Sign-on
+examiner|~|MSTR_REF|~|btsCCPR:79518|~|rvassalotti|~|Robert Vassalotti
+examiner|~|MSTR_REF|~|btsCCPR:79525|~|rvassalotti|~|Robert Vassalotti
+examiner|~|MSTR_REF|~|btsCCPR:79812|~|dsingh|~|Digvijay Singh
+examiner|~|MSTR_REF|~|btsCCPR:80086|~|cmayne|~|Carol Mayne
+examiner|~|MSTR_REF|~|btsCCPR:83322|~|jacobsma|~|Mary Jacobs
+examiner|~|MSTR_REF|~|btsCCPR:84382|~|tgjohnson|~|Tyanna Garcia-Johnson
+examiner|~|MSTR_REF|~|btsCCPR:85938|~|jarnic|~|Jennifer Arnic
+examiner|~|MSTR_REF|~|btsCCPR:91505|~|jborrego|~|Jocelyn Borrego
+examiner|~|MSTR_REF|~|btsCCPR:91512|~|sburke|~|Shannon Burke
+examiner|~|MSTR_REF|~|btsCCPR:91516|~|rboskie|~|Ryan Boskie
+examiner|~|MSTR_REF|~|btsCCPR:96898|~|rdhenderson|~|Rashaad Henderson
+examiner|~|MSTR_REF|~|btsCCPR:96921|~|jceccola|~|John Ceccola
+examiner|~|MSTR_REF|~|btsCCPR:97466|~|suitste|~|Teri Suits
+examiner|~|MSTR_REF|~|btsCCPR:98705|~|jmurray|~|Jonathan Murray
+examiner|~|MSTR_REF|~|btsCCPR:98954|~|KHarral|~|Kristi Harral
+examiner|~|MSTR_REF|~|btsCCQAPS:136749|~|gwtest_superuser|~|gwtest superuser
+examiner|~|MSTR_REF|~|btsCCQAPS:159547|~|tpurucker|~|Thomas Purucker
+examiner|~|MSTR_REF|~|btsCCQAPS:159548|~|jbenge|~|Jane Benge
+examiner|~|MSTR_REF|~|btsCCQAPS:159549|~|wdickerson|~|Wanda Dickerson
+examiner|~|MSTR_REF|~|btsCCQAPS:159550|~|phart|~|Pam Hart
+examiner|~|MSTR_REF|~|btsCCQAPS:159551|~|dkappus|~|Debbie Kappus
+examiner|~|MSTR_REF|~|btsCCQAPS:159552|~|badams|~|Barry Adams
+examiner|~|MSTR_REF|~|btsCCQAPS:159553|~|kcooke|~|Karen Cooke
+examiner|~|MSTR_REF|~|btsCCQAPS:159554|~|scarroll|~|Sandy Carroll
+examiner|~|MSTR_REF|~|btsCCQAPS:159555|~|snamyst|~|Sandra Namyst
+examiner|~|MSTR_REF|~|btsCCQAPS:159556|~|ybouldin|~|Yvette Bouldin
+examiner|~|MSTR_REF|~|btsCCQAPS:159557|~|ccolombo|~|Candy Colombo
+examiner|~|MSTR_REF|~|btsCCQAPS:159558|~|dnehil|~|Derek Nehil
+examiner|~|MSTR_REF|~|btsCCQAPS:159559|~|lphillips|~|Lori Phillips
+examiner|~|MSTR_REF|~|btsCCQAPS:159560|~|jmcDaniel|~|Joan McDaniel
+examiner|~|MSTR_REF|~|btsCCQAPS:159561|~|lscott|~|Latanya Scott
+examiner|~|MSTR_REF|~|btsCCQAPS:159562|~|bmoreno|~|Brenda Moreno
+examiner|~|MSTR_REF|~|btsCCQAPS:160264|~|jefletcher|~|Jeffrey Fletcher
+examiner|~|MSTR_REF|~|cc:161|~|eaustin|~|Edgar Austin
+examiner|~|MSTR_REF|~|CSS_EXAMINER_01|~|jdoe|~|Jane Doe
+examiner|~|MSTR_REF|~|default_data:1|~|su|~|Super User
+examiner|~|MSTR_REF|~|LEGACY_EXAMINER|~|Legacy Examiner|~|Legacy Examiner Name
+examiner|~|MSTR_REF|~|systemTables:1|~|defaultowner|~|Default Owner
+examiner|~|MSTR_REF|~|systemTables:2|~|sys|~|System User
+examiner|~|MSTR_REF|~|UNK|~|Unknown|~|Unknown Examiner
+examiner|~|MSTR_REF|~|usr:1|~|jburke|~|John Burke
+examiner|~|MSTR_REF|~|usr:10|~|jxgodwin|~|Jennifer Godwin
+examiner|~|MSTR_REF|~|usr:100|~|cearle|~|Charlie Earle
+examiner|~|MSTR_REF|~|usr:1001|~|ehansen1|~|Eric Hansen
+examiner|~|MSTR_REF|~|usr:1002|~|rarden|~|Rosa Arden
+examiner|~|MSTR_REF|~|usr:1003|~|sgraham|~|Stephanie Graham
+examiner|~|MSTR_REF|~|usr:1004|~|pfitch|~|Priscilla Fitch
+examiner|~|MSTR_REF|~|usr:1005|~|lreid|~|Lynn Reid
+examiner|~|MSTR_REF|~|usr:1006|~|scalgaro|~|Scott Calgaro
+examiner|~|MSTR_REF|~|usr:1007|~|wsantos|~|Wendy Santos
+examiner|~|MSTR_REF|~|usr:1008|~|jkaye|~|Joseph Kaye
+examiner|~|MSTR_REF|~|usr:1009|~|kerickson|~|Kimberly Erickson
+examiner|~|MSTR_REF|~|usr:101|~|jeclark|~|Jerry Clark
+examiner|~|MSTR_REF|~|usr:1010|~|adickerson|~|Annette Dickerson
+examiner|~|MSTR_REF|~|usr:1011|~|ebabbel|~|Erin Babbel
+examiner|~|MSTR_REF|~|usr:1012|~|inieto|~|Irene Nieto
+examiner|~|MSTR_REF|~|usr:1013|~|agallardo|~|Abraham Gallardo
+examiner|~|MSTR_REF|~|usr:1014|~|dsheets|~|David Sheets
+examiner|~|MSTR_REF|~|usr:1015|~|dfulton|~|Dimitri Fulton
+examiner|~|MSTR_REF|~|usr:1016|~|zsaeger|~|Zack Saeger
+examiner|~|MSTR_REF|~|usr:1017|~|mschott|~|Michael Schott
+examiner|~|MSTR_REF|~|usr:1018|~|pgerega|~|Patricia Gerega
+examiner|~|MSTR_REF|~|usr:1019|~|sstewart|~|Susan Stewart
+examiner|~|MSTR_REF|~|usr:102|~|gbarkley|~|Gregg Barkley
+examiner|~|MSTR_REF|~|usr:1020|~|cwasilewski|~|Carol Wasilewski
+examiner|~|MSTR_REF|~|usr:1021|~|sjanich|~|Steven Janich
+examiner|~|MSTR_REF|~|usr:1022|~|jkelso|~|Jacqueline Kelso
+examiner|~|MSTR_REF|~|usr:1023|~|vrios|~|Veronica Rios
+examiner|~|MSTR_REF|~|usr:1024|~|semery|~|Shelley Emery
+examiner|~|MSTR_REF|~|usr:1025|~|sthomas|~|Sabrina Thomas
+examiner|~|MSTR_REF|~|usr:1026|~|skleca|~|Sharlene Ormonde-Kleca
+examiner|~|MSTR_REF|~|usr:1027|~|rturpin|~|Rose Turpin
+examiner|~|MSTR_REF|~|usr:1028|~|lortuno|~|Lidia Ortuno
+examiner|~|MSTR_REF|~|usr:1029|~|mventre|~|Marcie Ventre
+examiner|~|MSTR_REF|~|usr:103|~|edavenport|~|Ernie Davenport
+examiner|~|MSTR_REF|~|usr:1030|~|lviola|~|Lisa Viola
+examiner|~|MSTR_REF|~|usr:1031|~|amacconaghy|~|Ashley MacConaghy
+examiner|~|MSTR_REF|~|usr:1032|~|mparrish|~|Mary Parrish
+examiner|~|MSTR_REF|~|usr:1033|~|ksahmel|~|Karen Sahmel
+examiner|~|MSTR_REF|~|usr:1034|~|chorner|~|Claudia Horner
+examiner|~|MSTR_REF|~|usr:1035|~|smcvey|~|Shannon McVey
+examiner|~|MSTR_REF|~|usr:1036|~|asalinas1|~|Alana Salinas
+examiner|~|MSTR_REF|~|usr:1037|~|zlumanlan|~|Zelyn Lumanlan
+examiner|~|MSTR_REF|~|usr:1038|~|skaur|~|Satinder Kaur
+examiner|~|MSTR_REF|~|usr:1039|~|lmanansala|~|Liza Manansala
+examiner|~|MSTR_REF|~|usr:104|~|tamiss|~|Tina Amiss
+examiner|~|MSTR_REF|~|usr:1040|~|pflowers|~|Promise Flowers
+examiner|~|MSTR_REF|~|usr:1041|~|sgallacher|~|Steven Gallacher
+examiner|~|MSTR_REF|~|usr:1042|~|ebradford|~|Edward Bradford
+examiner|~|MSTR_REF|~|usr:1043|~|dparnell|~|Dean Parnell
+examiner|~|MSTR_REF|~|usr:1044|~|awilson|~|Annette Wilson
+examiner|~|MSTR_REF|~|usr:1045|~|tebnet|~|Tammy Ebnet
+examiner|~|MSTR_REF|~|usr:1046|~|jbeaver|~|Jan Beaver
+examiner|~|MSTR_REF|~|usr:1047|~|jthayer|~|Jason Thayer
+examiner|~|MSTR_REF|~|usr:1048|~|moneil|~|Michelle O'Neil
+examiner|~|MSTR_REF|~|usr:1049|~|mbeaulieu|~|Marc Beaulieu
+examiner|~|MSTR_REF|~|usr:105|~|dbarnett|~|Dean Barnett
+examiner|~|MSTR_REF|~|usr:1050|~|jsimmons|~|Jim Simmons
+examiner|~|MSTR_REF|~|usr:1051|~|clowery|~|Christine Lowery
+examiner|~|MSTR_REF|~|usr:1052|~|sfeemster|~|Stevan Feemster
+examiner|~|MSTR_REF|~|usr:1053|~|lkatz|~|Laurie Katz
+examiner|~|MSTR_REF|~|usr:1054|~|jjohnson|~|Jennifer Johnson
+examiner|~|MSTR_REF|~|usr:1055|~|jbennett|~|John Bennett
+examiner|~|MSTR_REF|~|usr:1056|~|gdunn|~|Genesis Dunn
+examiner|~|MSTR_REF|~|usr:1057|~|jhartson|~|Jeraldine Hartson
+examiner|~|MSTR_REF|~|usr:1058|~|lmann|~|Laura Mann
+examiner|~|MSTR_REF|~|usr:1059|~|arodrigues|~|August Rodrigues
+examiner|~|MSTR_REF|~|usr:106|~|vjiron|~|Veronica Jiron
+examiner|~|MSTR_REF|~|usr:1060|~|scristobal|~|Suzette Cristobal
+examiner|~|MSTR_REF|~|usr:1061|~|rvelasquez|~|Reggie Velasquez
+examiner|~|MSTR_REF|~|usr:1062|~|lelliott|~|Lisa Elliott
+examiner|~|MSTR_REF|~|usr:1063|~|eaenlle|~|Eduardo Aenlle
+examiner|~|MSTR_REF|~|usr:1064|~|jstack|~|Julie Stack
+examiner|~|MSTR_REF|~|usr:1065|~|dkim|~|David Kim
+examiner|~|MSTR_REF|~|usr:1066|~|fherilla|~|Francis Herilla
+examiner|~|MSTR_REF|~|usr:1067|~|cjaime|~|Chantel Jaime
+examiner|~|MSTR_REF|~|usr:1068|~|bdickerson|~|Briana Dickerson
+examiner|~|MSTR_REF|~|usr:1069|~|mvillafana|~|Maria Villafana
+examiner|~|MSTR_REF|~|usr:107|~|mpena|~|Maria Pena
+examiner|~|MSTR_REF|~|usr:1070|~|bkeller|~|Bridget Keller
+examiner|~|MSTR_REF|~|usr:1071|~|rhume|~|Roselle Hume
+examiner|~|MSTR_REF|~|usr:1072|~|eklapmeier|~|Elisabeth Klapmeier
+examiner|~|MSTR_REF|~|usr:1073|~|jtownsel|~|Justin Townsel
+examiner|~|MSTR_REF|~|usr:1074|~|dlaureano|~|Desiree Laureano
+examiner|~|MSTR_REF|~|usr:1075|~|mken|~|Marlene Ken
+examiner|~|MSTR_REF|~|usr:1076|~|cwiebe|~|Carolynn Wiebe
+examiner|~|MSTR_REF|~|usr:1077|~|efrianeza|~|Enrico Frianeza
+examiner|~|MSTR_REF|~|usr:1078|~|cbaes|~|Conrad Baes
+examiner|~|MSTR_REF|~|usr:1079|~|rrai|~|Raj Rai
+examiner|~|MSTR_REF|~|usr:108|~|abalandrin|~|Ana Foerster-Balandrin
+examiner|~|MSTR_REF|~|usr:1080|~|nyurchenko|~|Natalya Yurchenko
+examiner|~|MSTR_REF|~|usr:1081|~|dpiocos|~|Dale Piocos
+examiner|~|MSTR_REF|~|usr:1082|~|dingrum|~|David Ingrum
+examiner|~|MSTR_REF|~|usr:1083|~|twiebe|~|Tim Wiebe
+examiner|~|MSTR_REF|~|usr:1084|~|dklapmeier|~|David Klapmeier
+examiner|~|MSTR_REF|~|usr:1085|~|alightfoot|~|Allison Lightfoot
+examiner|~|MSTR_REF|~|usr:1086|~|dpacecca|~|Debra Pacecca
+examiner|~|MSTR_REF|~|usr:1087|~|dkulin|~|Denise Kulin
+examiner|~|MSTR_REF|~|usr:1088|~|vwilliams|~|Virginia Williams
+examiner|~|MSTR_REF|~|usr:1089|~|lgoryoka|~|Luma Goryoka
+examiner|~|MSTR_REF|~|usr:109|~|lcarson|~|Loretta Carson
+examiner|~|MSTR_REF|~|usr:1090|~|wpeleti|~|Wayne Peleti
+examiner|~|MSTR_REF|~|usr:1091|~|malviz|~|Maritoni Alviz
+examiner|~|MSTR_REF|~|usr:1092|~|fgraham|~|Francesca Graham
+examiner|~|MSTR_REF|~|usr:1093|~|dsneed|~|Delores Sneed
+examiner|~|MSTR_REF|~|usr:1094|~|mbakunoff|~|Michelle Bakunoff
+examiner|~|MSTR_REF|~|usr:1095|~|rclark|~|Ream Clark
+examiner|~|MSTR_REF|~|usr:1096|~|lakin|~|Lauren Akin
+examiner|~|MSTR_REF|~|usr:1097|~|tbyrne|~|Tom Byrne
+examiner|~|MSTR_REF|~|usr:1098|~|elarkin|~|Larkin Eugenia
+examiner|~|MSTR_REF|~|usr:1099|~|hwillis|~|Hannah Willis
+examiner|~|MSTR_REF|~|usr:11|~|mjsmith|~|Matt Smith
+examiner|~|MSTR_REF|~|usr:110|~|kdorhout|~|Kari Dorhout
+examiner|~|MSTR_REF|~|usr:1100|~|imay|~|Ivan May
+examiner|~|MSTR_REF|~|usr:1101|~|jswinnel|~|Janice Swinnel
+examiner|~|MSTR_REF|~|usr:1102|~|klaurentz|~|Kayla Laurentz
+examiner|~|MSTR_REF|~|usr:1103|~|knguyen|~|Kim Nguyen
+examiner|~|MSTR_REF|~|usr:1104|~|lkonzen|~|Larry Konzen
+examiner|~|MSTR_REF|~|usr:1105|~|lpierce|~|Laurie Pierce
+examiner|~|MSTR_REF|~|usr:1106|~|lwoods|~|Lori Woods
+examiner|~|MSTR_REF|~|usr:1107|~|nmata|~|Natalie Mata
+examiner|~|MSTR_REF|~|usr:1108|~|rcastanon|~|Rosio Castanon
+examiner|~|MSTR_REF|~|usr:1109|~|vkaida|~|Vicky Kaida
+examiner|~|MSTR_REF|~|usr:111|~|dmurray|~|Denise Murray
+examiner|~|MSTR_REF|~|usr:1110|~|vyoung|~|Vicky Young
+examiner|~|MSTR_REF|~|usr:1111|~|vkumar|~|Victor Kumar
+examiner|~|MSTR_REF|~|usr:1112|~|BARRIETA|~|BOB ARRIETA
+examiner|~|MSTR_REF|~|usr:1113|~|KSPROWL|~|KARI SPROWL
+examiner|~|MSTR_REF|~|usr:1114|~|MBERNARDY|~|MARTIN BERNARDY
+examiner|~|MSTR_REF|~|usr:1115|~|cpeguser|~|Converted PEGUser
+examiner|~|MSTR_REF|~|usr:1116|~|DLENEVE|~|DALE LENEVE
+examiner|~|MSTR_REF|~|usr:1117|~|DRUSANOFF|~|DEBBIE RUSANOFF
+examiner|~|MSTR_REF|~|usr:1118|~|SNAUGLE|~|SHANA NAUGLE
+examiner|~|MSTR_REF|~|usr:1119|~|CCORKILL|~|CHRYSTI CORKILL
+examiner|~|MSTR_REF|~|usr:112|~|sroller|~|Staci Roller
+examiner|~|MSTR_REF|~|usr:1120|~|WMCAVENIA|~|WENDY MCAVENIA
+examiner|~|MSTR_REF|~|usr:1121|~|ESPENN|~|ERIN SPENNICCHIA
+examiner|~|MSTR_REF|~|usr:1122|~|LSMITH|~|LINDA SMITH
+examiner|~|MSTR_REF|~|usr:1123|~|DMIYAZONO|~|DAISUKE MIYAZONO
+examiner|~|MSTR_REF|~|usr:1124|~|RFAVIER|~|ROSEMARY FAVIER
+examiner|~|MSTR_REF|~|usr:1125|~|ADARLINGTO|~|ARIELLA DARLINGTON
+examiner|~|MSTR_REF|~|usr:1126|~|TBERNARDO|~|THERESA BERNARDO
+examiner|~|MSTR_REF|~|usr:1127|~|JSANTAYANA|~|JAYSON SANTAYANA
+examiner|~|MSTR_REF|~|usr:1128|~|MRINARD|~|MARY RINARD
+examiner|~|MSTR_REF|~|usr:113|~|jroos|~|Jennifer Roos
+examiner|~|MSTR_REF|~|usr:114|~|jhruska|~|Jennifer Hruska
+examiner|~|MSTR_REF|~|usr:115|~|bdoran|~|Brynn Doran
+examiner|~|MSTR_REF|~|usr:116|~|Afarrington|~|Amber Farrington
+examiner|~|MSTR_REF|~|usr:117|~|lginther|~|Lauren Ginther
+examiner|~|MSTR_REF|~|usr:118|~|jharriman|~|Jessica Harriman
+examiner|~|MSTR_REF|~|usr:119|~|jherald|~|James Herald
+examiner|~|MSTR_REF|~|usr:12|~|nsumter|~|Natasha Sumter
+examiner|~|MSTR_REF|~|usr:120|~|shiligh|~|Sarah Hiligh
+examiner|~|MSTR_REF|~|usr:121|~|mholmes|~|McKenzie Holmes
+examiner|~|MSTR_REF|~|usr:122|~|Bkellner|~|Brian Kellner
+examiner|~|MSTR_REF|~|usr:123|~|sking|~|Sean King
+examiner|~|MSTR_REF|~|usr:124|~|alamica|~|Anoosha Lamica
+examiner|~|MSTR_REF|~|usr:125|~|hsharma|~|Harihar Sharma
+examiner|~|MSTR_REF|~|usr:126|~|ptran|~|Paulette Tran
+examiner|~|MSTR_REF|~|usr:127|~|jvaz|~|Joana Vaz
+examiner|~|MSTR_REF|~|usr:128|~|eyu|~|Eva Yu
+examiner|~|MSTR_REF|~|usr:129|~|CFontaine|~|Cari Fontaine
+examiner|~|MSTR_REF|~|usr:13|~|pbayes|~|Priscilla Bayes
+examiner|~|MSTR_REF|~|usr:130|~|JSime|~|Jennifer Sime
+examiner|~|MSTR_REF|~|usr:131|~|pgraf|~|Paul Graf
+examiner|~|MSTR_REF|~|usr:132|~|jgravitt|~|Jim Gravitt
+examiner|~|MSTR_REF|~|usr:133|~|kreid|~|Kathy Reid
+examiner|~|MSTR_REF|~|usr:14|~|kbeers|~|Kathleen Beers
+examiner|~|MSTR_REF|~|usr:15|~|mjanderson|~|Mike Anderson
+examiner|~|MSTR_REF|~|usr:16|~|tppatel|~|Tarun Patel
+examiner|~|MSTR_REF|~|usr:17|~|visrael|~|Vince Israel
+examiner|~|MSTR_REF|~|usr:18|~|hvadlamudi|~|Harischandra Vadlamudi
+examiner|~|MSTR_REF|~|usr:19|~|jaking|~|Julie King
+examiner|~|MSTR_REF|~|usr:2|~|ksarathy|~|Kanchana Sarathy
+examiner|~|MSTR_REF|~|usr:20|~|cduque|~|Christopher Duque
+examiner|~|MSTR_REF|~|usr:2001|~|coreyc|~|Corey Chambliss
+examiner|~|MSTR_REF|~|usr:2002|~|jdigiorgio|~|John DiGiorgio
+examiner|~|MSTR_REF|~|usr:2003|~|sgissendaner|~|Stephen Gissendaner
+examiner|~|MSTR_REF|~|usr:2004|~|johnh|~|John Huddleston
+examiner|~|MSTR_REF|~|usr:2005|~|carll|~|Carl W. Legate
+examiner|~|MSTR_REF|~|usr:2006|~|waynem|~|Wayne Myers
+examiner|~|MSTR_REF|~|usr:2007|~|acote|~|Aubrey Cote
+examiner|~|MSTR_REF|~|usr:2008|~|kime|~|Kim Edsall
+examiner|~|MSTR_REF|~|usr:2009|~|michaelc|~|Michael Carney
+examiner|~|MSTR_REF|~|usr:2010|~|donnas|~|Donna Shenesky
+examiner|~|MSTR_REF|~|usr:2011|~|robin|~|Robin King
+examiner|~|MSTR_REF|~|usr:2012|~|andreaw|~|Andrea West
+examiner|~|MSTR_REF|~|usr:2013|~|melaniea|~|Melanie Armstrong
+examiner|~|MSTR_REF|~|usr:2014|~|kahall|~|Kellie A. Hall
+examiner|~|MSTR_REF|~|usr:2015|~|tlyons|~|Tracey Lyons
+examiner|~|MSTR_REF|~|usr:2016|~|sallyf|~|Sally Fisk
+examiner|~|MSTR_REF|~|usr:2017|~|deborahp|~|Deborah Pitts
+examiner|~|MSTR_REF|~|usr:2018|~|maryannw|~|Mary Ann Wharton
+examiner|~|MSTR_REF|~|usr:2019|~|pgelsinger|~|Peter M. Gelsinger
+examiner|~|MSTR_REF|~|usr:2020|~|emorris|~|Evie Morris
+examiner|~|MSTR_REF|~|usr:2021|~|reginal|~|Regina Lee
+examiner|~|MSTR_REF|~|usr:2022|~|yvonnem|~|Yvonne A. McTyer
+examiner|~|MSTR_REF|~|usr:2023|~|slanger|~|Sharon W. Langer
+examiner|~|MSTR_REF|~|usr:2024|~|bschrimpf|~|Bill Schrimpf
+examiner|~|MSTR_REF|~|usr:2025|~|darleneb|~|Darlene Brancaccio
+examiner|~|MSTR_REF|~|usr:2026|~|msmith|~|Mary Smith
+examiner|~|MSTR_REF|~|usr:2027|~|mdiamond|~|Marlene Diamond
+examiner|~|MSTR_REF|~|usr:2028|~|tbremer|~|Tamie Bremer
+examiner|~|MSTR_REF|~|usr:2029|~|kfoshee|~|Kevin Foshee
+examiner|~|MSTR_REF|~|usr:2030|~|gens|~|Genevieve Stanley
+examiner|~|MSTR_REF|~|usr:2032|~|cherdt|~|Cathy Herdt
+examiner|~|MSTR_REF|~|usr:2033|~|grivas|~|Guadalupe Rivas
+examiner|~|MSTR_REF|~|usr:2034|~|dyera|~|Diana Yera
+examiner|~|MSTR_REF|~|usr:2035|~|tammya|~|Tammy Ansell
+examiner|~|MSTR_REF|~|usr:2036|~|aliceb|~|Alice Beam
+examiner|~|MSTR_REF|~|usr:2037|~|lisae|~|Lisa Evans
+examiner|~|MSTR_REF|~|usr:2038|~|jonf|~|Jon Flower
+examiner|~|MSTR_REF|~|usr:2039|~|ellenp|~|Ellen Phillips
+examiner|~|MSTR_REF|~|usr:2040|~|brosbaugh|~|Brittany Rosbaugh
+examiner|~|MSTR_REF|~|usr:2041|~|elaines|~|Elaine Senner
+examiner|~|MSTR_REF|~|usr:2042|~|mikes|~|Mike Stanley
+examiner|~|MSTR_REF|~|usr:2043|~|jthomas|~|Jessalynn Thomas
+examiner|~|MSTR_REF|~|usr:2044|~|jarmstrong|~|Jamie Armstrong
+examiner|~|MSTR_REF|~|usr:2045|~|gbarth|~|Greg Barth
+examiner|~|MSTR_REF|~|usr:2046|~|durbc|~|Durb Christner
+examiner|~|MSTR_REF|~|usr:2047|~|anpeterson|~|Allyson Peterson
+examiner|~|MSTR_REF|~|usr:2048|~|doraw|~|Dora Williams
+examiner|~|MSTR_REF|~|usr:2049|~|dzimmerman|~|David P. Zimmerman
+examiner|~|MSTR_REF|~|usr:2050|~|cbatkie|~|Cathy Batkie
+examiner|~|MSTR_REF|~|usr:2051|~|smarks|~|Steve Marks
+examiner|~|MSTR_REF|~|usr:2052|~|mprickett|~|Mike Prickett
+examiner|~|MSTR_REF|~|usr:2053|~|SXSmith|~|Stephanie L. Smith
+examiner|~|MSTR_REF|~|usr:2054|~|rcourington|~|Rosemary Courington
+examiner|~|MSTR_REF|~|usr:2055|~|gpierre|~|Gregory T. Pierre
+examiner|~|MSTR_REF|~|usr:2056|~|robs|~|Rob Singleton
+examiner|~|MSTR_REF|~|usr:2057|~|lwalker|~|Leland Walker
+examiner|~|MSTR_REF|~|usr:2058|~|chanc|~|Chandler Cox
+examiner|~|MSTR_REF|~|usr:2059|~|dgiovannelli|~|Dominick Giovannelli
+examiner|~|MSTR_REF|~|usr:2060|~|bgrimm|~|Benjamin Grimm
+examiner|~|MSTR_REF|~|usr:2061|~|rhowald|~|Ruth Howald
+examiner|~|MSTR_REF|~|usr:2062|~|cmturner|~|Chris M Turner
+examiner|~|MSTR_REF|~|usr:2063|~|stacys|~|Stacy S Weselius
+examiner|~|MSTR_REF|~|usr:2064|~|areeder|~|Andy A. Reeder
+examiner|~|MSTR_REF|~|usr:2065|~|bryantb|~|Bryant Brown
+examiner|~|MSTR_REF|~|usr:2066|~|amarlow|~|Allison Marlow
+examiner|~|MSTR_REF|~|usr:2067|~|cstaab|~|Charles Staab
+examiner|~|MSTR_REF|~|usr:2068|~|kmauzy|~|Kevin Mauzy
+examiner|~|MSTR_REF|~|usr:2069|~|trdavis|~|Tony R. Davis
+examiner|~|MSTR_REF|~|usr:2070|~|blairv|~|Blair Vass
+examiner|~|MSTR_REF|~|usr:2071|~|lwheeler|~|Lance Wheeler
+examiner|~|MSTR_REF|~|usr:2072|~|vickim|~|Vicki Morder
+examiner|~|MSTR_REF|~|usr:2073|~|moyler|~|Mary C. Oyler
+examiner|~|MSTR_REF|~|usr:2074|~|denisep|~|Denise Peck
+examiner|~|MSTR_REF|~|usr:2075|~|apeguser|~|Converted AMIUser
+examiner|~|MSTR_REF|~|usr:2076|~|cthorn|~|Crystal Thorn
+examiner|~|MSTR_REF|~|usr:2081|~|jbaldus|~|Judith Baldus
+examiner|~|MSTR_REF|~|usr:2082|~|jaquillo|~|John Aquillo
+examiner|~|MSTR_REF|~|usr:2083|~|jarcher|~|John Archer
+examiner|~|MSTR_REF|~|usr:2084|~|rfarber|~|Robert Farber
+examiner|~|MSTR_REF|~|usr:2085|~|ehartofelis|~|Ellen Hartofelis
+examiner|~|MSTR_REF|~|usr:2086|~|jboller|~|Jill Boller
+examiner|~|MSTR_REF|~|usr:2087|~|askove|~|Annie Skove
+examiner|~|MSTR_REF|~|usr:2088|~|ctaizan|~|Cecilia Taizan
+examiner|~|MSTR_REF|~|usr:2089|~|ddelfin|~|Donna Delfin
+examiner|~|MSTR_REF|~|usr:2090|~|pgarcia|~|Patricia Garcia
+examiner|~|MSTR_REF|~|usr:2091|~|lsantillan|~|Louis Santillan
+examiner|~|MSTR_REF|~|usr:21|~|mbelluscio|~|Michelle Belluscio
+examiner|~|MSTR_REF|~|usr:22|~|nni|~|Nashi Ni
+examiner|~|MSTR_REF|~|usr:23|~|pdamodharan|~|Prasad Damodharan
+examiner|~|MSTR_REF|~|usr:24|~|cchaudhari|~|Chaitali Chaudhari
+examiner|~|MSTR_REF|~|usr:25|~|vcotman|~|Valerie Cotman
+examiner|~|MSTR_REF|~|usr:26|~|pcrosetto|~|Peter Crosetto
+examiner|~|MSTR_REF|~|usr:27|~|cculp|~|Christina Culp
+examiner|~|MSTR_REF|~|usr:28|~|cdedrick|~|Corbin Dedrick
+examiner|~|MSTR_REF|~|usr:29|~|ydemi-ejegi|~|Yotan Demi-Ejegi
+examiner|~|MSTR_REF|~|usr:3|~|lzobler|~|Lori Zobler
+examiner|~|MSTR_REF|~|usr:30|~|rdonati|~|Robert Donati
+examiner|~|MSTR_REF|~|usr:31|~|kfoushee|~|Kevin Foushee
+examiner|~|MSTR_REF|~|usr:32|~|jgilbert|~|James Gilbert
+examiner|~|MSTR_REF|~|usr:33|~|agoldwater|~|Ali Goldwater
+examiner|~|MSTR_REF|~|usr:34|~|jgoldwater|~|John Goldwater
+examiner|~|MSTR_REF|~|usr:35|~|kgramling|~|Kristy Gramling
+examiner|~|MSTR_REF|~|usr:36|~|phanson|~|Paul Hanson
+examiner|~|MSTR_REF|~|usr:37|~|bhayden|~|Bruce Hayden
+examiner|~|MSTR_REF|~|usr:38|~|mhess|~|Mitzi Hess
+examiner|~|MSTR_REF|~|usr:39|~|jjackson|~|Joseph Jackson
+examiner|~|MSTR_REF|~|usr:4|~|ahenderson|~|Angela Henderson
+examiner|~|MSTR_REF|~|usr:40|~|djohns|~|Denise Johns
+examiner|~|MSTR_REF|~|usr:41|~|lkopera|~|Lois Kopera
+examiner|~|MSTR_REF|~|usr:42|~|txlowe|~|Tyler Lowe
+examiner|~|MSTR_REF|~|usr:43|~|amacleod|~|Alicia Macleod
+examiner|~|MSTR_REF|~|usr:44|~|lmcknight|~|Laurie McKnight
+examiner|~|MSTR_REF|~|usr:45|~|mamiller|~|Matt Miller
+examiner|~|MSTR_REF|~|usr:46|~|jminnis|~|Jessica Minnis
+examiner|~|MSTR_REF|~|usr:47|~|bnash|~|Brian Nash
+examiner|~|MSTR_REF|~|usr:48|~|jolson|~|Jessica Olson
+examiner|~|MSTR_REF|~|usr:49|~|mpatki|~|Minal Patki
+examiner|~|MSTR_REF|~|usr:5|~|ncioffi1|~|Nick Cioffi
+examiner|~|MSTR_REF|~|usr:50|~|brisen|~|Brian Risen
+examiner|~|MSTR_REF|~|usr:51|~|asalinas|~|Alana Salinas
+examiner|~|MSTR_REF|~|usr:52|~|rsherman|~|Robert Sherman
+examiner|~|MSTR_REF|~|usr:53|~|dsminchak|~|Daniel Sminchak
+examiner|~|MSTR_REF|~|usr:54|~|kto|~|Ka Ying To
+examiner|~|MSTR_REF|~|usr:55|~|nwagner|~|Neila Wagner
+examiner|~|MSTR_REF|~|usr:56|~|rwalsh|~|Robin Walsh
+examiner|~|MSTR_REF|~|usr:57|~|nwiley|~|Natalie Wiley
+examiner|~|MSTR_REF|~|usr:58|~|cyost|~|Connie Yost
+examiner|~|MSTR_REF|~|usr:59|~|lxyoung|~|Levi Young
+examiner|~|MSTR_REF|~|usr:6|~|mhawkins|~|Matt Hawkins
+examiner|~|MSTR_REF|~|usr:60|~|mzavadowski|~|Mary Ann Zavadowski
+examiner|~|MSTR_REF|~|usr:61|~|bdouglas|~|Brian Douglas
+examiner|~|MSTR_REF|~|usr:62|~|ddurkin|~|Dennis Durkin
+examiner|~|MSTR_REF|~|usr:63|~|ggudex|~|Gary Gudex
+examiner|~|MSTR_REF|~|usr:64|~|dlasota|~|David Lasota
+examiner|~|MSTR_REF|~|usr:65|~|jmackay|~|John MacKay
+examiner|~|MSTR_REF|~|usr:66|~|tmeadows|~|Terry Meadows
+examiner|~|MSTR_REF|~|usr:67|~|kemiller|~|Ken Miller
+examiner|~|MSTR_REF|~|usr:68|~|apokorny|~|Anthony Pokorny
+examiner|~|MSTR_REF|~|usr:69|~|jrose|~|Jim Rose
+examiner|~|MSTR_REF|~|usr:7|~|psmith|~|Paige Smith
+examiner|~|MSTR_REF|~|usr:70|~|aijaz|~|Aneela Ijaz
+examiner|~|MSTR_REF|~|usr:71|~|aseger|~|Ana Seger
+examiner|~|MSTR_REF|~|usr:72|~|conuser|~|Con User
+examiner|~|MSTR_REF|~|usr:73|~|linile|~|Lena Lini
+examiner|~|MSTR_REF|~|usr:74|~|foxde|~|Debbie Fox
+examiner|~|MSTR_REF|~|usr:75|~|neecewe|~|Wendi Neece
+examiner|~|MSTR_REF|~|usr:76|~|dengleco|~|Connie D'Englere
+examiner|~|MSTR_REF|~|usr:77|~|trevetki|~|Kim Trivette
+examiner|~|MSTR_REF|~|usr:78|~|stolzbe|~|Bethany Stoltz
+examiner|~|MSTR_REF|~|usr:79|~|hesterka|~|Katrina Hester
+examiner|~|MSTR_REF|~|usr:8|~|ccombs|~|Carl Combs
+examiner|~|MSTR_REF|~|usr:80|~|phelpste|~|Teresa Phelps
+examiner|~|MSTR_REF|~|usr:81|~|grieseal|~|Allison Grieser
+examiner|~|MSTR_REF|~|usr:82|~|lawrenpa|~|Patricia Lawrence
+examiner|~|MSTR_REF|~|usr:83|~|capersto|~|Tonya Capers
+examiner|~|MSTR_REF|~|usr:84|~|deapoli|~|Linda Deapo
+examiner|~|MSTR_REF|~|usr:85|~|jsamuelson|~|Jodi Samuelson
+examiner|~|MSTR_REF|~|usr:86|~|dhydeck|~|Darlene Hydeck
+examiner|~|MSTR_REF|~|usr:87|~|lriccio|~|Lisa Riccio
+examiner|~|MSTR_REF|~|usr:88|~|msawicki|~|Michele Sawicki
+examiner|~|MSTR_REF|~|usr:89|~|jarrington|~|JaRon Arrington
+examiner|~|MSTR_REF|~|usr:9|~|sdunkelberger|~|Stacie Dunkelberger
+examiner|~|MSTR_REF|~|usr:90|~|cwinston|~|Christopher Winston
+examiner|~|MSTR_REF|~|usr:91|~|abostic|~|Angela Bostic
+examiner|~|MSTR_REF|~|usr:92|~|jshen|~|John Shen
+examiner|~|MSTR_REF|~|usr:93|~|sschaeffer|~|Susan Schaeffer
+examiner|~|MSTR_REF|~|usr:94|~|rcascarina|~|Richard Cascarina
+examiner|~|MSTR_REF|~|usr:95|~|smehner|~|Sean Mehner
+examiner|~|MSTR_REF|~|usr:96|~|infosecpentest1|~|pentest1 infosec
+examiner|~|MSTR_REF|~|usr:97|~|infosecpentest2|~|pentest2 infosec
+examiner|~|MSTR_REF|~|usr:98|~|rackermann|~|Richard Ackermann
+examiner|~|MSTR_REF|~|usr:99|~|gdangelo|~|Gregory D'Angelo
+examiner|~|MSTR_REF|~|usrother:1|~|rraisnghani|~|Rick Raisinghani
+examiner|~|MSTR_REF|~|usrother:10|~|GWTest_FNOLReporterE|~|GWTest FNOLReporterExt
+examiner|~|MSTR_REF|~|usrother:101|~|GWAMI_NurseCaseMgr|~|GWAMI NurseCaseMgr
+examiner|~|MSTR_REF|~|usrother:102|~|GWAMI_PolicySvcsRep|~|GWAMI PolicySvcsRep
+examiner|~|MSTR_REF|~|usrother:103|~|GWAMI_FNOLReporterE|~|GWAMI FNOLReporterE
+examiner|~|MSTR_REF|~|usrother:104|~|GWAMI_HouseCounsel|~|GWAMI HouseCounsel
+examiner|~|MSTR_REF|~|usrother:105|~|GWAMI_SubroRep|~|GWAMI SubroRep
+examiner|~|MSTR_REF|~|usrother:106|~|GWAMI_InternalAudit|~|GWAMI InternalAudit
+examiner|~|MSTR_REF|~|usrother:107|~|GWAMI_ClaimMgr|~|GWAMI ClaimMgr
+examiner|~|MSTR_REF|~|usrother:108|~|GWAMI_UW|~|GWAMI UW
+examiner|~|MSTR_REF|~|usrother:109|~|GWAMI_Clerical|~|GWAMI Clerical
+examiner|~|MSTR_REF|~|usrother:11|~|GWTest_HouseCounsel|~|GWTest HouseCounsel
+examiner|~|MSTR_REF|~|usrother:110|~|GWAMI_Finance|~|GWAMI Finance
+examiner|~|MSTR_REF|~|usrother:111|~|GWAMI_CallCenter|~|GWAMI CallCenter
+examiner|~|MSTR_REF|~|usrother:112|~|GWAMI_Adj|~|GWAMI Adj
+examiner|~|MSTR_REF|~|usrother:113|~|GWAMI_Actuary|~|GWAMI Actuary
+examiner|~|MSTR_REF|~|usrother:114|~|GWAMI_SplUW|~|GWAMI SplUW
+examiner|~|MSTR_REF|~|usrother:115|~|GWAMI_IntAdmin|~|GWAMI IntAdmin
+examiner|~|MSTR_REF|~|usrother:116|~|GWAMI_ToolsView|~|GWAMI ToolsView
+examiner|~|MSTR_REF|~|usrother:117|~|GWAMI_TestViewer|~|GWAMI TestViewer
+examiner|~|MSTR_REF|~|usrother:118|~|GWAMI_SuperUser|~|GWAMI SuperUser
+examiner|~|MSTR_REF|~|usrother:119|~|GWAMI_Accounting|~|GWAMI Accounting
+examiner|~|MSTR_REF|~|usrother:12|~|GWTest_IntAdmin|~|GWTest IntAdmin
+examiner|~|MSTR_REF|~|usrother:120|~|GWAMI_ClaimSup|~|GWAMI ClaimSup
+examiner|~|MSTR_REF|~|usrother:121|~|GWAMI_CatAdmin|~|GWAMI CatAdmin
+examiner|~|MSTR_REF|~|usrother:122|~|GWAMI_Admin|~|GWAMI Admin
+examiner|~|MSTR_REF|~|usrother:123|~|GWAMI_QA|~|GWAMI QA
+examiner|~|MSTR_REF|~|usrother:124|~|GWAMI_RulesAdmin|~|GWAMI RulesAdmin
+examiner|~|MSTR_REF|~|usrother:125|~|GWAMI_UserAdmin|~|GWAMI UserAdmin
+examiner|~|MSTR_REF|~|usrother:126|~|GWAMI_PrefVendorAdm|~|GWAMI PrefVendorAdm
+examiner|~|MSTR_REF|~|usrother:127|~|GWAMI_NurseCaseMgrE|~|GWAMI NurseCaseMgrE
+examiner|~|MSTR_REF|~|usrother:128|~|GWAMI_MedOnlyAdj|~|GWAMI MedOnlyAdj
+examiner|~|MSTR_REF|~|usrother:129|~|GWPEI_TestViewer|~|GWPEI TestViewer
+examiner|~|MSTR_REF|~|usrother:13|~|GWTest_InternalAudit|~|GWTest InternalAudit
+examiner|~|MSTR_REF|~|usrother:130|~|GWPEI_NurseCaseMgrE|~|GWPEI NurseCaseMgrE
+examiner|~|MSTR_REF|~|usrother:131|~|GWPEI_ToolsView|~|GWPEI ToolsView
+examiner|~|MSTR_REF|~|usrother:132|~|GWPEI_PolicySvcsRep|~|GWPEI PolicySvcsRep
+examiner|~|MSTR_REF|~|usrother:133|~|GWPEI_FNOLReporterE|~|GWPEI FNOLReporterE
+examiner|~|MSTR_REF|~|usrother:134|~|GWPEI_SubroRep|~|GWPEI SubroRep
+examiner|~|MSTR_REF|~|usrother:135|~|GWPEI_InternalAudit|~|GWPEI InternalAudit
+examiner|~|MSTR_REF|~|usrother:136|~|GWPEI_MedOnlyAdj|~|GWPEI MedOnlyAdj
+examiner|~|MSTR_REF|~|usrother:137|~|GWPEI_CallCenter|~|GWPEI CallCenter
+examiner|~|MSTR_REF|~|usrother:138|~|GWPEI_ClaimMgr|~|GWPEI ClaimMgr
+examiner|~|MSTR_REF|~|usrother:139|~|GWPEI_IntAdmin|~|GWPEI IntAdmin
+examiner|~|MSTR_REF|~|usrother:14|~|GWTest_MedOnlyAdj|~|GWTest MedOnlyAdj
+examiner|~|MSTR_REF|~|usrother:140|~|GWPEI_HouseCounsel|~|GWPEI HouseCounsel
+examiner|~|MSTR_REF|~|usrother:141|~|GWPEI_QA|~|GWPEI QA
+examiner|~|MSTR_REF|~|usrother:142|~|GWPEI_Clerical|~|GWPEI Clerical
+examiner|~|MSTR_REF|~|usrother:143|~|GWPEI_ClaimSup|~|GWPEI ClaimSup
+examiner|~|MSTR_REF|~|usrother:144|~|GWPEI_PrefVendorAdm|~|GWPEI PrefVendorAdm
+examiner|~|MSTR_REF|~|usrother:145|~|GWPEI_CatAdmin|~|GWPEI CatAdmin
+examiner|~|MSTR_REF|~|usrother:146|~|GWPEI_Adj|~|GWPEI Adj
+examiner|~|MSTR_REF|~|usrother:147|~|GWPEI_UserAdmin|~|GWPEI UserAdmin
+examiner|~|MSTR_REF|~|usrother:148|~|GWPEI_NurseCaseMgr|~|GWPEI NurseCaseMgr
+examiner|~|MSTR_REF|~|usrother:149|~|GWPEI_Admin|~|GWPEI Admin
+examiner|~|MSTR_REF|~|usrother:15|~|GWTest_NurseCaseMgr|~|GWTest NurseCaseMgr
+examiner|~|MSTR_REF|~|usrother:150|~|GWPEI_Finance|~|GWPEI Finance
+examiner|~|MSTR_REF|~|usrother:151|~|GWPEI_RulesAdmin|~|GWPEI RulesAdmin
+examiner|~|MSTR_REF|~|usrother:152|~|GWPEI_UW|~|GWPEI UW
+examiner|~|MSTR_REF|~|usrother:153|~|GWPEI_Accounting|~|GWPEI Accounting
+examiner|~|MSTR_REF|~|usrother:154|~|GWPEI_Actuary|~|GWPEI Actuary
+examiner|~|MSTR_REF|~|usrother:155|~|GWPEI_SuperUser|~|GWPEI SuperUser
+examiner|~|MSTR_REF|~|usrother:156|~|GWPEI_SplUW|~|GWPEI SplUW
+examiner|~|MSTR_REF|~|usrother:157|~|GDAngeloTest1|~|GWTest MultiCompAdj
+examiner|~|MSTR_REF|~|usrother:158|~|GDAngeloTest2|~|GWTest MultiCompSU
+examiner|~|MSTR_REF|~|usrother:159|~|bsiddarthan|~|Balaji Siddarthan
+examiner|~|MSTR_REF|~|usrother:16|~|GWTest_NurseCaseMgrE|~|GWTest NurseCaseMgrExt
+examiner|~|MSTR_REF|~|usrother:160|~|GWTest_Cognossa|~|GWTest Cognossa
+examiner|~|MSTR_REF|~|usrother:17|~|GWTest_PolicySvcsRep|~|GWTest PolicySvcsRep
+examiner|~|MSTR_REF|~|usrother:18|~|GWTest_PrefVendorAdm|~|GWTest PrefVendorAdmin
+examiner|~|MSTR_REF|~|usrother:19|~|GWTest_QA|~|GWTest QualityAnalyst
+examiner|~|MSTR_REF|~|usrother:2|~|dhonaker|~|Doug Honaker
+examiner|~|MSTR_REF|~|usrother:20|~|GWTest_Admin|~|GWTest ReportingAdmin
+examiner|~|MSTR_REF|~|usrother:21|~|GWTest_RulesAdmin|~|GWTest RulesAdmin
+examiner|~|MSTR_REF|~|usrother:22|~|GWTest_SplUW|~|GWTest SplUW
+examiner|~|MSTR_REF|~|usrother:23|~|GWTest_SubroRep|~|GWTest SubroRep
+examiner|~|MSTR_REF|~|usrother:25|~|GWTest_TestViewer|~|GWTest TestViewer
+examiner|~|MSTR_REF|~|usrother:26|~|GWTest_ToolsView|~|GWTest ToolsView
+examiner|~|MSTR_REF|~|usrother:27|~|GWTest_UserAdmin|~|GWTest UserAdmin
+examiner|~|MSTR_REF|~|usrother:28|~|GWTest_UW|~|GWTest UW
+examiner|~|MSTR_REF|~|usrother:3|~|ypurim|~|Yury Purim
+examiner|~|MSTR_REF|~|usrother:32|~|btsccprdsvc01|~|Interface CCandCMUser
+examiner|~|MSTR_REF|~|usrother:33|~|btsgshprdsvc|~|Interface Middletier
+examiner|~|MSTR_REF|~|usrother:37|~|CC_Integration|~|Integration Interface
+examiner|~|MSTR_REF|~|usrother:4|~|pbhatnagar|~|Piyush Bhatnagar
+examiner|~|MSTR_REF|~|usrother:5|~|vgoteti|~|Vikram Goteti
+examiner|~|MSTR_REF|~|usrother:6|~|pupadhye|~|Prashant Upadhye
+examiner|~|MSTR_REF|~|usrother:7|~|ksmith|~|Kevin Smith
+examiner|~|MSTR_REF|~|usrother:8|~|lfan|~|Lee Fan
+examiner|~|MSTR_REF|~|usrother:9|~|GWTest_Finance|~|GWTest Finance
+foundation_type|~|MSTR_REF|~|CrawlSpace|~|Crawl Space|~|Crawl Space
+foundation_type|~|MSTR_REF|~|FullBasement|~|Full Basement|~|Full Basement
+foundation_type|~|MSTR_REF|~|PierAndBeam|~|Pier and Beam|~|Pier and Beam
+foundation_type|~|MSTR_REF|~|RaisedSlab|~|Raised Slab|~|Raised Slab
+foundation_type|~|MSTR_REF|~|Slab|~|Slab|~|Slab
+foundation_type|~|MSTR_REF|~|UNK|~|Unknown|~|Unknown Foundation Type
+garage_type|~|MSTR_REF|~|Attached-1|~|Attached Garage - 1 Car|~|Attached Garage - 1 Car
+garage_type|~|MSTR_REF|~|Attached-2|~|Attached Garage - 2 Car|~|Attached Garage - 2 Car
+garage_type|~|MSTR_REF|~|Attached-3|~|Attached Garage - 3 Car|~|Attached Garage - 3 Car
+garage_type|~|MSTR_REF|~|Detached-1|~|Detached Garage - 1 Car|~|Detached Garage - 1 Car
+garage_type|~|MSTR_REF|~|Detached-2|~|Detached Garage - 2 Car|~|Detached Garage - 2 Car
+garage_type|~|MSTR_REF|~|Detached-3|~|Detached Garage - 3 Car|~|Detached Garage - 3 Car
+garage_type|~|MSTR_REF|~|None|~|No Garage|~|No Garage
+garage_type|~|MSTR_REF|~|UNK|~|Unknown|~|Unknown Garage Type
+gender|~|MSTR_REF|~|F|~|Female|~|Female
+gender|~|MSTR_REF|~|M|~|Male|~|Male
+gender|~|MSTR_REF|~|UNK|~|Unknown|~|Unknown Gender
+ho_pol_type|~|MSTR_REF|~|DP2|~|Fire Dwelling (DP2)|~|Broad DP2
+ho_pol_type|~|MSTR_REF|~|HO3|~|Homeowners (HO3)|~|Special HO3
+ho_pol_type|~|MSTR_REF|~|HO4|~|Renters (HO4)|~|Tenant Broad HO4
+ho_pol_type|~|MSTR_REF|~|HO6|~|Condominium (HO6)|~|Condominium HO6
+ho_pol_type|~|MSTR_REF|~|UNK|~|Unknown|~|Unknown HO Policy Type
+incident_cnt|~|MSTR_REF|~|0|~|0|~|0
+incident_cnt|~|MSTR_REF|~|1|~|1|~|1
+incident_cnt|~|MSTR_REF|~|2|~|2|~|2
+incident_cnt|~|MSTR_REF|~|3|~|3|~|3
+incident_cnt|~|MSTR_REF|~|4|~|4|~|4
+incident_cnt|~|MSTR_REF|~|5|~|5 or more|~|5 or more
+incident_cnt|~|MSTR_REF|~|UNK|~|Unknown|~|Unknown Incident Count
+len_of_lease|~|MSTR_REF|~|LessSixMonths|~|Less than 6 months|~|Less than 6 months
+len_of_lease|~|MSTR_REF|~|SixMonthsOrMore|~|6 months or greater|~|6 months or greater
+len_of_lease|~|MSTR_REF|~|UNK|~|Unknown|~|Unknown Length of Lease
+line_division|~|MSTR_REF|~|C|~|Commercial|~|Commercial Lines
+line_division|~|MSTR_REF|~|P|~|Personal|~|Personal Lines
+line_division|~|MSTR_REF|~|U|~|Unknown|~|Unknown Line Division
+line_of_business|~|MSTR_REF|~|BusinessAuto|~|Business Auto|~|Business Auto
+line_of_business|~|MSTR_REF|~|BusinessOwners|~|Business Owners|~|Business Owners
+line_of_business|~|MSTR_REF|~|CommercialPackage|~|Commercial Package|~|Commercial Package
+line_of_business|~|MSTR_REF|~|CommercialProperty|~|Commercial Property|~|Commercial Property
+line_of_business|~|MSTR_REF|~|GeneralLiability|~|General Liability|~|General Liability
+line_of_business|~|MSTR_REF|~|HomeOwners|~|Home Owners|~|Home Owners
+line_of_business|~|MSTR_REF|~|InlandMarine|~|Inland Marine|~|Inland Marine
+line_of_business|~|MSTR_REF|~|PersonalAuto|~|Personal Auto|~|Personal Auto
+line_of_business|~|MSTR_REF|~|PersonalUmbrella|~|Personal Umbrella|~|Personal Umbrella
+line_of_business|~|MSTR_REF|~|UNK|~|Unknown|~|Unknown Line of Business
+line_of_business|~|MSTR_REF|~|WorkersComp|~|Workers Compensation|~|Workers Compensation
+loc_type|~|MSTR_REF|~|city|~|In City Limits|~|In City Limits
+loc_type|~|MSTR_REF|~|fire|~|In Fire District|~|In Fire District
+loc_type|~|MSTR_REF|~|other|~|Other|~|Other
+loc_type|~|MSTR_REF|~|prot|~|In protected suburb|~|In protected suburb
+loc_type|~|MSTR_REF|~|UNK|~|Unknown|~|Unknown Dwelling Location Type
+loc_type|~|MSTR_REF|~|unprot|~|In unprotected area|~|In unprotected Area
+loss_cause|~|MSTR_REF|~|abandonment|~|Abandonment|~|Abandonment
+loss_cause|~|MSTR_REF|~|air_crash|~|Crash of airplane|~|Crash of airplane
+loss_cause|~|MSTR_REF|~|animal|~|Animal|~|Animal
+loss_cause|~|MSTR_REF|~|animal_bite|~|Animal/insect bite/scratch/sting|~|Animal/insect bite/scratch/sting
+loss_cause|~|MSTR_REF|~|animalcollision|~|Collision with animal|~|Collision with animal
+loss_cause|~|MSTR_REF|~|assault|~|Assault or battery|~|Assault or battery
+loss_cause|~|MSTR_REF|~|bikecollision|~|Collision with bicycle|~|Collision with bicycle
+loss_cause|~|MSTR_REF|~|breach|~|Breach of contract|~|Breach of contract
+loss_cause|~|MSTR_REF|~|broken_glass|~|Broken glass|~|Broken glass
+loss_cause|~|MSTR_REF|~|burglary|~|Burglary|~|Burglary
+loss_cause|~|MSTR_REF|~|burn_scald|~|Burn or scald - heat or cold exposures - contact with|~|Burn or scald - heat or cold exposures - contact with
+loss_cause|~|MSTR_REF|~|cancellation|~|Cancellation|~|Cancellation
+loss_cause|~|MSTR_REF|~|caught_in|~|Caught in, under, or between|~|Caught in, under, or between
+loss_cause|~|MSTR_REF|~|construction|~|Faulty construction|~|Faulty construction
+loss_cause|~|MSTR_REF|~|cut|~|Cut, puncture, scrape, injured by|~|Cut, puncture, scrape, injured by
+loss_cause|~|MSTR_REF|~|death|~|Death|~|Death
+loss_cause|~|MSTR_REF|~|delay|~|Delay|~|Delay
+loss_cause|~|MSTR_REF|~|documents|~|Documents|~|Loss of documents like passport, tickets, driver's license
+loss_cause|~|MSTR_REF|~|earthquake|~|Earthquake|~|Earthquake
+loss_cause|~|MSTR_REF|~|electrical_curr|~|Contact with electric current|~|Contact with electric current
+loss_cause|~|MSTR_REF|~|errors|~|Errors and omissions|~|Errors and omissions
+loss_cause|~|MSTR_REF|~|excess|~|Excess liability|~|Excess liability
+loss_cause|~|MSTR_REF|~|explosion|~|Explosion|~|Explosion
+loss_cause|~|MSTR_REF|~|fall|~|Fall, slip, or trip injury|~|Fall, slip, or trip injury
+loss_cause|~|MSTR_REF|~|FallingObject|~|Falling or moving object|~|Falling or moving object
+loss_cause|~|MSTR_REF|~|fire|~|Fire|~|Fire
+loss_cause|~|MSTR_REF|~|firedamage|~|Fire damage to vehicle|~|Fire damage to vehicle
+loss_cause|~|MSTR_REF|~|fixedobjcoll|~|Collision with fixed object|~|Collision with fixed object
+loss_cause|~|MSTR_REF|~|glassbreakage|~|Glass breakage|~|Glass breakage
+loss_cause|~|MSTR_REF|~|hail|~|Hail|~|Hail
+loss_cause|~|MSTR_REF|~|leftcollision|~|Collision while turning left|~|Collision while turning left
+loss_cause|~|MSTR_REF|~|LegacyCause|~|Legacy Cause|~|Legacy Cause of Loss
+loss_cause|~|MSTR_REF|~|LegacyCause3|~|Legacy Cause 3|~|Legacy Cause of Loss 3
+loss_cause|~|MSTR_REF|~|loadingdamage|~|Damage in loading or unloading|~|Damage in loading or unloading
+loss_cause|~|MSTR_REF|~|med_error|~|Medical error|~|Medical error
+loss_cause|~|MSTR_REF|~|miscellaneous|~|Miscellaneous causes|~|Miscellaneous causes
+loss_cause|~|MSTR_REF|~|missed_departure|~|Missed departure|~|Missed departure
+loss_cause|~|MSTR_REF|~|mold|~|Mold|~|Mold
+loss_cause|~|MSTR_REF|~|motorvehicle|~|Motor vehicle|~|Motor vehicle
+loss_cause|~|MSTR_REF|~|official_duty|~|Mandatory official duty (military, jury etc)|~|Mandatory official duty (military, jury etc)
+loss_cause|~|MSTR_REF|~|otherobjcoll|~|Collision with other object|~|Collision with other object
+loss_cause|~|MSTR_REF|~|pedcollision|~|Collision with pedestrian|~|Collision with pedestrian
+loss_cause|~|MSTR_REF|~|personal_misconduct|~|Personal misconduct|~|Personal Misconduct
+loss_cause|~|MSTR_REF|~|preex_med_condition|~|Pre existing medical condition|~|Pre existing medical condition
+loss_cause|~|MSTR_REF|~|product|~|Product failure|~|Product failure
+loss_cause|~|MSTR_REF|~|professional_sports|~|Professional or organized sports|~|Professional or Organized Sports
+loss_cause|~|MSTR_REF|~|rail_crash|~|Crash of rail vehicle|~|Crash of rail vehicle
+loss_cause|~|MSTR_REF|~|rearend|~|Rear-end collision|~|Rear-end collision
+loss_cause|~|MSTR_REF|~|riotandcivil|~|Riot and civil commotion|~|Riot and civil commotion
+loss_cause|~|MSTR_REF|~|rollover|~|Rollover|~|Rollover
+loss_cause|~|MSTR_REF|~|rubbed|~|Rubbed or abraded by|~|Rubbed or abraded by
+loss_cause|~|MSTR_REF|~|snowice|~|Snow/ice|~|Snow/ice
+loss_cause|~|MSTR_REF|~|strain|~|Strain or injury by|~|Strain or injury by
+loss_cause|~|MSTR_REF|~|striking|~|Striking against or stepping on|~|Striking against or stepping on
+loss_cause|~|MSTR_REF|~|struck|~|Struck or injured by|~|Struck or injured by
+loss_cause|~|MSTR_REF|~|structfailure|~|Structural failure|~|Structural failure
+loss_cause|~|MSTR_REF|~|terrorism_hijack|~|Terrorism or Hijack|~|Terrorism or Hijack
+loss_cause|~|MSTR_REF|~|theftentire|~|Theft of entire vehicle|~|Theft of entire vehicle
+loss_cause|~|MSTR_REF|~|theftparts|~|Theft Audio or other parts|~|Theft Audio or other parts
+loss_cause|~|MSTR_REF|~|trainbuscoll|~|Collision with train or bus|~|Collision with train or bus
+loss_cause|~|MSTR_REF|~|UNK|~|Unknown|~|Unknown Cause
+loss_cause|~|MSTR_REF|~|vandalism|~|Malicious mischief and vandalism|~|Malicious mischief and vandalism
+loss_cause|~|MSTR_REF|~|vehcollision|~|Collision with motor vehicle|~|Collision with motor vehicle
+loss_cause|~|MSTR_REF|~|water_veh_crash|~|Crash of water vehicle|~|Crash of water vehicle
+loss_cause|~|MSTR_REF|~|waterdamage|~|Water damage|~|Water Damage
+loss_cause|~|MSTR_REF|~|wind|~|Wind|~|Wind
+loss_type|~|MSTR_REF|~|AUTO|~|Auto|~|Auto
+loss_type|~|MSTR_REF|~|GL|~|Liability|~|Liability
+loss_type|~|MSTR_REF|~|LEGACY_LOSS_TYPE|~|Legacy Loss Type|~|Legacy Loss Type
+loss_type|~|MSTR_REF|~|PR|~|Property|~|Property
+loss_type|~|MSTR_REF|~|TRAV|~|Travel|~|General loss during travel
+loss_type|~|MSTR_REF|~|UNK|~|Unknown|~|Unknown Loss Type
+loss_type|~|MSTR_REF|~|WC|~|Workers' Comp|~|Workers' Comp
+marital_status|~|MSTR_REF|~|C|~|Domestic partner|~|Domestic partner
+marital_status|~|MSTR_REF|~|D|~|Divorced|~|Divorced
+marital_status|~|MSTR_REF|~|M|~|Married|~|Married
+marital_status|~|MSTR_REF|~|P|~|Separated|~|Separated
+marital_status|~|MSTR_REF|~|S|~|Single|~|Single
+marital_status|~|MSTR_REF|~|U|~|Unknown|~|Unknown
+marital_status|~|MSTR_REF|~|UNK|~|Unknown|~|Unknown Marital Status
+marital_status|~|MSTR_REF|~|W|~|Widowed|~|Widowed
+modifier|~|MSTR_REF|~|PAAntiLockBrakes|~|Anti-Lock Brakes|~|Anti-Lock Brakes
+modifier|~|MSTR_REF|~|PAAntiTheft|~|Anti-Theft|~|Anti-Theft
+modifier|~|MSTR_REF|~|PAMultiCarDiscount|~|Multi-Car Discount|~|Multi-Car Discount
+modifier|~|MSTR_REF|~|PAMultiPolicyDiscount|~|Multi-Policy Discount|~|Multi-Policy Discount
+modifier|~|MSTR_REF|~|PANoLossDiscount|~|No-Loss Discount|~|No-Loss Discount
+modifier|~|MSTR_REF|~|PAPassiveRestraint|~|Passive Restraint|~|Passive Restraint
+modifier|~|MSTR_REF|~|UNK|~|Unknown|~|Unknown Modifier
+occpcy_type|~|MSTR_REF|~|inconst|~|In course of construction|~|In course of construction
+occpcy_type|~|MSTR_REF|~|nonown|~|Non-owner Occupancy|~|Non-owner Occupancy
+occpcy_type|~|MSTR_REF|~|owner|~|Owner Occupied|~|Owner Occupied
+occpcy_type|~|MSTR_REF|~|tenant|~|Tenant Occupied|~|Tenant Occupied
+occpcy_type|~|MSTR_REF|~|UNK|~|Unknown|~|Unknown Occupancy Type
+occpcy_type|~|MSTR_REF|~|vacant|~|Vacant or Unoccupied|~|Vacant or Unoccupied
+party_role_type|~|MSTR_REF|~|BAPolicyContactRole|~|BAPolicyContactRole|~|BAPolicyContactRole
+party_role_type|~|MSTR_REF|~|BOPPolicyContactRole|~|BOPPolicyContactRole|~|BOPPolicyContactRole
+party_role_type|~|MSTR_REF|~|CPPolicyContactRole|~|CPPolicyContactRole|~|CPPolicyContactRole
+party_role_type|~|MSTR_REF|~|GLPolicyContactRole|~|GLPolicyContactRole|~|GLPolicyContactRole
+party_role_type|~|MSTR_REF|~|IMPolicyContactRole|~|IMPolicyContactRole|~|IMPolicyContactRole
+party_role_type|~|MSTR_REF|~|PAPolicyContactRole|~|PAPolicyContactRole|~|PAPolicyContactRole
+party_role_type|~|MSTR_REF|~|PlcyNonPriNamedInsured|~|PlcyNonPriNamedInsured|~|PlcyNonPriNamedInsured
+party_role_type|~|MSTR_REF|~|PolicyAddlInsured|~|PolicyAddlInsured|~|PolicyAddlInsured
+party_role_type|~|MSTR_REF|~|PolicyAddlInterest|~|PolicyAddlInterest|~|PolicyAddlInterest
+party_role_type|~|MSTR_REF|~|PolicyAddlNamedInsured|~|PolicyAddlNamedInsured|~|PolicyAddlNamedInsured
+party_role_type|~|MSTR_REF|~|PolicyBillingContact|~|PolicyBillingContact|~|PolicyBillingContact
+party_role_type|~|MSTR_REF|~|PolicyContactRole|~|PolicyContactRole|~|PolicyContactRole
+party_role_type|~|MSTR_REF|~|PolicyDriver|~|PolicyDriver|~|PolicyDriver
+party_role_type|~|MSTR_REF|~|PolicyLaborClient|~|PolicyLaborClient|~|PolicyLaborClient
+party_role_type|~|MSTR_REF|~|PolicyLaborContractor|~|PolicyLaborContractor|~|PolicyLaborContractor
+party_role_type|~|MSTR_REF|~|PolicyNamedInsured|~|PolicyNamedInsured|~|PolicyNamedInsured
+party_role_type|~|MSTR_REF|~|PolicyOwnerOfficer|~|PolicyOwnerOfficer|~|PolicyOwnerOfficer
+party_role_type|~|MSTR_REF|~|PolicyPriNamedInsured|~|PolicyPriNamedInsured|~|PolicyPriNamedInsured
+party_role_type|~|MSTR_REF|~|PolicySecNamedInsured|~|PolicySecNamedInsured|~|PolicySecNamedInsured
+party_role_type|~|MSTR_REF|~|UNK|~|Unknown|~|Unknown Party Role Type
+party_role_type|~|MSTR_REF|~|WCLaborContact|~|WCLaborContact|~|WCLaborContact
+party_role_type|~|MSTR_REF|~|WCPolicyContactRole|~|WCPolicyContactRole|~|WCPolicyContactRole
+party_type|~|MSTR_REF|~|Adjudicator|~|Adjudicator|~|Adjudicator
+party_type|~|MSTR_REF|~|Company|~|Company|~|Company
+party_type|~|MSTR_REF|~|CompanyVendor|~|Vendor (Company)|~|CompanyVendor
+party_type|~|MSTR_REF|~|Contact|~|Contact|~|Contact
+party_type|~|MSTR_REF|~|LegalVenue|~|Legal Venue|~|LegalVenue
+party_type|~|MSTR_REF|~|Person|~|Person|~|Person
+party_type|~|MSTR_REF|~|PersonVendor|~|Vendor (Person)|~|PersonVendor
+party_type|~|MSTR_REF|~|Place|~|Place|~|Place
+party_type|~|MSTR_REF|~|UNK|~|Unknown|~|Unknown Party Type
+party_type|~|MSTR_REF|~|UserContact|~|User Contact|~|UserContact
+plumbing_type|~|MSTR_REF|~|copper|~|Copper|~|Copper
+plumbing_type|~|MSTR_REF|~|galv|~|Galvanized|~|Galvanized
+plumbing_type|~|MSTR_REF|~|other|~|Other|~|Other
+plumbing_type|~|MSTR_REF|~|pvc|~|PVC|~|PVC
+plumbing_type|~|MSTR_REF|~|UNK|~|Unknown|~|Unknown Plumbing Type
+prim_heating_type|~|MSTR_REF|~|Electric|~|Electricity|~|Electricity
+prim_heating_type|~|MSTR_REF|~|Gas|~|Gas|~|Gas - Gravity
+prim_heating_type|~|MSTR_REF|~|HeatingOil|~|Oil|~|Heating Oil
+prim_heating_type|~|MSTR_REF|~|Other|~|Other|~|Other
+prim_heating_type|~|MSTR_REF|~|UNK|~|Unknown|~|Unknown Primary Heating Type
+prim_use|~|MSTR_REF|~|AirportBusLimo|~|Bus / Shuttle - Airport|~|Bus / Shuttle - Airport
+prim_use|~|MSTR_REF|~|AmbulanceService|~|EMT|~|EMT
+prim_use|~|MSTR_REF|~|Antique|~|Antique Vehicle|~|Antique Vehicle
+prim_use|~|MSTR_REF|~|AthleteEntertainer|~|Bus - athletes and entertainers|~|Bus - athletes and entertainers
+prim_use|~|MSTR_REF|~|AutoDeliveryPickUp|~|AutoDelivery|~|AutoDelivery
+prim_use|~|MSTR_REF|~|BobtailOperation|~|Tractor w/o Trlr|~|Tractor w/o Trlr
+prim_use|~|MSTR_REF|~|business|~|Business|~|Business
+prim_use|~|MSTR_REF|~|CarService|~|Car service|~|Car service
+prim_use|~|MSTR_REF|~|CharterBus|~|Bus - Charter|~|Bus - Charter
+prim_use|~|MSTR_REF|~|ChurchBus|~|Bus - Church|~|Bus - Church
+prim_use|~|MSTR_REF|~|CommDrivingSchool|~|Commercial driving school|~|Commercial driving school
+prim_use|~|MSTR_REF|~|Commercial|~|Business, NOC|~|Business, NOC
+prim_use|~|MSTR_REF|~|commuting|~|Commuting/School|~|Commuting/School
+prim_use|~|MSTR_REF|~|DistrictOwnedSchoolBus|~|Bus - Public School|~|Bus - Public School
+prim_use|~|MSTR_REF|~|DriverTraining|~|School - Driver Training|~|School - Driver Training
+prim_use|~|MSTR_REF|~|EmployerFurnishedVan|~|Vanpool - Employer|~|Vanpool - Employer
+prim_use|~|MSTR_REF|~|FarmLaborExcPassHaz|~|Farm Labor - Excl Passengers|~|Farm Labor - Excl Passengers
+prim_use|~|MSTR_REF|~|FarmLaborIncPassHaz|~|Farm Labor - Incl Passengers|~|Farm Labor - Incl Passengers
+prim_use|~|MSTR_REF|~|FireDepartmentOther|~|FD - NOC|~|FD - NOC
+prim_use|~|MSTR_REF|~|FireDepartmentPP|~|FD - Passenger vehicles|~|FD - Passenger vehicles
+prim_use|~|MSTR_REF|~|FuneralHearse|~|Funeral - NOC|~|Funeral - NOC
+prim_use|~|MSTR_REF|~|FuneralLimousine|~|Funeral - Limo|~|Funeral - Limo
+prim_use|~|MSTR_REF|~|GolfMobiles|~|Golf mobiles|~|Golf mobiles
+prim_use|~|MSTR_REF|~|InterCityBus|~|Bus - Intercit|~|Bus - Intercity
+prim_use|~|MSTR_REF|~|LawEnforcementMCycle|~|PD - motorcycle|~|PD - motorcycle
+prim_use|~|MSTR_REF|~|LawEnforcementOther|~|PD - NOC|~|PD - NOC
+prim_use|~|MSTR_REF|~|LawEnforcementPP|~|PD - Passenger vehicles|~|PD - Passenger vehicles
+prim_use|~|MSTR_REF|~|LeasingContingentCov|~|Leasing - Excess Cov|~|Leasing - Excess Cov
+prim_use|~|MSTR_REF|~|Limousine|~|Limousine|~|Limousine
+prim_use|~|MSTR_REF|~|mixed|~|Business+Pleasure|~|Business+Pleasure
+prim_use|~|MSTR_REF|~|MobileHomeCamperBody|~|RV - pick up body|~|RV - pick up body
+prim_use|~|MSTR_REF|~|MobileHomeGreater22Ft|~|RV - Under 22'|~|RV - Under 22'
+prim_use|~|MSTR_REF|~|MobileHomeLess22Ft|~|RV - 22'+|~|RV - 22'+
+prim_use|~|MSTR_REF|~|MobileHomeTrailorLQ|~|Mobile home |~|Mobile home 
+prim_use|~|MSTR_REF|~|OtherBus|~|Bus - NOC|~|Bus - NOC
+prim_use|~|MSTR_REF|~|OtherSchoolBus|~|Bus - Other School|~|Bus - Other School
+prim_use|~|MSTR_REF|~|OtherVan|~|Van - NOC|~|Van - NOC
+prim_use|~|MSTR_REF|~|OwnerDrivenTaxi|~|Livery-Owner Operated|~|Livery-Owner Operated
+prim_use|~|MSTR_REF|~|pleasure|~|Pleasure|~|Pleasure
+prim_use|~|MSTR_REF|~|RentalMisc|~|Rental - NOC|~|Rental - NOC
+prim_use|~|MSTR_REF|~|RentalMotorHome|~|Rental - RV|~|Rental - RV
+prim_use|~|MSTR_REF|~|RentalPPAuto|~|Rental - Passenger vehicle|~|Rental - Passenger vehicle
+prim_use|~|MSTR_REF|~|RentalTractor|~|Rental - Tractor|~|Rental - Tractor
+prim_use|~|MSTR_REF|~|RentalTrailer|~|Rental - Trailer|~|Rental - Trailer
+prim_use|~|MSTR_REF|~|RentalTruck|~|Rental - Truck|~|Rental - Truck
+prim_use|~|MSTR_REF|~|RentedLeasedTaxi|~|Livery-Driver Leased|~|Livery-Driver Leased
+prim_use|~|MSTR_REF|~|RepossessedAutomobile|~|Repossessed vehicle|~|Repossessed vehicle
+prim_use|~|MSTR_REF|~|Retail|~|Customer Delivery|~|Customer Delivery
+prim_use|~|MSTR_REF|~|Service|~|Trades|~|Trades
+prim_use|~|MSTR_REF|~|SightseeingBus|~|Bus - Sightseeing|~|Bus - Sightseeing
+prim_use|~|MSTR_REF|~|Snowmobiles|~|Snowmobile|~|Snowmobile
+prim_use|~|MSTR_REF|~|SSA_Emp|~|Soc. Service - employee|~|Soc. Service - employee
+prim_use|~|MSTR_REF|~|SSA_Other|~|Soc. Service, NOC|~|Soc. Service, NOC
+prim_use|~|MSTR_REF|~|Taxicab|~|Taxi cab|~|Taxi cab
+prim_use|~|MSTR_REF|~|UNK|~|Unknown|~|Unknown Primary Use
+prim_use|~|MSTR_REF|~|UrbanBus|~|Bus - Metro Ops Only|~|Bus - Metro Ops Only
+residence_type|~|MSTR_REF|~|Apt|~|Apartment Complex|~|Apartment Complex
+residence_type|~|MSTR_REF|~|Condo|~|Condominium|~|Condominium
+residence_type|~|MSTR_REF|~|Coop|~|CO-OP|~|CO-OP
+residence_type|~|MSTR_REF|~|Duplex|~|Duplex|~|Duplex
+residence_type|~|MSTR_REF|~|Fam1|~|1 Family Residence|~|1 Family Residence
+residence_type|~|MSTR_REF|~|Fam2|~|2 Family Residence|~|2 Family Residence
+residence_type|~|MSTR_REF|~|Fam3|~|3 Family Residence|~|3 Family Residence
+residence_type|~|MSTR_REF|~|Fam4|~|4 Family Residence|~|4 Family Residence
+residence_type|~|MSTR_REF|~|Fam5|~|5 Family+ Residence|~|5 Family+ Residence
+residence_type|~|MSTR_REF|~|Mobile|~|Mobile Home|~|Mobile Home
+residence_type|~|MSTR_REF|~|TownRow|~|Townhouse or Rowhouse|~|Townhouse or Rowhouse
+residence_type|~|MSTR_REF|~|UNK|~|Unknown|~|Unknown Residence Type
+roof_type|~|MSTR_REF|~|A|~|A|~|A
+roof_type|~|MSTR_REF|~|B|~|B|~|B
+roof_type|~|MSTR_REF|~|C|~|C|~|C
+roof_type|~|MSTR_REF|~|comp|~|Composition Shingles including Asphalt |~|Composition Shingles including Asphalt 
+roof_type|~|MSTR_REF|~|copper|~|Copper|~|Copper
+roof_type|~|MSTR_REF|~|fiberAluminum|~|Fiber Aluminum|~|Fiber Aluminum
+roof_type|~|MSTR_REF|~|fiberCement|~|Fiber Cement|~|Fiber Cement
+roof_type|~|MSTR_REF|~|other|~|Other|~|Other
+roof_type|~|MSTR_REF|~|plastic|~|Plastic Roll|~|Plastic Roll
+roof_type|~|MSTR_REF|~|slate|~|Slate Concrete|~|Slate Concrete
+roof_type|~|MSTR_REF|~|targravel|~|Roofing Tar and Gravel Metal including Steel|~|Roofing Tar and Gravel Metal including Steel
+roof_type|~|MSTR_REF|~|tileclay|~|Tile Clay|~|Tile Clay
+roof_type|~|MSTR_REF|~|tileconcrete|~|Tile Concrete|~|Tile Concrete
+roof_type|~|MSTR_REF|~|UNK|~|Unknown|~|Unknown Roof Type
+roof_type|~|MSTR_REF|~|wood|~|Wood Shingles including Shakes|~|Wood Shingles including Shakes
+sched_type|~|MSTR_REF|~|Cameras|~|Cameras|~|Cameras
+sched_type|~|MSTR_REF|~|FineArts|~|Fine Arts|~|Fine Arts
+sched_type|~|MSTR_REF|~|Furs|~|Furs|~|Furs
+sched_type|~|MSTR_REF|~|GolfersEquipment|~|Golfer's Equipment|~|Golfer's Equipment
+sched_type|~|MSTR_REF|~|Jewelry|~|Jewelry|~|Jewelry
+sched_type|~|MSTR_REF|~|MusicalInstruments|~|Musical Instruments|~|Musical Instruments
+sched_type|~|MSTR_REF|~|PostageStamps|~|Postage Stamps|~|Postage Stamps
+sched_type|~|MSTR_REF|~|RareCurrentCoins|~|Rare and Current Coins|~|Rare and Current Coins
+sched_type|~|MSTR_REF|~|Silverware|~|Silverware|~|Silverware
+sched_type|~|MSTR_REF|~|UNK|~|Unknown|~|Unknown Schedule Type
+sprinkler_type|~|MSTR_REF|~|full|~|Full|~|Full
+sprinkler_type|~|MSTR_REF|~|none|~|None|~|None
+sprinkler_type|~|MSTR_REF|~|partial|~|Partial|~|Partial
+sprinkler_type|~|MSTR_REF|~|UNK|~|Unknown|~|Unknown Sprinkler Type
+state_alpha|~|MSTR_REF|~|AB|~|Alberta|~|Alberta
+state_alpha|~|MSTR_REF|~|Aichi|~|Aichi|~|Aichi
+state_alpha|~|MSTR_REF|~|AK|~|Alaska|~|Alaska
+state_alpha|~|MSTR_REF|~|Akita|~|Akita|~|Akita
+state_alpha|~|MSTR_REF|~|AL|~|Alabama|~|Alabama
+state_alpha|~|MSTR_REF|~|Aomori|~|Aomori|~|Aomori
+state_alpha|~|MSTR_REF|~|AR|~|Arkansas|~|Arkansas
+state_alpha|~|MSTR_REF|~|AU_ACT|~|A.C.T.|~|Australian Capital Territory
+state_alpha|~|MSTR_REF|~|AU_JBT|~|Jervis Bay Territory|~|Jervis Bay Territory
+state_alpha|~|MSTR_REF|~|AU_NSW|~|New South Wales|~|New South Wales
+state_alpha|~|MSTR_REF|~|AU_NT|~|Northern Territory|~|Northern Territory
+state_alpha|~|MSTR_REF|~|AU_QLD|~|Queensland|~|Queensland
+state_alpha|~|MSTR_REF|~|AU_SA|~|South Australia|~|South Australia
+state_alpha|~|MSTR_REF|~|AU_TAS|~|Tasmania|~|Tasmania
+state_alpha|~|MSTR_REF|~|AU_VIC|~|Victoria|~|Victoria
+state_alpha|~|MSTR_REF|~|AU_WA|~|Western Australia|~|Western Australia
+state_alpha|~|MSTR_REF|~|AZ|~|Arizona|~|Arizona
+state_alpha|~|MSTR_REF|~|BC|~|British Columbia|~|British Columbia
+state_alpha|~|MSTR_REF|~|CA|~|California|~|California
+state_alpha|~|MSTR_REF|~|Chiba|~|Chiba|~|Chiba
+state_alpha|~|MSTR_REF|~|CO|~|Colorado|~|Colorado
+state_alpha|~|MSTR_REF|~|CT|~|Connecticut|~|Connecticut
+state_alpha|~|MSTR_REF|~|DC|~|District of Columbia|~|District of Columbia
+state_alpha|~|MSTR_REF|~|DE|~|Delaware|~|Delaware
+state_alpha|~|MSTR_REF|~|DE_BB|~|Brandenburg|~|Brandenburg
+state_alpha|~|MSTR_REF|~|DE_BE|~|Berlin|~|Berlin
+state_alpha|~|MSTR_REF|~|DE_BW|~|Baden-Wuerttemberg|~|Baden-Wuerttemberg
+state_alpha|~|MSTR_REF|~|DE_BY|~|Bavaria|~|Bavaria
+state_alpha|~|MSTR_REF|~|DE_HB|~|Bremen|~|Bremen
+state_alpha|~|MSTR_REF|~|DE_HE|~|Hesse|~|Hesse
+state_alpha|~|MSTR_REF|~|DE_HH|~|Hamburg|~|Hamburg
+state_alpha|~|MSTR_REF|~|DE_MV|~|Mecklenburg-Vorpommern|~|Mecklenburg-Vorpommern
+state_alpha|~|MSTR_REF|~|DE_NI|~|Lower Saxony|~|Lower Saxony
+state_alpha|~|MSTR_REF|~|DE_NW|~|North Rhine-Westphalia|~|North Rhine-Westphalia
+state_alpha|~|MSTR_REF|~|DE_RP|~|Rhineland-Palatinate|~|Rhineland-Palatinate
+state_alpha|~|MSTR_REF|~|DE_SH|~|Schleswig-Holstein|~|Schleswig-Holstein
+state_alpha|~|MSTR_REF|~|DE_SL|~|Saarland|~|Saarland
+state_alpha|~|MSTR_REF|~|DE_SN|~|Saxony|~|Saxony
+state_alpha|~|MSTR_REF|~|DE_ST|~|Saxony-Anhalt|~|Saxony-Anhalt
+state_alpha|~|MSTR_REF|~|DE_TH|~|Thuringia|~|Thuringia
+state_alpha|~|MSTR_REF|~|Ehime|~|Ehime|~|Ehime
+state_alpha|~|MSTR_REF|~|FL|~|Florida|~|Florida
+state_alpha|~|MSTR_REF|~|FM|~|Federated States of Micronesia|~|Federated States of Micronesia
+state_alpha|~|MSTR_REF|~|FR|~|France|~|France
+state_alpha|~|MSTR_REF|~|Fukui|~|Fukui|~|Fukui
+state_alpha|~|MSTR_REF|~|Fukuoka|~|Fukuoka|~|Fukuoka
+state_alpha|~|MSTR_REF|~|Fukushima|~|Fukushima|~|Fukushima
+state_alpha|~|MSTR_REF|~|GA|~|Georgia|~|Georgia
+state_alpha|~|MSTR_REF|~|GB|~|United Kingdom|~|United Kingdom
+state_alpha|~|MSTR_REF|~|Gifu|~|Gifu|~|Gifu
+state_alpha|~|MSTR_REF|~|GU|~|Guam|~|Guam
+state_alpha|~|MSTR_REF|~|Gumma|~|Gumma|~|Gumma
+state_alpha|~|MSTR_REF|~|HI|~|Hawaii|~|Hawaii
+state_alpha|~|MSTR_REF|~|Hiroshima|~|Hiroshima|~|Hiroshima
+state_alpha|~|MSTR_REF|~|Hokkaido|~|Hokkaido|~|Hokkaido
+state_alpha|~|MSTR_REF|~|Hyogo|~|Hyogo|~|Hyogo
+state_alpha|~|MSTR_REF|~|IA|~|Iowa|~|Iowa
+state_alpha|~|MSTR_REF|~|Ibaraki|~|Ibaraki|~|Ibaraki
+state_alpha|~|MSTR_REF|~|ID|~|Idaho|~|Idaho
+state_alpha|~|MSTR_REF|~|IL|~|Illinois|~|Illinois
+state_alpha|~|MSTR_REF|~|IN|~|Indiana|~|Indiana
+state_alpha|~|MSTR_REF|~|Ishikawa|~|Ishikawa|~|Ishikawa
+state_alpha|~|MSTR_REF|~|Iwate|~|Iwate|~|Iwate
+state_alpha|~|MSTR_REF|~|JP|~|Japan|~|Japan
+state_alpha|~|MSTR_REF|~|Kagawa|~|Kagawa|~|Kagawa
+state_alpha|~|MSTR_REF|~|Kagoshima|~|Kagoshima|~|Kagoshima
+state_alpha|~|MSTR_REF|~|Kanagawa|~|Kanagawa|~|Kanagawa
+state_alpha|~|MSTR_REF|~|Kochi|~|Kochi|~|Kochi
+state_alpha|~|MSTR_REF|~|KS|~|Kansas|~|Kansas
+state_alpha|~|MSTR_REF|~|Kumamoto|~|Kumamoto|~|Kumamoto
+state_alpha|~|MSTR_REF|~|KY|~|Kentucky|~|Kentucky
+state_alpha|~|MSTR_REF|~|Kyoto|~|Kyoto|~|Kyoto
+state_alpha|~|MSTR_REF|~|LA|~|Louisiana|~|Louisiana
+state_alpha|~|MSTR_REF|~|MA|~|Massachusetts|~|Massachusetts
+state_alpha|~|MSTR_REF|~|MB|~|Manitoba|~|Manitoba
+state_alpha|~|MSTR_REF|~|MD|~|Maryland|~|Maryland
+state_alpha|~|MSTR_REF|~|ME|~|Maine|~|Maine
+state_alpha|~|MSTR_REF|~|MH|~|Marshall Islands|~|Marshall Islands
+state_alpha|~|MSTR_REF|~|MI|~|Michigan|~|Michigan
+state_alpha|~|MSTR_REF|~|Mie|~|Mie|~|Mie
+state_alpha|~|MSTR_REF|~|Miyagi|~|Miyagi|~|Miyagi
+state_alpha|~|MSTR_REF|~|Miyazaki|~|Miyazaki|~|Miyazaki
+state_alpha|~|MSTR_REF|~|MN|~|Minnesota|~|Minnesota
+state_alpha|~|MSTR_REF|~|MO|~|Missouri|~|Missouri
+state_alpha|~|MSTR_REF|~|MP|~|Northern Mariana Islands|~|Northern Mariana Islands
+state_alpha|~|MSTR_REF|~|MS|~|Mississippi|~|Mississippi
+state_alpha|~|MSTR_REF|~|MT|~|Montana|~|Montana
+state_alpha|~|MSTR_REF|~|Nagano|~|Nagano|~|Nagano
+state_alpha|~|MSTR_REF|~|Nagasaki|~|Nagasaki|~|Nagasaki
+state_alpha|~|MSTR_REF|~|Nara|~|Nara|~|Nara
+state_alpha|~|MSTR_REF|~|NB|~|New Brunswick|~|New Brunswick
+state_alpha|~|MSTR_REF|~|NC|~|North Carolina|~|North Carolina
+state_alpha|~|MSTR_REF|~|ND|~|North Dakota|~|North Dakota
+state_alpha|~|MSTR_REF|~|NE|~|Nebraska|~|Nebraska
+state_alpha|~|MSTR_REF|~|NH|~|New Hampshire|~|New Hampshire
+state_alpha|~|MSTR_REF|~|Niigata|~|Niigata|~|Niigata
+state_alpha|~|MSTR_REF|~|NJ|~|New Jersey|~|New Jersey
+state_alpha|~|MSTR_REF|~|NL|~|Newfoundland and Labrador|~|Newfoundland and Labrador
+state_alpha|~|MSTR_REF|~|NM|~|New Mexico|~|New Mexico
+state_alpha|~|MSTR_REF|~|NS|~|Nova Scotia|~|Nova Scotia
+state_alpha|~|MSTR_REF|~|NT|~|Northwest Territories|~|Northwest Territories
+state_alpha|~|MSTR_REF|~|NU|~|Nunavut|~|Nunavut
+state_alpha|~|MSTR_REF|~|NV|~|Nevada|~|Nevada
+state_alpha|~|MSTR_REF|~|NY|~|New York|~|New York
+state_alpha|~|MSTR_REF|~|OH|~|Ohio|~|Ohio
+state_alpha|~|MSTR_REF|~|Oita|~|Oita|~|Oita
+state_alpha|~|MSTR_REF|~|OK|~|Oklahoma|~|Oklahoma
+state_alpha|~|MSTR_REF|~|Okayama|~|Okayama|~|Okayama
+state_alpha|~|MSTR_REF|~|Okinawa|~|Okinawa|~|Okinawa
+state_alpha|~|MSTR_REF|~|ON|~|Ontario|~|Ontario
+state_alpha|~|MSTR_REF|~|OR|~|Oregon|~|Oregon
+state_alpha|~|MSTR_REF|~|Osaka|~|Osaka|~|Osaka
+state_alpha|~|MSTR_REF|~|PA|~|Pennsylvania|~|Pennsylvania
+state_alpha|~|MSTR_REF|~|PE|~|Prince Edward Island|~|Prince Edward Island
+state_alpha|~|MSTR_REF|~|PR|~|Puerto Rico|~|Puerto Rico
+state_alpha|~|MSTR_REF|~|QC|~|Quebec|~|Quebec
+state_alpha|~|MSTR_REF|~|RI|~|Rhode Island|~|Rhode Island
+state_alpha|~|MSTR_REF|~|Saga|~|Saga|~|Saga
+state_alpha|~|MSTR_REF|~|Saitama|~|Saitama|~|Saitama
+state_alpha|~|MSTR_REF|~|SC|~|South Carolina|~|South Carolina
+state_alpha|~|MSTR_REF|~|SD|~|South Dakota|~|South Dakota
+state_alpha|~|MSTR_REF|~|Shiga|~|Shiga|~|Shiga
+state_alpha|~|MSTR_REF|~|Shimane|~|Shimane|~|Shimane
+state_alpha|~|MSTR_REF|~|Shizuoka|~|Shizuoka|~|Shizuoka
+state_alpha|~|MSTR_REF|~|SK|~|Saskatchewan|~|Saskatchewan
+state_alpha|~|MSTR_REF|~|TN|~|Tennessee|~|Tennessee
+state_alpha|~|MSTR_REF|~|Tochigi|~|Tochigi|~|Tochigi
+state_alpha|~|MSTR_REF|~|Tokushima|~|Tokushima|~|Tokushima
+state_alpha|~|MSTR_REF|~|Tokyo|~|Tokyo|~|Tokyo
+state_alpha|~|MSTR_REF|~|Tottori|~|Tottori|~|Tottori
+state_alpha|~|MSTR_REF|~|Toyama|~|Toyama|~|Toyama
+state_alpha|~|MSTR_REF|~|TX|~|Texas|~|Texas
+state_alpha|~|MSTR_REF|~|UNK|~|Unknown|~|Unknown State
+state_alpha|~|MSTR_REF|~|UT|~|Utah|~|Utah
+state_alpha|~|MSTR_REF|~|VA|~|Virginia|~|Virginia
+state_alpha|~|MSTR_REF|~|VI|~|Virgin Islands|~|Virgin Islands
+state_alpha|~|MSTR_REF|~|VT|~|Vermont|~|Vermont
+state_alpha|~|MSTR_REF|~|WA|~|Washington|~|Washington
+state_alpha|~|MSTR_REF|~|Wakayama|~|Wakayama|~|Wakayama
+state_alpha|~|MSTR_REF|~|WI|~|Wisconsin|~|Wisconsin
+state_alpha|~|MSTR_REF|~|WV|~|West Virginia|~|West Virginia
+state_alpha|~|MSTR_REF|~|WY|~|Wyoming|~|Wyoming
+state_alpha|~|MSTR_REF|~|Yamagata|~|Yamagata|~|Yamagata
+state_alpha|~|MSTR_REF|~|Yamaguchi|~|Yamaguchi|~|Yamaguchi
+state_alpha|~|MSTR_REF|~|Yamanashi|~|Yamanashi|~|Yamanashi
+state_alpha|~|MSTR_REF|~|YT|~|Yukon|~|Yukon
+stories_no_type|~|MSTR_REF|~|1|~|1|~|1 Story
+stories_no_type|~|MSTR_REF|~|2|~|2|~|2 Stories
+stories_no_type|~|MSTR_REF|~|3|~|3|~|3 Stories
+stories_no_type|~|MSTR_REF|~|4|~|4|~|4 Stories
+stories_no_type|~|MSTR_REF|~|5Plus|~|5+|~|5 Stories or more
+stories_no_type|~|MSTR_REF|~|UNK|~|Unknown|~|Unknown Stories Type
+underwriter|~|MSTR_REF|~|LEGACY_UW_CD|~|Legacy UW|~|Legacy Underwriter Name
+underwriter|~|MSTR_REF|~|pc:13|~|ssmith|~|Steve Smith
+underwriter|~|MSTR_REF|~|pc:9|~|bbaker|~|Bruce Baker
+underwriter|~|MSTR_REF|~|PSS_UW_001|~|jdoe|~|John Doe
+underwriter|~|MSTR_REF|~|UNK|~|Unknown|~|Unknown Underwriter
+veh_type|~|MSTR_REF|~|auto|~|Passenger/Light Truck|~|Passenger/Light Truck
+veh_type|~|MSTR_REF|~|Commercial|~|Commercial - Non-passenger Vehicles|~|Commercial - Non-passenger
+veh_type|~|MSTR_REF|~|other|~|Other|~|Other
+veh_type|~|MSTR_REF|~|PP|~|Passenger Vehicles|~|Passenger Vehicles
+veh_type|~|MSTR_REF|~|PublicTransport|~|Livery Vehicles|~|Livery Vehicles
+veh_type|~|MSTR_REF|~|Special|~|Special|~|Special
+veh_type|~|MSTR_REF|~|UNK|~|Unknown|~|Unknown Vehicle Type
+wind_class_type|~|MSTR_REF|~|ord|~|Ordinary Construction|~|Ordinary Construction
+wind_class_type|~|MSTR_REF|~|other|~|Other|~|Other
+wind_class_type|~|MSTR_REF|~|resistive|~|Resitive|~|Resistive
+wind_class_type|~|MSTR_REF|~|semi|~|Semi-Resitive|~|Semi-Resistive
+wind_class_type|~|MSTR_REF|~|superior|~|Superior|~|Superior
+wind_class_type|~|MSTR_REF|~|UNK|~|Unknown|~|Unknown Wind Class Type
+wiring_type|~|MSTR_REF|~|aluminum|~|Aluminum|~|Aluminum Wiring
+wiring_type|~|MSTR_REF|~|copper|~|Copper|~|Copper Wiring
+wiring_type|~|MSTR_REF|~|KnobAndTube|~|Knob & Tube|~|Knob and Tube
+wiring_type|~|MSTR_REF|~|other|~|Other|~|Other
+wiring_type|~|MSTR_REF|~|UNK|~|Unknown|~|Unknown Wiring Type
